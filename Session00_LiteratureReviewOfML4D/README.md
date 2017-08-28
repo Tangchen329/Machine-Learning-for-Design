@@ -9,10 +9,9 @@
 ### Reference List
 
 
+#### :sparkles: John Whalen应用脑科学进行设计   By Nikki McDonald. July 27, 2017
+[John Whalen on using brain science in design](https://www.oreilly.com/ideas/john-whalen-on-using-brain-science-in-design?imm_mid=0f4f22&cmp=em-design-na-na-newsltr_20170801)
 
-:sparkles: [John Whalen on using brain science in design](https://www.oreilly.com/ideas/john-whalen-on-using-brain-science-in-design?imm_mid=0f4f22&cmp=em-design-na-na-newsltr_20170801)
-
-#### John Whalen应用脑科学进行设计   By Nikki McDonald. July 27, 2017
  O’Reilly设计播客：为“六感”设计，像人类一样交流的重要性，以及可预见的AI的未来。
  ![pic1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/1-John%20Whalen%20on%20using%20brain%20science%20in%20design/屏幕快照%202017-08-24%20下午3.12.35.png)DTI brain tractogram lateral view (source: Aaron Filler, MD, Ph.D., on Wikimedia Commons)
 #### 主题：人类经验背后的“六感”／为什么设计师要理解脑科学／以及人们真正需要的是什么？
