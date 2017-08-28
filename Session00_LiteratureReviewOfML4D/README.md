@@ -78,6 +78,13 @@ Google Creative Lab进行了一个互动的网络实验，让人们可以跟一�
 [Webs of Influence: The Psychology of Online Persuasion, 2nd Edition](https://www.safaribooksonline.com/library/view/webs-of-influence/9781292134628/?imm_mid=0f4ac0&cmp=em-design-na-na-newsltr_20170725_test)
 
 [What Machine Learning Will Do For Design](https://medium.com/emergent-future/what-machine-learning-will-do-for-design-42661096f21)
+:sparkles: 机器学习将为设计带来什么   作者：Eve Weinberg 
+这是智能设计团队的ITP计划（ITP是一个为期两年的设在艺术学院的研究生课程：课程使命是探索通信技术的想象力的使用来探索如何提高技术带来的喜悦和如何更好的让艺术融入人们的生活。）：如何利用有才华的设计师来探索和机器学习设计工具的协同功能的预期案例。 智能设计团队由 [《Machine Learning forDesigners》](https://www.oreilly.com/learning/machine-learning-for-designers)的作者[Patrick Hebron](http://www.patrickhebron.com/)和[《Programming Design Systems》](https://programmingdesignsystems.com/)作者[Rune Madsen](https://runemadsen.com/)领头。 Patrick进行关于机器学习的指导和Rune进行关于设计系统的指导，引导着小组的表述和思考过程。
+
+项目的设计挑战：设计一个logo
+
+机器学习不是好的设计的灵丹妙药，也不是工作的破坏者。它仅仅是一种新工具。
+设计人员可以通过这个新的工作流程更舒适，在设计过程中，他们会更多的时间享受认知和创造性的过程，更少的时间待在设计创作的沉闷中。
 
 [Rethinking Design Tools in the Age of Machine Learning](https://medium.com/artists-and-machine-intelligence/rethinking-design-tools-in-the-age-of-machine-learning-369f3f07ab6c)
 
