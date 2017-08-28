@@ -41,12 +41,23 @@
 
 
 [Teaching Machines to Draw](https://research.googleblog.com/2017/04/teaching-machines-to-draw.html)
+#### 教机器画画   Thursday, April 13, 2017  Posted by David Ha, Google Brain Resident
+[Draw Together with a Neural Network](https://magenta.tensorflow.org/sketch-rnn-demo)
+#### 跟神经网络一起画画   Thursday, April 13, 2017  Posted by David Ha, Google Brain Resident
+![p1(]https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html)
+抽象的视觉传达是人们传达彼此想法的关键部分。 从小时候开始，孩子们培养了用少量笔画来描绘物体甚至是情感的能力。 这些简单的绘画可能不像照片所捕获的现实那样，但它们告诉我们一些关于人们如何表现和重建周围世界的图像的方式。
+在我们最近的一篇论文中，“草图的神经表示”“A Neural Representation of Sketch Drawings，我们提出了一个生成递归神经网络（recurrent neural network），能够产生普通物体的草图，目的是训练机器以类似于人类的方式绘制和概括抽象概念。我们在手绘草图的数据集上训练我们的模型，每一个草图代表一系列控制钢笔的动作：哪个方向移动，什么时候提起钢笔，何时停止画画。在这样做的过程中，我们创建了一个潜在的应用模型，从帮助艺术家的创作过程到帮助学生如何绘画。
+
+
+
 
 ### Project List
 
 [Sketch-RNN Demos - Draw together with a neural network](https://aiexperiments.withgoogle.com/sketch-rnn-demo)
 
 [Sketch-RNN Demos](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_vae.html)
+
+[Google Creative Lab](https://experiments.withgoogle.com/ai?tag=TensorFlow)
 
 ### General Design Tools
 
