@@ -57,6 +57,10 @@ Google Creative Lab进行了一个互动的网络实验，让人们可以跟一�
 
 
 [延伸阅读][Google Creative Lab](https://experiments.withgoogle.com/ai?tag=TensorFlow)
+[ai-duet](https://experiments.withgoogle.com/ai/ai-duet/view/)机器学习你如何弹钢琴
+[sound-maker](https://experiments.withgoogle.com/ai/sound-maker/view/)用机器学习的各种乐器声音的混合体来创作音乐（将声音转化为更加抽象的数字表达之后再进行组合)
+[handwriting](https://distill.pub/2016/handwriting/)
+
 ### Project List
 
 [Sketch-RNN Demos - Draw together with a neural network](https://aiexperiments.withgoogle.com/sketch-rnn-demo)
