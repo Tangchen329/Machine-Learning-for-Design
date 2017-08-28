@@ -10,7 +10,7 @@
 
 
 
-[John Whalen on using brain science in design](https://www.oreilly.com/ideas/john-whalen-on-using-brain-science-in-design?imm_mid=0f4f22&cmp=em-design-na-na-newsltr_20170801)
+:sparkles: [John Whalen on using brain science in design](https://www.oreilly.com/ideas/john-whalen-on-using-brain-science-in-design?imm_mid=0f4f22&cmp=em-design-na-na-newsltr_20170801)
 
 #### John Whalen应用脑科学进行设计   By Nikki McDonald. July 27, 2017
  O’Reilly设计播客：为“六感”设计，像人类一样交流的重要性，以及可预见的AI的未来。
@@ -40,11 +40,11 @@
 > 机器可以继续这样做，这只是我们在空间和时间上使用这项功能，但我们并不习惯它预测我们的行为。我们习惯于问一个问题，然后收到答案，而不是让机器预期我可能需要一个答案。
 
 
-[Teaching Machines to Draw](https://research.googleblog.com/2017/04/teaching-machines-to-draw.html)
+:sparkles: [Teaching Machines to Draw](https://research.googleblog.com/2017/04/teaching-machines-to-draw.html)
 #### 教机器画画   Thursday, April 13, 2017  Posted by David Ha, Google Brain Resident
-[Draw Together with a Neural Network](https://magenta.tensorflow.org/sketch-rnn-demo)
+:sparkles: [Draw Together with a Neural Network](https://magenta.tensorflow.org/sketch-rnn-demo)
 #### 跟神经网络一起画画   Thursday, April 13, 2017  Posted by David Ha, Google Brain Resident
-![p1](https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html)
+
 抽象的视觉传达是人们传达彼此想法的关键部分。 从小时候开始，孩子们培养了用少量笔画来描绘物体甚至是情感的能力。 这些简单的绘画可能不像照片所捕获的现实那样，但它们告诉我们一些关于人们如何表现和重建周围世界的图像的方式。
 在我们最近的一篇论文中，“草图的神经表示”“A Neural Representation of Sketch Drawings，我们提出了一个生成递归神经网络（recurrent neural network），能够产生普通物体的草图，目的是训练机器以类似于人类的方式绘制和概括抽象概念。我们在手绘草图的数据集上训练我们的模型，每一个草图代表一系列控制钢笔的动作：哪个方向移动，什么时候提起钢笔，何时停止画画。在这样做的过程中，我们创建了一个潜在的应用模型，从帮助艺术家的创作过程到帮助学生如何绘画。
 
