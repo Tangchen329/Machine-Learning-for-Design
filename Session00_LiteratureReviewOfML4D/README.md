@@ -154,9 +154,9 @@ Google Creative Lab进行了一个互动的网络实验，让人们可以跟一�
 
 ![gif1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/23-what%20happens%20when%20you%20apply%20ml%20to%20logo%20design/3058852-inline-i-1-this-bot-will-generate-millions-of-logos-until-you-find-the-perfect-one-copy.gif)
 ![p1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/23-what%20happens%20when%20you%20apply%20ml%20to%20logo%20design/屏幕快照%202017-08-29%20上午10.51.30.png)
-<font color=gray size=5>系统页面-1</font>
+<font color=#00ffff size=5>系统页面-1</font>
 ![p2](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/23-what%20happens%20when%20you%20apply%20ml%20to%20logo%20design/屏幕快照%202017-08-29%20上午10.52.31.png)
-<font color=gray size=5>系统页面-2</font>
+<font color=#00ffff size=5>系统页面-2</font>
 
 
 [It’s Time for a Design Evolution in Machine Learning - Why the Best is Yet to Come](https://uxdesign.cc/its-time-for-a-design-evolution-in-machine-learning-6bfe7da3dcef)
