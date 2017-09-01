@@ -163,6 +163,7 @@ Autodesk已经在Airbus公司的一个项目上使用这项技术来重新设计
 
 [Applications Of Machine Learning For Designers](https://www.smashingmagazine.com/2017/04/applications-machine-learning-designers/)
 
+
 :sparkles:  将机器学习应用到设计上将会怎样？[What Happens When You Apply Machine Learning To Logo Design](https://www.fastcodesign.com/3058852/what-happens-when-you-apply-machine-learning-to-logo-design)
 
 神经网络的兴起和生成式设计为设计师创造了新的机会。在[Mark Maker](http://emblemmatic.org/markmaker/#/about)（一个自动化生成logo系统）中，输入一个词。 该系统然后使用遗传算法genetic algorithm - 一种模仿自然选择的程序，以产生无止境的连续的标志。 当你喜欢一个标志，你点击一个爱心，它告诉系统生成更多的标志。 通过喜欢足够的标志，概念里Mark Maker可以最终生成一个适合您需求的产品，而无需使用人类设计师。Mark Maker通过将每个设计打破一半来创建其标志，使其包含基本设计和特色元素。
@@ -182,6 +183,7 @@ Autodesk已经在Airbus公司的一个项目上使用这项技术来重新设计
 
 [Why Should Designers And Product Managers Know About Machine Learning?](https://www.forbes.com/sites/quora/2017/04/07/why-should-designers-and-product-managers-know-about-machine-learning/#72cde9e07b28)
 
+
 :sparkles: 将机器学习应用于设计  [Designing with Machine Learning](https://www.wework.com/zh-CN/blog/posts/designing-with-machine-learning)   by Nicole Phelan
 
 将机器学习用于评价建筑布局，这在设计产业上是非常新颖的。使用技术：ANN（Artificial Neural Network）人工神经网络
@@ -191,7 +193,28 @@ Autodesk已经在Airbus公司的一个项目上使用这项技术来重新设计
 
 这项研究最强有力的含义是，在开始建造之前，可以计划一个适合成员需要的空间。使用机器学习揭示人与空间交互的模式是可以做出更好的设计和规划决策的信息。没有什么能够取代架构师的专业知识，机器生成的新指标可以帮助指导设计师，提高他们创作效率。
 
-[Adobe Is Building An AI To Automate Web Design. Should You Worry?](https://www.fastcodesign.com/3068884/adobe-is-building-an-ai-to-automate-web-design-should-you-worry)
+
+:sparkles: Adobe将AI应用于网页自动设计，你感受到危机感了吗？  BY NEAL UNGERLEIDER  [Adobe Is Building An AI To Automate Web Design. Should You Worry?](https://www.fastcodesign.com/3068884/adobe-is-building-an-ai-to-automate-web-design-should-you-worry)
+
+正在尝试将机器学习和人工智能应用到图形和网页设计上，有一个未透露名字的实验项目正在创造工具来自动完成设计师的任务，例如剪裁图片，设计网站页面等。这项研究采用 Adobe’s AI and machine learning program Sensei（http://www.adobe.com/sensei.html#x），融合进Adobe Experience Manager CMS，这项功能大概在Adobe2016年3月的Sneaks（https://blogs.adobe.com/conversations/2016/11/lets-get-experimental-behind-the-adobe-max-sneaks.html）大赛上亮相。虽然Adobe还没有宣称将这项技术融合进任何产品中，但这是将机器学习应用于平面设计的尝试中最有野心的一种。在设计领域里，已经有过将AI引入的案例，例如Wix的 Advance Design Intelligence （https://www.fastcodesign.com/3060934/can-you-teach-ai-to-design-wix-is-trying）和自动化项目 Mark Maker（https://www.fastcodesign.com/3058852/what-happens-when-you-apply-machine-learning-to-logo-design）
+
+# 将机器学习用于网页设计
+该平台的核心目标是更方便地为大型企业客户的用户定制网站。 演示时是用机器学习和AI技术来编辑Food Network的网页。平台不由设计者决定布局，颜色，照片和照片大小，而是自动分析所有的输入，并向用户推荐设计元素。 使用图像识别技术，自动化进行裁剪照片等基本编辑，AI推荐页面设计。 使用客户端数据库中已经存在的照片（以及附加在这些照片上的元数据），AI再次分层到Adobe的CMS中，就可以为设计人员在设计要素和自定义设置上提出建议。
+
+据Adobe Marketing Cloud的产品管理总监Cedric Huesler介绍，该项目旨在提供他所谓的“增强人性化”设计。 AI提供建议，设计人员可以手动覆盖。“问题显然是个性化的规模，”Huesler告诉Co.Design。 “我们可以通过提供不同的输入来重复相同的过程” - 一旦实施，机器学习工具旨在让大型企业用户快速生成定制的内容。 在像食品网络这样的大型企业客户的情况下，Adobe表示，部分自动化使他们能够为客户创造更自定义的网络和移动体验，比其他方式更快速，更经济实惠。
+
+# 基于模式和行为发现观众
+AI旨在使大型项目的设计更容易。 它包括自动裁剪或以其他方式编辑照片的图像识别组件和依赖于文本元数据进行设计决策的更常规组件。Huesler指出，在食品网络示例中，内容可以立即为用户定制。 例如，活动行为表明是乳糖不耐受或不耐麸质的用户将会看到不同的食谱和图像。 机器学习平台实际上不会处理重新绘制界面并进行复杂的UI或UX决策等重大决定。 但是，例如，它可以帮助快速确定将哪些照片和文本内容移植到专为非常小的用户段设计的页面上。
+
+Adobe Marketing Cloud产品高级总监Steve Hammond表示：“每个品牌都想做个性化设计。” “他们希望使内容与个人和观众相关，但是当您扩展您创建内容的受众时，您将面临两个瓶颈：您如何创建内容的变体，以及如何为他们创建图像？”他说，这些瓶颈是机器学习可以帮助解决的问题。机器学习世界的一个旧主题在这里被拾起。 在网页设计和图形设计的情况下，机器学习有助于自动化繁琐乏味的任务。[机器学习完成繁琐]（https://www.fastcodesign.com/3067411/technology-forces-us-to-do-things-were-bad-at-time-to-change-how-design-is-done） 平面设计师绝大多数都不用担心算法很快就会窃取他们的工作，因为机器学习仅是对于了解大数据集和提出建议是非常有用的，但分析诸如品味等主观事物是非常糟糕的。 尽管如此，重要的是要注意，繁琐乏味的任务包含了设计界进行的大部分入门级工作。 可以肯定的是，在未来几年里，机器学习工具将被用于入门级员工现在所做的许多任务。
+
+# ai驱动的设计的未来
+Huesler的概念证明使用Adobe的Sensei平台为公司的产品提供机器学习和AI框架。 Sensei已经在慢慢地在Adobe流行的Creative Cloud平台和其他产品上工作; 例如，在Creative Cloud中，它帮助进行图像识别和编辑面部表情。在我们的谈话中，Hammond对于为解决烦恼的设计问题而举办的Sensei 感到兴奋。 他指出，Adobe公司客户面临的一个重大问题是为客户提供不同平台的统一体验，例如桌面网站，移动网站，智能家居设备，广告，呼叫中心和触摸屏信息亭。 他补充说，自动化设计细节使这些客户更容易。
+
+在Sneaks展出的大约60％的项目进入Adobe产品，作为功能改进或新功能。 无论Huesler的功能还是类似的功能都集成到经验管理器或其他Adobe产品中。该公司正在投入大量资源进行AI和机器学习。该平台在Sneaks比赛中首次亮相就将成为Adobe员工工作的实验项目的一部分。 Sneaks是Adobe内部生态系统中的一个重大事件，该公司每年都会邀请名人（过去几年包括嘉莉·布朗斯坦和托马斯·米德列奇;今年的主持人是凯特·麦金农）。
+
+但是在多大成本的情况下？ 目前，人工智能并不是窃取任何设计师的工作现有的努力，擅长裁剪照片和进行微小的视觉修改，就是这样。 但Adobe的项目是一个非常新的领域中的第一个。 期待更多的未来。
+
 
 [Teaching Machine Learning to Design Students](https://link.springer.com/chapter/10.1007/978-3-540-69736-7_23)
 
