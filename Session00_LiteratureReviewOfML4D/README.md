@@ -247,7 +247,18 @@ MAX的其他公告包括Android版本的所有Adobe的移动应用程序，包�
 
 ❇️[Google AutoDraw uses machine learning to make a designer out of anyone](http://www.androidpolice.com/2017/04/11/google-autodraw-uses-machine-learning-make-designer-anyone/)
 
-❇️[Automation Threatens to Make Graphic Designers Obsolete - So what kind of career should you expect to have in future?](https://eyeondesign.aiga.org/automation-threatens-to-make-graphic-designers-obsolete/)
+❇️ 自动化将淘汰平面设计师？未来该选择什么职业？[Automation Threatens to Make Graphic Designers Obsolete - So what kind of career should you expect to have in future?](https://eyeondesign.aiga.org/automation-threatens-to-make-graphic-designers-obsolete/)  Words by
+Rob Peart
+
+在2013年，一篇研究报告概述了2033年以前由智能机器替代特定职业的概率。“平面设计师”不在名单上，但设计师在“机械师”和“演员”之间。像一个演员，我们的工作需要在特定的范围内有一定的创造力，而且是与人沟通。还有一些技术专长，就像机械师一样。
+
+设计师做的很多事情都是依托规范的。 我们在设定的屏幕尺寸和分辨率下工作，使用按比例计算的网格标准化纸张格式。 我们使用数字序列化和索引的颜色，并可以通过数学计算开发成色系。 我们可以从在线访问的字体创建类型样式的调色板，可以根据历史发展和类型进行分类，并根据基础单位进行布局。 这些部件是模块化和机械的，可以完美实现自动化的。 而且我们目前的工作流程很多都是非常自动化的 - 想想过去几年手动完成的任务，比如排版。
+
+20世纪50年代以来，随着每个技术发展出现大规模的破坏和反应，随之而来的是设计师的角色的演变。严格定义的任务可以通过编码生成的严格定义的程序输出来自动实现。 这些算法已经在设计和创作中被使用了一段时间。
+
+伦敦的[Field](https://www.field.io/)工作室将这种自动化方法应用于高度创造性的领域，其工作将艺术，技术天赋和敏锐的美学结合在一起。 该工作室[为纸张公司GF史密斯的工作](https://www.field.io/project/digital-paintings/)是一个有趣的例子，在一个商业图形设计环境中应用的算法增强过程。 Field通过一种算法创建了一个数字3D结构，从各种角度和优势点渲染了超过10,000个这样的结构图像。 该过程的最后部分是手动编辑程序的输出，确保每个图像都足够令人惊叹，以便商业使用。 真正的设计师/算法协作。
+
+设计师Jon Gold 一直在研究将机器学习技术应用于标准图形设计程序。 机器学习是开发机器智能的一种方法，百度研究首席科学家Andrew Ng和Google Brain项目的创始人（著名的是用于识别一只猫而不是以前被教过猫的软件）定义为“在不需要明确编程的情况下，用科学让计算机学习。“Gold使用这种方法分析字体和排版趋势，并根据计算机学到的内容生成不太可能的类型配对。 他在他的文章[《让机器人进入设计学校》](http://www.jon.gold/2016/05/robot-design-school/)中描述了他的探索。虽然Gold的工作可能看起来很好，并适用于狭窄的AI频谱，但它给了我们一个可以期待的未来工作流的样子。 很容易忘记的是一旦通过掌握特定区域创建了模型，它就可以嵌入并与其他可能已经在非常不同的问题类型的颜色理论或组合上进行了训练的模型相结合。
 
 ❇️[HOW MACHINE LEARNING CAN SPEED UP YOUR DESIGN CYCLE](https://www.maximintegrated.com/en/design/blog/machine-learning-can-speed-up-design-cycle.html)
 
