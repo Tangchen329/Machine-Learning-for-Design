@@ -238,6 +238,8 @@ Adobe在3月份宣布了 Experience Designer（XD），它是一个设计和原�
 Sharma还谈到分析使用数据来推动新功能，尽管没有具体细节。 “因为我们可以看到云中有什么资产，而且由于协作是支持云的，而且我们了解客户所具有的联系，我们了解他们拥有的移动设备，我们可以在新的层面上实现机器学习。”  看来，如果由于任何原因他们不希望Adobe知道他们在做什么，设计师将不得不小心。
 
 Felix项目是Adobe的Creative Cloud 中的一个新的3D设计应用程序，并将在2016年底之前提供测试版。“Sharma说：”我们正在让平面设计师通过组合2D和3D资产来创建逼真的图像和场景。 您的想法是，您可以在Felix项目中构建场景，包括材料，照明和摄像机角度，然后将图像准备好导出到Photoshop进行整理。
+![pic30-1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/30-Bow%20to%20your%20Sensei-Adobe%20adds%20ml%20and%20design%20tool%20to%20Creative%20Cloud/30-1.jpg)
+Adobe's new Project Felix, a 3D design tool
 
 MAX的其他公告包括Android版本的所有Adobe的移动应用程序，包括Photoshop Sketch，Comp和Fix。 Adobe  Stock正在更新以启用投稿人门户，以便许可任何人上传图片。 Creative Cloud 2017还将包括对所有主要应用程序的更新，其功能包括After Effects中的新3D渲染引擎，Premiere Pro中更好的VR（虚拟现实）支持，Character Animator中改进的木偶动画，以及改进的用户界面和 Dreamweaver.®中的编码引擎。
 
