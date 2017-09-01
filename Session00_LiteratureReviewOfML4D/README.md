@@ -221,7 +221,25 @@ Huesler的概念证明使用Adobe的Sensei平台为公司的产品提供机器�
 
 ❇️[Designing the User Experience of Machine Learning Systems](https://mikek-parc.github.io/AAAI-UX-ML/)
 
-❇️[Bow to your Sensei! Adobe adds machine learning and design tool to Creative Cloud](https://www.theregister.co.uk/2016/11/02/adobe_updates_creative_cloud_with_sensei_machine_learning_and_new_3d_design_tool/)
+❇️ 向Sensei鞠躬：Adobe将机器学习和设计工具添加到 Creative Cloud [Bow to your Sensei! Adobe adds machine learning and design tool to Creative Cloud](https://www.theregister.co.uk/2016/11/02/adobe_updates_creative_cloud_with_sensei_machine_learning_and_new_3d_design_tool/) By Tim Anderson 2 Nov 2016 at 14:30
+
+Adobe MAX Adobe在宣布在圣地亚哥进行的MAX活动中宣布了其Creative Cloud产品的一系列更新。
+
+Adobe所谓的Creative Cloud一直是混合产品，像Photoshop，Illustrator，InDesign和Premier Pro这样的大型桌面应用程序构成了其价值的主要部分。 现在，公司正在增加更多的云端功能，重点是协作，存储和机器学习三个方面。在9月的微软Ignite活动中，Adobe宣布微软Azure将是其首选云，但拒绝详细说明细节，还是将应用程序从亚马逊的网络服务中移除。
+
+周三，Adobe宣布推出了“Adobe Cloud Platform内置的一套框架和一套智能化服务”。 尽管宣布了与微软的合作伙伴关系，但是Adobe表示，Sensei并没有在Azure上运行。 然而，根据Creative Cloud VP和GM Mala Sharma的说法，无论有没有微软，Adobe希望成为“具有云能力的移动性”和“跨桌面和移动互换的能力”。
+
+Adobe在3月份宣布了 Experience Designer（XD），它是一个设计和原型设计工具。 更新的测试版在2017年上半年将进行实时协作，以便用户可以在共享文档上同时工作并相互看到变化。 该产品也获得了对图层和符号的支持，这是第一个测试版的一个明显的遗漏。 Adobe也将发布Windows 10版本，显然是一个UWP（通用Windows平台）应用程序，所以没有用于早期版本的Windows用户。
+
+在存储方面，Sharma谈到将设备之间的文件同步延伸到云端存储，所以“您可以通过完全备份在高分辨率下工作”。
+
+最有趣的领域是机器学习。 虽然Creative Cloud长期以来受到机器学习驱动的功能，如内容感知填充Photoshop，Sensei将启用新功能，例如以前在Adobe Stock图像库中进行的视觉搜索。
+
+Sharma还谈到分析使用数据来推动新功能，尽管没有具体细节。 “因为我们可以看到云中有什么资产，而且由于协作是支持云的，而且我们了解客户所具有的联系，我们了解他们拥有的移动设备，我们可以在新的层面上实现机器学习。”  看来，如果由于任何原因他们不希望Adobe知道他们在做什么，设计师将不得不小心。
+
+Felix项目是Adobe的Creative Cloud 中的一个新的3D设计应用程序，并将在2016年底之前提供测试版。“Sharma说：”我们正在让平面设计师通过组合2D和3D资产来创建逼真的图像和场景。 您的想法是，您可以在Felix项目中构建场景，包括材料，照明和摄像机角度，然后将图像准备好导出到Photoshop进行整理。
+
+MAX的其他公告包括Android版本的所有Adobe的移动应用程序，包括Photoshop Sketch，Comp和Fix。 Adobe  Stock正在更新以启用投稿人门户，以便许可任何人上传图片。 Creative Cloud 2017还将包括对所有主要应用程序的更新，其功能包括After Effects中的新3D渲染引擎，Premiere Pro中更好的VR（虚拟现实）支持，Character Animator中改进的木偶动画，以及改进的用户界面和 Dreamweaver.®中的编码引擎。
 
 ❇️[Machine Learning and Design in IntuiFace - How IntuiFace uses machine learning to aid the creation of interactive and connected digital experiences](https://www.intuilab.com/machine-learning)
 
