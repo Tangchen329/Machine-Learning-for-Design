@@ -243,7 +243,43 @@ Adobe's new Project Felix, a 3D design tool
 
 MAX的其他公告包括Android版本的所有Adobe的移动应用程序，包括Photoshop Sketch，Comp和Fix。 Adobe  Stock正在更新以启用投稿人门户，以便许可任何人上传图片。 Creative Cloud 2017还将包括对所有主要应用程序的更新，其功能包括After Effects中的新3D渲染引擎，Premiere Pro中更好的VR（虚拟现实）支持，Character Animator中改进的木偶动画，以及改进的用户界面和 Dreamweaver.®中的编码引擎。
 
-❇️[Machine Learning and Design in IntuiFace - How IntuiFace uses machine learning to aid the creation of interactive and connected digital experiences](https://www.intuilab.com/machine-learning)
+❇️IntuiFace：如何使用机器学习来帮助创建交互式和连接的数字体验  [Machine Learning and Design in IntuiFace - How IntuiFace uses machine learning to aid the creation of interactive and connected digital experiences](https://www.intuilab.com/machine-learning)
+
+三大理念：
+
+1.创作过程的民主化（The democratization of the creation process）
+IntuiFace的一个基本原则是对互动内容的创作同等对待，不仅论在技术和非技术性的层面，对专业和业余设计师都一视同仁。实质上是创作过程的民主化。唯一的先决条件：一种设计理念，一种灵感，一种视觉理念。 
+
+2.基于机器学习的辅助（Machine Learning-based assistance）
+设计过程本身可以通过机器学习算法变得民主化。我们的愿景是提出一个基于人群来源和个人喜好的设计方案系统，使intuiface用户能轻松根据上下文，个人需求和历史调整结果，带来一个好玩又有增强性的，系统的，具有创造力的发现过程。
+
+
+3.通过智能自动化进行简化（Simplification through smart automation）
+人工智能系统可以随着时间的推移了解每个用户的喜好，动态生成建议，编码用户和他人的DNA，同时继续调整，完善和打破传统，以保证设计是时下新鲜并且流行的。通过自动化和预过滤，用户将得到一系列实用的、独特的和个人的自定义选项，而不是在一个主题的一些小变化。
+
+- 对熟练的或新手的设计师来说，好处是什么？
+ > Rob Girling: 在未来的10年里，所有视觉设计工作都将通过算法可视化的方法得到加强。
+ 1.让各种技能基础的用户都能创作出结构完整的，有吸引力的设计作品。
+ 2.大规模扩大实验的能力
+ 3.通过促进学习引导新技能习得
+ 
+ intuiface和机器学习# 1：API消费
+ 现代设计工具应该很方便地能收集外部数据。从天气，货币兑换率，到NASA的照片，博物馆的艺术收藏，推特反馈，Spotify的专辑和专有的内部系统，有大量的有用的内容和服务，位于云-又名Web服务只是等待设计师利用他们的价值。使用真实数据进行设计意味着我们可以更快地解决表面问题和附加约束，最终为用户创造更好的体验。
+一个人的技术能力不重要。它应该像粘贴URL或拖放文件一样简单。不幸的是，这些Web服务（它们的应用程序编程接口或API）所使用的语言需要理解和使用的技术技能。由此产生的“巨大的API墙”只能由软件开发人员控制，给特权少数人带来不公平的优势，限制了可用内容和信息的全部潜力。
+
+intuiface和机器学习# 2：辅助设计
+显示内容的最佳方式是什么？即使是经验丰富的设计师也会在无数选择的压力下挣扎。设计援助将有助于减少噪音和突出适合于数据和个性化的用户的历史偏好的选择，避免“厨房水槽”的方法。
+关键这援助具有避免低水平的特点，一种可调的特性，提供无穷无尽的没有方向，只有无尽的、麻木的主题变化。援助应该呈现可行的“最终”选项，简化采用和避免长学习曲线。
+
+
+我们的目标：
+1.通过探索进行设计
+2.赋能设计者领导工具，而不是反过来。
+3.促进创造性协作，设计师与算法合作，以解决产品任务。
+4.授权设计师制定和打破规则
+
+
+ 
 
 ❇️[Google AutoDraw uses machine learning to make a designer out of anyone](http://www.androidpolice.com/2017/04/11/google-autodraw-uses-machine-learning-make-designer-anyone/)
 
