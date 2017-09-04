@@ -41,7 +41,7 @@
  
 #### ❇️ 教机器画画   Thursday, April 13, 2017  Posted by David Ha, Google Brain Resident  [Teaching Machines to Draw](https://research.googleblog.com/2017/04/teaching-machines-to-draw.html)
 
-#### ❇️跟神经网络一起画画   Thursday, April 13, 2017  Posted by David Ha, Google Brain Resident  [Draw Together with a Neural Network](https://magenta.tensorflow.org/sketch-rnn-demo)
+#### ❇️ 跟神经网络一起画画   Thursday, April 13, 2017  Posted by David Ha, Google Brain Resident  [Draw Together with a Neural Network](https://magenta.tensorflow.org/sketch-rnn-demo)
 
 
 Google Creative Lab进行了一个互动的网络实验，让人们可以跟一个名叫sketch-rnn的神经网络模型一起画画。通过从[Quick，draw!](https://quickdraw.withgoogle.com/data/)收集的数百个涂鸦对这个神经网进行了训练。一旦你开始绘制一个对象，sketch-rnn将提供许多可能的方法来继续绘制这个对象，可以在这里尝试[sketch_rnn_demo](https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html).
@@ -75,9 +75,9 @@ Google Creative Lab进行了一个互动的网络实验，让人们可以跟一�
 
 ### MachineLeaarning-based Design Process & Tools
 
-#### ❇️[Webs of Influence: The Psychology of Online Persuasion, 2nd Edition](https://www.safaribooksonline.com/library/view/webs-of-influence/9781292134628/?imm_mid=0f4ac0&cmp=em-design-na-na-newsltr_20170725_test)
+#### ❇️ [Webs of Influence: The Psychology of Online Persuasion, 2nd Edition](https://www.safaribooksonline.com/library/view/webs-of-influence/9781292134628/?imm_mid=0f4ac0&cmp=em-design-na-na-newsltr_20170725_test)
 
-#### ❇️[What Machine Learning Will Do For Design](https://medium.com/emergent-future/what-machine-learning-will-do-for-design-42661096f21)
+#### ❇️ [What Machine Learning Will Do For Design](https://medium.com/emergent-future/what-machine-learning-will-do-for-design-42661096f21)
 
 #### ❇️ 机器学习将为设计带来什么   作者：Eve Weinberg    [What Machine Learning Will Do For Design](https://medium.com/emergent-future/what-machine-learning-will-do-for-design-42661096f21)
 
@@ -104,7 +104,7 @@ Google Creative Lab进行了一个互动的网络实验，让人们可以跟一�
 [演示视频][Video of ‘99designs.com’ onboarding](https://vimeo.com/185045206)
 [Rethinking Design Tools in the Age of Machine Learning](https://medium.com/artists-and-machine-intelligence/rethinking-design-tools-in-the-age-of-machine-learning-369f3f07ab6c)
 
-[Machine Learning and UX](https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a5)
+#### ❇️ [Machine Learning and UX](https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a5)
 
 #### ❇️ 机器学习：AI和设计的光速发展  [Machine Learning: The Speed-of-Light Evolution of AI and Design]作者：JEFF WALSH  (https://redshift.autodesk.com/machine-learning/)
 计算机游戏先驱Arthur Samuel曾经将“机器学习”定义为“使计算机无需明确编程就能拥有学习的能力”。 Autodesk的CTO杰夫·科瓦尔斯基（Jeff Kowalski）追求创新思想，而不是仅仅是某一时刻的趋势 - 设想了一个对人类和人工智能（AI）来说更积极的结果，并且已经在展开。在这里，他谈到机器学习如何加速机器人，生物设计和物联网的进步，改变了事物的设计和制作方式。（作为Autodesk的首席技术官，Jeff Kowalski负责塑造公司的长期技术愿景，并通过探索大型创意来推动创新。 一个经验丰富的企业家，他赢得了声誉，促进了来自不同来源的技术，商业和创业思想的丰富多样，包括工程师，技术专家，营销人员，政策专家等。 科瓦尔斯基拥有康奈尔大学电气工程学士学位和计算机科学硕士学位。）
@@ -147,7 +147,18 @@ Autodesk已经在Airbus公司的一个项目上使用这项技术来重新设计
 
 #### ❇️[Machine Learning for Designers 解构脑图](https://zhuanlan.zhihu.com/p/27045885)
 
-#### ❇️[5 Steps to Thinking Like a Designer in Machine Learning](http://machinelearningmastery.com/5-steps-to-thinking-like-a-designer-in-machine-learning/)
+#### ❇️ 只需5步，以设计师思维看待机器学习 [5 Steps to Thinking Like a Designer in Machine Learning](http://machinelearningmastery.com/5-steps-to-thinking-like-a-designer-in-machine-learning/)  by Jason Brownlee on March 26, 2014 in Machine Learning Resources
+好的数据科学家不仅是统计学家、领域专家和机器学习黑客，还需要是一名优秀的设计师。设计的第一要义：人。设计师是以人为本的，需要从用户的角度去考虑实际项目。
+#### 第一步：问问自己为谁设计？设计什么？如何设计？为什么用机器学习？
+
+这一点的灵感来源来自[Max Shron](http://www.maxshron.com)————[OkCupid](https://www.okcupid.com)令人尊敬的，具有魅力的前数据科学家。
+#### 第二步：
+#### 第三部：
+#### 第四步：
+#### 第五步：
+
+
+
 
 #### ❇️[A Machine-Learning Framework for Design for Manufacturability](https://arxiv.org/abs/1703.01499)
 
@@ -302,8 +313,9 @@ AutoDraw使用简单的画图程序的界面风格，用户需要做的就是画
 AutoDraw和[QuickDraw](https://quickdraw.withgoogle.com/)使用相同的技术，Google Creative Lab 人工智能实验用神经网络从去年大众画的涂鸦中尝试找到相对应的图案。对于任何机器学习项目，被越多的用户使用的系统会变得更好，现在，学习机制已被纳入到AutoDraw中。
 ![32-1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/32-Google%20autodraw%20uses%20machine%20learning%20to%20make%20a%20designer%20out%20of%20anyone/屏幕快照%202017-09-04%20下午3.46.23.png)
 
-#### ❇️ 自动化将淘汰平面设计师？未来该选择什么职业？[Automation Threatens to Make Graphic Designers Obsolete - So what kind of career should you expect to have in future?](https://eyeondesign.aiga.org/automation-threatens-to-make-graphic-designers-obsolete/)  Words by
-Rob Peart
+![32-2](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/32-Google%20autodraw%20uses%20machine%20learning%20to%20make%20a%20designer%20out%20of%20anyone/屏幕快照%202017-09-04%20下午4.14.11.png)
+
+#### ❇️ 自动化将淘汰平面设计师？未来该选择什么职业？[Automation Threatens to Make Graphic Designers Obsolete - So what kind of career should you expect to have in future?](https://eyeondesign.aiga.org/automation-threatens-to-make-graphic-designers-obsolete/)  Words by Rob Peart
 
 在2013年，一篇研究报告概述了2033年以前由智能机器替代特定职业的概率。“平面设计师”不在名单上，但设计师在“机械师”和“演员”之间。像一个演员，我们的工作需要在特定的范围内有一定的创造力，而且是与人沟通。还有一些技术专长，就像机械师一样。
 
