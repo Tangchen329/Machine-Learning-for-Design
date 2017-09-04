@@ -281,7 +281,7 @@ intuilab创建API Explorer解决这个有关公平的挑战。 API Explorer将We
 #### intuiface设计助理，一个API Explorer的配套功能，是我们实现辅助设计的第一步。
 
 在API Explorer 中，绑定了用户选择的属性的可视化布局是“智能”生成的，这要归功于适应性的机器学习——在有针对性的交互体验中，总体布局可以重新排列，需要结合其他intuiface设计能力来生产现代的、多点触控体验的适用于Windows、iPad、Android、Chrome OS和三星SSP的设备。在运行时，可视化显示始终保持不断更新，通过API不断刷新获取的信息。                在这整个过程中，intuiface用户不用写一行代码，没有额外的成本即获得可用的成千上万的Web服务。
-
+![pic31-1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/31-ml%20and%20design%20in%20intuiface/595f94c41a3a79706d6d7cf6_Design-assistant%202.gif)
 
 该系统的目标：
 
