@@ -293,7 +293,15 @@ intuilab创建API Explorer解决这个有关公平的挑战。 API Explorer将We
 
  
 
-❇️[Google AutoDraw uses machine learning to make a designer out of anyone](http://www.androidpolice.com/2017/04/11/google-autodraw-uses-machine-learning-make-designer-anyone/)
+❇️谷歌AutoDraw 让每个人都是设计师 [Google AutoDraw uses machine learning to make a designer out of anyone]  Scott Scrivens
+(http://www.androidpolice.com/2017/04/11/google-autodraw-uses-machine-learning-make-designer-anyone/)
+
+AutoDraw是Google Creative Lab创造的一款使用机器学习帮助你实现设计需求的工具。如果你需要完成多个生日卡或活动海报的快速设计，AutoDraw可以帮你。
+AutoDraw使用简单的画图程序的界面风格，用户需要做的就是画出任何自己喜欢的基本轮廓，AutoDraw就会猜测用户在画什么，并提供更专业的选择。点击一个AutoDraw建议的图案，系统将自动用来自不同的，有才华的艺术家，设计师和插图画家的作品来替换用户粗糙的草稿。用户可以添加文本，形状，并给自己的杰作填充颜色。一旦完成，用户可以以PNG格式下载自己的作品。
+
+AutoDraw和[QuickDraw](https://quickdraw.withgoogle.com/)使用相同的技术，Google Creative Lab 人工智能实验用神经网络从去年大众画的涂鸦中尝试找到相对应的图案。对于任何机器学习项目，被越多的用户使用的系统会变得更好，现在，学习机制已被纳入到AutoDraw中。
+
+视频介绍：https://youtu.be/VwRbvVrUXTc。
 
 ❇️ 自动化将淘汰平面设计师？未来该选择什么职业？[Automation Threatens to Make Graphic Designers Obsolete - So what kind of career should you expect to have in future?](https://eyeondesign.aiga.org/automation-threatens-to-make-graphic-designers-obsolete/)  Words by
 Rob Peart
