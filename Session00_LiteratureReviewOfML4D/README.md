@@ -106,7 +106,7 @@ Google Creative Lab进行了一个互动的网络实验，让人们可以跟一�
 
 [Machine Learning and UX](https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a5)
 
-❇️ 机器学习：AI和设计的光速发展  [Machine Learning: The Speed-of-Light Evolution of AI and Design]作者：JEFF WALSH  (https://redshift.autodesk.com/machine-learning/)
+#### ❇️ 机器学习：AI和设计的光速发展  [Machine Learning: The Speed-of-Light Evolution of AI and Design]作者：JEFF WALSH  (https://redshift.autodesk.com/machine-learning/)
 计算机游戏先驱Arthur Samuel曾经将“机器学习”定义为“使计算机无需明确编程就能拥有学习的能力”。 Autodesk的CTO杰夫·科瓦尔斯基（Jeff Kowalski）追求创新思想，而不是仅仅是某一时刻的趋势 - 设想了一个对人类和人工智能（AI）来说更积极的结果，并且已经在展开。在这里，他谈到机器学习如何加速机器人，生物设计和物联网的进步，改变了事物的设计和制作方式。（作为Autodesk的首席技术官，Jeff Kowalski负责塑造公司的长期技术愿景，并通过探索大型创意来推动创新。 一个经验丰富的企业家，他赢得了声誉，促进了来自不同来源的技术，商业和创业思想的丰富多样，包括工程师，技术专家，营销人员，政策专家等。 科瓦尔斯基拥有康奈尔大学电气工程学士学位和计算机科学硕士学位。）
 
 AI和机器学习的演变如何？ 六十年前，一位程序员教了一台机器，用tic-tac-toe击败人类。 此后，电脑变得更聪明。 到1997年，在国际象棋比赛中，深蓝击败了卡斯帕罗夫。 令人印象深刻的是无比强大的计算力。2011年，Big Blue的后裔沃森（Watson）利用推理力克对手Jeopardy！。 最近，AlphaGo在Go（世界上最复杂的游戏）中击败了人类最强者，它具有比宇宙中的原子更多的可能的动作。
@@ -131,7 +131,7 @@ Autodesk已经在Airbus公司的一个项目上使用这项技术来重新设计
 
 ### Reference List
 
-❇️[Human-Centered Machine Learning - 7 steps to stay focused on the user when designing with ML](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd?imm_mid=0f4f22&cmp=em-design-na-na-newsltr_20170801)
+#### ❇️[Human-Centered Machine Learning - 7 steps to stay focused on the user when designing with ML](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd?imm_mid=0f4f22&cmp=em-design-na-na-newsltr_20170801)
 
 ### Project List
 
@@ -141,30 +141,30 @@ Autodesk已经在Airbus公司的一个项目上使用这项技术来重新设计
 
 ## Other Topics related to ML and Design
 
-❇️[Machine Learning for Designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp)
+#### ❇️[Machine Learning for Designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp)
 
-❇️[Machine Learning for Designers](http://pan.baidu.com/s/1eSOUudW)
+#### ❇️[Machine Learning for Designers](http://pan.baidu.com/s/1eSOUudW)
 
-❇️[Machine Learning for Designers 解构脑图](https://zhuanlan.zhihu.com/p/27045885)
+#### ❇️[Machine Learning for Designers 解构脑图](https://zhuanlan.zhihu.com/p/27045885)
 
-❇️[5 Steps to Thinking Like a Designer in Machine Learning](http://machinelearningmastery.com/5-steps-to-thinking-like-a-designer-in-machine-learning/)
+#### ❇️[5 Steps to Thinking Like a Designer in Machine Learning](http://machinelearningmastery.com/5-steps-to-thinking-like-a-designer-in-machine-learning/)
 
-❇️[A Machine-Learning Framework for Design for Manufacturability](https://arxiv.org/abs/1703.01499)
+#### ❇️[A Machine-Learning Framework for Design for Manufacturability](https://arxiv.org/abs/1703.01499)
 
-❇️[Any good Product Design case studies that involve Machine Learning?](https://www.designernews.co/stories/75495-any-good-product-design-case-studies-that-involve-machine-learning)
+#### ❇️[Any good Product Design case studies that involve Machine Learning?](https://www.designernews.co/stories/75495-any-good-product-design-case-studies-that-involve-machine-learning)
 
-❇️[How influential is machine learning in the field of product design?](https://www.quora.com/How-influential-is-machine-learning-in-the-field-of-product-design)
+#### ❇️[How influential is machine learning in the field of product design?](https://www.quora.com/How-influential-is-machine-learning-in-the-field-of-product-design)
 
-❇️[What designers need to know about machine learning](https://hackernoon.com/what-designers-need-to-know-about-machine-learning-109a12fdd3af)
+#### ❇️[What designers need to know about machine learning](https://hackernoon.com/what-designers-need-to-know-about-machine-learning-109a12fdd3af)
 
-❇️[Algorithms, Machine Learning, AI and us designers](https://www.meetup.com/IxDA-London/events/232094087/)
+#### ❇️[Algorithms, Machine Learning, AI and us designers](https://www.meetup.com/IxDA-London/events/232094087/)
 
-❇️[Dimensions of Machine Learning in Design](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.32.5541&rep=rep1&type=pdf)
+#### ❇️[Dimensions of Machine Learning in Design](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.32.5541&rep=rep1&type=pdf)
 
-❇️[Applications Of Machine Learning For Designers](https://www.smashingmagazine.com/2017/04/applications-machine-learning-designers/)
+#### ❇️[Applications Of Machine Learning For Designers](https://www.smashingmagazine.com/2017/04/applications-machine-learning-designers/)
 
 
-❇️ 将机器学习应用到设计上将会怎样？[What Happens When You Apply Machine Learning To Logo Design](https://www.fastcodesign.com/3058852/what-happens-when-you-apply-machine-learning-to-logo-design)
+#### ❇️ 将机器学习应用到设计上将会怎样？[What Happens When You Apply Machine Learning To Logo Design](https://www.fastcodesign.com/3058852/what-happens-when-you-apply-machine-learning-to-logo-design)
 
 神经网络的兴起和生成式设计为设计师创造了新的机会。在[Mark Maker](http://emblemmatic.org/markmaker/#/about)（一个自动化生成logo系统）中，输入一个词。 该系统然后使用遗传算法genetic algorithm - 一种模仿自然选择的程序，以产生无止境的连续的标志。 当你喜欢一个标志，你点击一个爱心，它告诉系统生成更多的标志。 通过喜欢足够的标志，概念里Mark Maker可以最终生成一个适合您需求的产品，而无需使用人类设计师。Mark Maker通过将每个设计打破一半来创建其标志，使其包含基本设计和特色元素。
 
@@ -179,12 +179,12 @@ Autodesk已经在Airbus公司的一个项目上使用这项技术来重新设计
 
 
 
-❇️[It’s Time for a Design Evolution in Machine Learning - Why the Best is Yet to Come](https://uxdesign.cc/its-time-for-a-design-evolution-in-machine-learning-6bfe7da3dcef)
+#### ❇️[It’s Time for a Design Evolution in Machine Learning - Why the Best is Yet to Come](https://uxdesign.cc/its-time-for-a-design-evolution-in-machine-learning-6bfe7da3dcef)
 
-❇️[Why Should Designers And Product Managers Know About Machine Learning?](https://www.forbes.com/sites/quora/2017/04/07/why-should-designers-and-product-managers-know-about-machine-learning/#72cde9e07b28)
+#### ❇️[Why Should Designers And Product Managers Know About Machine Learning?](https://www.forbes.com/sites/quora/2017/04/07/why-should-designers-and-product-managers-know-about-machine-learning/#72cde9e07b28)
 
 
-❇️将机器学习应用于设计  [Designing with Machine Learning](https://www.wework.com/zh-CN/blog/posts/designing-with-machine-learning)   by Nicole Phelan
+#### ❇️将机器学习应用于设计  [Designing with Machine Learning](https://www.wework.com/zh-CN/blog/posts/designing-with-machine-learning)   by Nicole Phelan
 
 将机器学习用于评价建筑布局，这在设计产业上是非常新颖的。使用技术：ANN（Artificial Neural Network）人工神经网络
 
@@ -217,11 +217,11 @@ Huesler的概念证明使用Adobe的Sensei平台为公司的产品提供机器�
 但是在多大成本的情况下？ 目前，人工智能并不是窃取任何设计师的工作现有的努力，擅长裁剪照片和进行微小的视觉修改，就是这样。 但Adobe的项目是一个非常新的领域中的第一个。 期待更多的未来。
 
 
-❇️[Teaching Machine Learning to Design Students](https://link.springer.com/chapter/10.1007/978-3-540-69736-7_23)
+#### ❇️[Teaching Machine Learning to Design Students](https://link.springer.com/chapter/10.1007/978-3-540-69736-7_23)
 
-❇️[Designing the User Experience of Machine Learning Systems](https://mikek-parc.github.io/AAAI-UX-ML/)
+#### ❇️[Designing the User Experience of Machine Learning Systems](https://mikek-parc.github.io/AAAI-UX-ML/)
 
-❇️ 向Sensei鞠躬：Adobe将机器学习和设计工具添加到 Creative Cloud [Bow to your Sensei! Adobe adds machine learning and design tool to Creative Cloud](https://www.theregister.co.uk/2016/11/02/adobe_updates_creative_cloud_with_sensei_machine_learning_and_new_3d_design_tool/) By Tim Anderson 2 Nov 2016 at 14:30
+#### ❇️ 向Sensei鞠躬：Adobe将机器学习和设计工具添加到 Creative Cloud [Bow to your Sensei! Adobe adds machine learning and design tool to Creative Cloud](https://www.theregister.co.uk/2016/11/02/adobe_updates_creative_cloud_with_sensei_machine_learning_and_new_3d_design_tool/) By Tim Anderson 2 Nov 2016 at 14:30
 
 Adobe MAX Adobe在宣布在圣地亚哥进行的MAX活动中宣布了其Creative Cloud产品的一系列更新。
 
@@ -243,7 +243,7 @@ Adobe's new Project Felix, a 3D design tool
 
 MAX的其他公告包括Android版本的所有Adobe的移动应用程序，包括Photoshop Sketch，Comp和Fix。 Adobe  Stock正在更新以启用投稿人门户，以便许可任何人上传图片。 Creative Cloud 2017还将包括对所有主要应用程序的更新，其功能包括After Effects中的新3D渲染引擎，Premiere Pro中更好的VR（虚拟现实）支持，Character Animator中改进的木偶动画，以及改进的用户界面和 Dreamweaver.®中的编码引擎。
 
-❇️IntuiFace：如何使用机器学习来帮助创建交互式和连接的数字体验  [Machine Learning and Design in IntuiFace - How IntuiFace uses machine learning to aid the creation of interactive and connected digital experiences](https://www.intuilab.com/machine-learning)
+#### ❇️IntuiFace：如何使用机器学习来帮助创建交互式和连接的数字体验  [Machine Learning and Design in IntuiFace - How IntuiFace uses machine learning to aid the creation of interactive and connected digital experiences](https://www.intuilab.com/machine-learning)
 
 三大理念：
 
@@ -293,7 +293,7 @@ intuilab创建API Explorer解决这个有关公平的挑战。 API Explorer将We
 
  
 
-❇️谷歌AutoDraw 让每个人都是设计师 [Google AutoDraw uses machine learning to make a designer out of anyone]  Scott Scrivens
+#### ❇️谷歌AutoDraw 让每个人都是设计师 [Google AutoDraw uses machine learning to make a designer out of anyone]  Scott Scrivens
 (http://www.androidpolice.com/2017/04/11/google-autodraw-uses-machine-learning-make-designer-anyone/)
 
 AutoDraw是Google Creative Lab创造的一款使用机器学习帮助你实现设计需求的工具。如果你需要完成多个生日卡或活动海报的快速设计，AutoDraw可以帮你。
@@ -302,7 +302,7 @@ AutoDraw使用简单的画图程序的界面风格，用户需要做的就是画
 AutoDraw和[QuickDraw](https://quickdraw.withgoogle.com/)使用相同的技术，Google Creative Lab 人工智能实验用神经网络从去年大众画的涂鸦中尝试找到相对应的图案。对于任何机器学习项目，被越多的用户使用的系统会变得更好，现在，学习机制已被纳入到AutoDraw中。
 ![32-1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/32-Google%20autodraw%20uses%20machine%20learning%20to%20make%20a%20designer%20out%20of%20anyone/屏幕快照%202017-09-04%20下午3.46.23.png)
 
-❇️ 自动化将淘汰平面设计师？未来该选择什么职业？[Automation Threatens to Make Graphic Designers Obsolete - So what kind of career should you expect to have in future?](https://eyeondesign.aiga.org/automation-threatens-to-make-graphic-designers-obsolete/)  Words by
+#### ❇️ 自动化将淘汰平面设计师？未来该选择什么职业？[Automation Threatens to Make Graphic Designers Obsolete - So what kind of career should you expect to have in future?](https://eyeondesign.aiga.org/automation-threatens-to-make-graphic-designers-obsolete/)  Words by
 Rob Peart
 
 在2013年，一篇研究报告概述了2033年以前由智能机器替代特定职业的概率。“平面设计师”不在名单上，但设计师在“机械师”和“演员”之间。像一个演员，我们的工作需要在特定的范围内有一定的创造力，而且是与人沟通。还有一些技术专长，就像机械师一样。
@@ -319,10 +319,10 @@ Rob Peart
 
 “我正在构建将智能算法与设计过程相结合的设计工具; 这种设计工具通过了解设计师在做什么从而让他们更好。 助力设计师而不是取代他们。”
 
-❇️[HOW MACHINE LEARNING CAN SPEED UP YOUR DESIGN CYCLE](https://www.maximintegrated.com/en/design/blog/machine-learning-can-speed-up-design-cycle.html)
+#### ❇️[HOW MACHINE LEARNING CAN SPEED UP YOUR DESIGN CYCLE](https://www.maximintegrated.com/en/design/blog/machine-learning-can-speed-up-design-cycle.html)
 
-❇️[设计与人工智能报告](https://zhuanlan.zhihu.com/p/26610724)
+#### ❇️[设计与人工智能报告](https://zhuanlan.zhihu.com/p/26610724)
 
-❇️[设计与AI的现在Ⅰ：设计了1.7 亿个 banner的阿里鲁班](https://zhuanlan.zhihu.com/p/26563244)
+#### ❇️[设计与AI的现在Ⅰ：设计了1.7 亿个 banner的阿里鲁班](https://zhuanlan.zhihu.com/p/26563244)
 
-❇️[为男人们提供个性化服饰搭配，英国电商 Thread 获 800 万美金 A 轮融资](https://36kr.com/p/5036946.html)
+#### ❇️[为男人们提供个性化服饰搭配，英国电商 Thread 获 800 万美金 A 轮融资](https://36kr.com/p/5036946.html)
