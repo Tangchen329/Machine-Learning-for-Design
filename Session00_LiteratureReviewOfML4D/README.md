@@ -300,10 +300,7 @@ AutoDraw是Google Creative Lab创造的一款使用机器学习帮助你实现�
 AutoDraw使用简单的画图程序的界面风格，用户需要做的就是画出任何自己喜欢的基本轮廓，AutoDraw就会猜测用户在画什么，并提供更专业的选择。点击一个AutoDraw建议的图案，系统将自动用来自不同的，有才华的艺术家，设计师和插图画家的作品来替换用户粗糙的草稿。用户可以添加文本，形状，并给自己的杰作填充颜色。一旦完成，用户可以以PNG格式下载自己的作品。
 
 AutoDraw和[QuickDraw](https://quickdraw.withgoogle.com/)使用相同的技术，Google Creative Lab 人工智能实验用神经网络从去年大众画的涂鸦中尝试找到相对应的图案。对于任何机器学习项目，被越多的用户使用的系统会变得更好，现在，学习机制已被纳入到AutoDraw中。
-![32-1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/32-Google%20autodraw%20uses%20machine%20learning%20to%20make%20a%20designer%20out%20of%20anyone/32-1.png)
-![32-2](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/32-Google%20autodraw%20uses%20machine%20learning%20to%20make%20a%20designer%20out%20of%20anyone/32-2.png)
-![32-3](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/32-Google%20autodraw%20uses%20machine%20learning%20to%20make%20a%20designer%20out%20of%20anyone/32-3.png)
-视频介绍：https://youtu.be/VwRbvVrUXTc。
+![32-1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/32-Google%20autodraw%20uses%20machine%20learning%20to%20make%20a%20designer%20out%20of%20anyone/屏幕快照%202017-09-04%20下午3.46.23.png)
 
 ❇️ 自动化将淘汰平面设计师？未来该选择什么职业？[Automation Threatens to Make Graphic Designers Obsolete - So what kind of career should you expect to have in future?](https://eyeondesign.aiga.org/automation-threatens-to-make-graphic-designers-obsolete/)  Words by
 Rob Peart
