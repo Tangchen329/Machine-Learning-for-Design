@@ -160,7 +160,15 @@ Autodesk已经在Airbus公司的一个项目上使用这项技术来重新设计
 
 机器学习者的目标是为用户提供超人性化的数据处理能力，虽然我们是机器学习方面的专家，我们的利益相关者和客户是真正的领域专家。
 
-#### 第二步：
+#### 第二步：为透明性和理解力而设计
+
+机器学习无疑是一个激动人心的领域，但它也是一项技术性很强的工作，一般人难以掌握。因此，一个机器学习应用程序通常会让终端用户感觉像一个黑盒，而缺乏透明性和理解力将使普通用户很难信任和依赖机器学习算法。幸运的是，当你像一个设计师一样学习一个机器学习项目时，这个挑战是很容易克服的。在设计机器学习应用程序时，花些时间记录和解释所选择的输入、用于清理数据的方法以及驱动应用程序的基本概念。
+
+另外，谨慎选择易于理解的方法，例如决策树和基于规则的方法
+Also, be careful to r easily understood methods like decision trees or rule-based methods. It’s entirely possible that your findings and insights will challenge or outright disprove some long-held beliefs, so it’s important that you make it possible for an end user to understand the process driving these learnings. This way, your users will feel empowered to explain and interpret your machine learning application’s outputs.
+
+
+
 #### 第三部：
 #### 第四步：
 #### 第五步：
