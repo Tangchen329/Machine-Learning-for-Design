@@ -131,7 +131,11 @@ Autodesk已经在Airbus公司的一个项目上使用这项技术来重新设计
 
 ### Reference List
 
-#### ❇️[Human-Centered Machine Learning - 7 steps to stay focused on the user when designing with ML](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd?imm_mid=0f4f22&cmp=em-design-na-na-newsltr_20170801)
+#### ❇️ 以人为中心的机器学习——聚焦用户的7个步骤  [Human-Centered Machine Learning - 7 steps to stay focused on the user when designing with ML](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd?imm_mid=0f4f22&cmp=em-design-na-na-newsltr_20170801)   By Josh Lovejoy and Jess Holbrook
+
+机器学习（ML）是帮助计算机在数据中发现模式和关系而不是手动编程的科学。它是创建个性化和动态体验的强大工具，它已经推动了从Netflix推荐到自动化汽车的一切。但随着越来越多的体验是建立在ML的技术上，很明显，交互设计师仍然有很多东西需要学习，如何让用户感觉在控制技术，而不是被技术所控制。
+
+正如移动革命和网络之前的情况一样，ML将使我们重新思考、重组、替换和考虑我们构建的几乎每一次经验的新可能性。在谷歌的UX社区，我们已经开始努力，以“以人为中心的机器学习”（hcml）来聚焦和引导这场讨论。通过这个镜头，我们透过产品去看机器学习如何在根植于人类需求的同时用只有机器学习才能做到的手段来解决。
 
 ### Project List
 
