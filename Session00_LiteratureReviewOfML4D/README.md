@@ -69,9 +69,7 @@ Google Creative Lab进行了一个互动的网络实验，让人们可以跟一�
 
 #### [Google Creative Lab](https://experiments.withgoogle.com/ai?tag=TensorFlow)
 
-### General Design Tools
 
-#### ❇️ [Most Common UX Design Methods and Techniques](https://research.googleblog.com/2017/04/teaching-machines-to-draw.html)
 
 ### MachineLeaarning-based Design Process & Tools
 
@@ -507,3 +505,23 @@ AutoDraw和[QuickDraw](https://quickdraw.withgoogle.com/)使用相同的技术�
 #### ❇️[设计与AI的现在Ⅰ：设计了1.7 亿个 banner的阿里鲁班](https://zhuanlan.zhihu.com/p/26563244)
 
 #### ❇️[为男人们提供个性化服饰搭配，英国电商 Thread 获 800 万美金 A 轮融资](https://36kr.com/p/5036946.html)
+
+
+
+
+### General Design Tools
+
+#### ❇️ [Most Common UX Design Methods and Techniques](https://uxplanet.org/most-common-ux-design-methods-and-techniques-c9a9fdc25a1e)
+
+介绍UX设计师为用户创造出极好的体验最常用的方法和技术。 对于列表中的每个项目，有一些最佳实践的链接。
+
+#### - Value Proposition 核心价值主张
+![value](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/屏幕快照%202017-09-08%20下午5.45.55.png)
+
+一个考虑成熟的价值主张帮助UX设计师把焦点集中在重要的事情上图片来源：uxmag
+
+描述产品关键方面的声明：它是什么，它为谁设计，以及它将如何使用。价值主张有助于团队围绕产品的内容达成共识。
+
+拓展阅读：[Value_proposition](https://en.wikipedia.org/wiki/Value_proposition)
+[Communicating the UX Value Proposition](http://uxmag.com/articles/communicating-the-ux-value-proposition)
+![Strategyzer’s Value Proposition Canvas Explained](https://youtu.be/ReM1uqmVfP0)
