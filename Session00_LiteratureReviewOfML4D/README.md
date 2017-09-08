@@ -297,7 +297,7 @@ Autodesk已经在Airbus公司的一个项目上使用这项技术来重新设计
 
 
 
-#### ❇️ 是时候进行机器学习中的设计演化了！——为何最好的时代还没到来。[It’s Time for a Design Evolution in Machine Learning - Why the Best is Yet to Come](https://uxdesign.cc/its-time-for-a-design-evolution-in-machine-learning-6bfe7da3dcef)
+#### ❇️ 是时候进行机器学习中的设计演化了！——为何最好的时代还没到来。 [It’s Time for a Design Evolution in Machine Learning - Why the Best is Yet to Come](https://uxdesign.cc/its-time-for-a-design-evolution-in-machine-learning-6bfe7da3dcef). by Florian Oefner
 
 什么是机器学习？
 机器学习本身是人工智能的一个子领域，以简单的方式，计算机能够自主地从数据中学习，从而决定和预测。 最后可能会有不同的表现。 突出案例：Netflix推荐系统或图像扫描方法OCR（光学字符识别）。
