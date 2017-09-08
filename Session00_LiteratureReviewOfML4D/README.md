@@ -297,7 +297,44 @@ Autodesk已经在Airbus公司的一个项目上使用这项技术来重新设计
 
 
 
-#### ❇️[It’s Time for a Design Evolution in Machine Learning - Why the Best is Yet to Come](https://uxdesign.cc/its-time-for-a-design-evolution-in-machine-learning-6bfe7da3dcef)
+#### ❇️ 是时候进行机器学习中的设计演化了！——为何最好的时代还没到来。[It’s Time for a Design Evolution in Machine Learning - Why the Best is Yet to Come](https://uxdesign.cc/its-time-for-a-design-evolution-in-machine-learning-6bfe7da3dcef)
+
+什么是机器学习？
+机器学习本身是人工智能的一个子领域，以简单的方式，计算机能够自主地从数据中学习，从而决定和预测。 最后可能会有不同的表现。 突出案例：Netflix推荐系统或图像扫描方法OCR（光学字符识别）。
+
+#### 机器学习的目前进展
+
+起初我认为，机器学习正和在iPhone出现之前的手机同样的状态。
+何出此言呢？
+如果您比较机器学习和智能手机，您可以在其历史中看到一些让人关注的模式。
+
+1.智能手机背后的技术（例如触摸屏）已经存在了十年，并被用于不同的环境。 这给了苹果完美的基础。机器学习作为一种技术[已被广泛应用于大公司](https://techcrunch.com/2016/03/19/how-real-businesses-are-using-machine-learning/)，自1959年Arthur Samuel首先定义了这个术语，[Gartner2016年新兴技术炒作周期](https://techcrunch.com/2016/03/19/how-real-businesses-are-using-machine-learning/)表示，要达到主流采用需要两到五年时间。
+
+2.在设计演进之前，智能手机的创作主要集中在性能，技术细节和效用上。 目前机器学习中的炒作就是取得令人难以置信的成果，试图取代人类（例如自主车），而不是设计机器学习的一致性，以满足人们的需求和愿望。
+
+3.很少有人看到苹果公司在手机中扰乱日常生活的可能性。 今天很多人不了解机器学习的可能性和可能影响的领域。 大多数人认为它是AI的神秘部分，用于像Siri或GoogleCar这样的机器人系统。 机器学习虽然被广泛应用，但主要应用于研究或商业用途以及Joe Average的产品。
+
+此外，有证据表明，机器学习不仅将由设计进化来推进，而且迫切需要。微软臭名昭着的[Chatbot Tay](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist)或“[人工智能判断的第一届国际美女大赛](http://beauty.ai)”最终成为[种族主义]((https://www.theguardian.com/technology/2016/sep/08/artificial-intelligence-beauty-contest-doesnt-like-black-people))，表明在开发人工智能时必须注重伦理考量。
+
+部分案例是科幻电影
+
+我知道机器学习与智能手机相比，触摸人们的生活不那么明显，而且是一种与实体产品相反的技术。 所以比较这两个似乎是不公平的？但我相信机器学习有可能与智能手机相同程度（或更多）塑造人与机器之间的互动。
+
+#### 什么是设计进化（Design Evolution）？
+设计进化是我自己创造的一个术语，它通过以用户为中心的设计过程的重点来描述产品质量的提高。 衡量设计演变的关键在于以下三个方面：
+- 提高质量：产品应通过设计进行区分，使其对用户更有价值
+- 焦点：技术/技术/材料不应被视为特征或附加物，而是被视为实现最佳解决方案的重要组成部分
+- 以用户为中心：产品应满足真正的用户需求，尊重边界，不应成为实验
+
+应用到机器学习上意味着设计进化将如下所示：
+- 更高品质的施行机器学习不仅涉及技术方面，更多的是伦理方面和融入人们生活中，提供真正的价值
+- 产品和服务使机器学习作为体验的中心组件来解决用户的问题。 这可以通过像预期设计这样的专门方法来完成，也可以提高团队内部的技术意识
+- 以用户为中心的机器学习应用程序，以“用户至上”的方式来设计，使人们真正从技术中受益
+
+
+#### 为什么设计进化仍然缺失？
+
+
 
 #### ❇️[Why Should Designers And Product Managers Know About Machine Learning?](https://www.forbes.com/sites/quora/2017/04/07/why-should-designers-and-product-managers-know-about-machine-learning/#72cde9e07b28)
 
