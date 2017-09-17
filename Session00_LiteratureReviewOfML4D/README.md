@@ -510,7 +510,7 @@ AutoDraw和[QuickDraw](https://quickdraw.withgoogle.com/)使用相同的技术�
 
 ### General Design Tools
 
-#### ❇️ [Most Common UX Design Methods and Techniques](https://uxplanet.org/most-common-ux-design-methods-and-techniques-c9a9fdc25a1e)
+#### ❇️最常见的用户体验设计的方法和技巧 [Most Common UX Design Methods and Techniques](https://uxplanet.org/most-common-ux-design-methods-and-techniques-c9a9fdc25a1e)
 
 介绍UX设计师为用户创造出极好的体验最常用的方法和技术。 对于列表中的每个项目，有一些最佳实践的链接。
 
@@ -528,6 +528,15 @@ AutoDraw和[QuickDraw](https://quickdraw.withgoogle.com/)使用相同的技术�
 
 #### Product Strategy 产品战略
 产品战略是产品生命周期和进一步发展的执行计划的基础。它允许用户体验设计师瞄准特定目标受众,关注产品和消费属性。
+
+![product strategy](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/product%20stratgery.gif)
+![video](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/屏幕快照%202017-09-18%20上午6.20.53.png)
+
+拓展阅读：[XD Essentials: How to Develop a Product Strategy](https://blogs.adobe.com/creativecloud/xd-essentials-how-to-develop-a-product-strategy/)
+
+[What is Good Product Strategy?](https://articles.uie.com/what-is-good-product-strategy/)
+
+[HOW TO DEVELOP A FOCUSED PRODUCT STRATEGY TO BACK UP YOUR UI/UX DECISIONS](https://www.invisionapp.com/blog/how-to-develop-a-product-strategy/)
 
 #### Competitive Audit竞争审计
 
