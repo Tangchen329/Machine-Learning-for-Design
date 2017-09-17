@@ -75,7 +75,6 @@ Google Creative Lab进行了一个互动的网络实验，让人们可以跟一�
 
 #### ❇️ [Webs of Influence: The Psychology of Online Persuasion, 2nd Edition](https://www.safaribooksonline.com/library/view/webs-of-influence/9781292134628/?imm_mid=0f4ac0&cmp=em-design-na-na-newsltr_20170725_test)
 
-#### ❇️ [What Machine Learning Will Do For Design](https://medium.com/emergent-future/what-machine-learning-will-do-for-design-42661096f21)
 
 #### ❇️ 机器学习将为设计带来什么   作者：Eve Weinberg    [What Machine Learning Will Do For Design](https://medium.com/emergent-future/what-machine-learning-will-do-for-design-42661096f21)
 
