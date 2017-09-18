@@ -684,49 +684,82 @@ AutoDraw和[QuickDraw](https://quickdraw.withgoogle.com/)使用相同的技术�
 
 拓展阅读：
 
-[]()
+[Usability Testing: Don’t Guess, Test.](http://www.uxbooth.com/articles/usability-testing-dont-guess-test/)
 
-[]()
+[How to Conduct Usability Testing from Start to Finish](https://uxmastery.com/beginners-guide-to-usability-testing/)
 
-[]()
 
 #### Concept Testing 概念测试
 
 用户体验研究员参与提出产品的一个新概念的价值主张以决定是否符合目标受众的需求。概念测试可以是一对一的，也可以面向大量参与者，可以是面对面的，也可以是在线的。
+
+拓展阅读：
+
+[Testing Content Concepts](https://www.uxmatters.com/mt/archives/2009/12/testing-content-concepts.php)
+
+[5 myths of concept testing: What clients need to know](https://effectiveinc.com/thought-leadership/blogs/5-myths-concept-testing-clients-need-know/)
 
 
 #### A/B Test
 
 A / B测试向不同的用户提供产品的替代版本，并比较结果，以便找出哪一个效果更好。 这是一个优化渠道和着陆页的好方法。
 
+拓展阅读：
+
+[A/B AND SEE: A BEGINNER’S GUIDE TO A/B TESTING](https://www.invisionapp.com/blog/ab-testing-beginners-guide/)
+
+[The Ultimate Guide To A/B Testing](https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/)
+
 
 #### Guerrilla Testing 游击队测试
 
 游击队测试是用户测试中最简单（最便宜）的形式之一。 使用游击测试通常意味着进入咖啡店或另一个公共场所，向有关您的产品或原型的人员询问。 它可以在咖啡馆，图书馆，火车站等的任何地方进行，在任何可以找到相关观众的地方。
+
+拓展阅读：
+
+[The Art of Guerrilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)
+
+[7 Step Guide to Guerrilla Usability Testing: DIY Usability Testing Method](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method)
 
 
 #### Field Studies 田野调研
 
 田野调研是用于观察用户在野外的行为，以便在实际使用产品的情况下衡量行为。这种技术可以包括人种学研究，访谈和观察，加上上下文调查。
 
+拓展阅读：
 
+[Field Studies](https://www.nngroup.com/articles/field-studies/)
+
+[Field Studies Done Right: Fast and Observational](https://www.nngroup.com/articles/field-studies-done-right-fast-and-observational/)
 
 
 #### Eye Movement Tracking 眼动追踪
 
 一种通过界面布局分析用户眼球运动的技术（即网页）。眼动研究提供的数据，让用户在屏幕上的兴趣和他们的阅读流量可优化设计。
 
+拓展阅读：
+
+[Eye Tracking: Best Way to Test Rich App Usability](https://uxmag.com/articles/eye-tracking-the-best-way-to-test-rich-app-usability)
+
+[Eye Tracking: What Is It For And When To Use It](http://usabilitygeek.com/what-is-eye-tracking-when-to-use-it/)
 
 
 #### SWOT Analysis  SWOT分析
 评估影响产品用户体验的优势、劣势、机会和威胁。
 
+拓展阅读：
+
+[Digital SWOT analysis: What is it and why you should care?](https://boagworld.com/digital-strategy/swot-analysis/)
 
 
 
 #### Accessibility Audit 可访问性审查
 衡量是否每个人都可以使用网站的研究，包括有特殊需求的用户。它应该遵循W3C指南，以确保所有用户都满意。
 
+[Accessibility testing](https://www.w3.org/wiki/Accessibility_testing)
 
+[Myth #5: Accessibility is expensive and difficult](http://uxmyths.com/post/654091803/myth-5-accessibility-is-expensive-and-difficult)
+
+[A Complete List Of UX Deliverables](https://uxplanet.org/a-complete-list-of-ux-deliverables-d62ccf1de434)
 
 
