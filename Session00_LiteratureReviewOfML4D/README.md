@@ -101,7 +101,36 @@ Google Creative Lab进行了一个互动的网络实验，让人们可以跟一�
 [演示视频][Video of ‘99designs.com’ onboarding](https://vimeo.com/185045206)
 [Rethinking Design Tools in the Age of Machine Learning](https://medium.com/artists-and-machine-intelligence/rethinking-design-tools-in-the-age-of-machine-learning-369f3f07ab6c)
 
-#### ❇️ [Machine Learning and UX](https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a5)
+#### ❇️ 在机器学习的时代重新思考设计工具 [Rethinking Design Tools in the Age of Machine Learning](https://medium.com/artists-and-machine-intelligence/rethinking-design-tools-in-the-age-of-machine-learning-369f3f07ab6c)
+
+个体的创造边界正在无限拓展。
+
+各种可用的设计工具、平台和设备在不断增长，而它们的成本正在下降。你可以在家里的电脑上甚至是手机上制作一部电影，录制一张专辑，设计一座城市或者打印你自己的花盆。
+
+
+当然，我们都想试试这些令人兴奋的新机会。我们着迷于自由创造的过程。我们像是文艺复兴时期的思想家，思想者、实干家。但仅仅因为这些工具变得更便宜、更容易使用、更容易使用，并不意味着可以更容易地创建一个强大的图像或讲述一个令人信服的故事。原创依然艰难，构建一个审美体验的许多部分和以前一样困难。这些东西还需要专业知识，实践经验。
+
+只有学会使用设计工具和编程语言赋予我们很大的能量，但这种能量只有在我们知道如何使用时才能发挥出来。不仅仅是使用，还需要有独创性的想法。设计工具不应该仅仅是让你感觉自己在创造，而应当是真的让你创造出东西。
+
+#### 设计工具+机器学习
+
+我认为：机器学习可以帮助简化设计工具并且不限制设计是的表现力，没有夺走设计师对创意的控制权。这似乎完全违背直觉。当我们想到机器学习或人工智能时，我们想到自动化。
+在设计上下文中，我们可能会想象这样的事情：
+
+图1 
+
+并反馈这样的图：
+图2
+
+不能回避这样一个事实：产生一个原创的设计需要做出很多决定。决定需要时间。
+
+
+
+
+
+
+
+#### ❇️ 机器学习和交互设计[Machine Learning and UX](https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a5)
 
 #### 对用户而言的机会点
 
