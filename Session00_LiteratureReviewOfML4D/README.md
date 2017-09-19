@@ -120,14 +120,12 @@ Google Creative Lab进行了一个互动的网络实验，让人们可以跟一�
 图1 
 
 并反馈这样的图：
+
 图2
 
 不能回避这样一个事实：产生一个原创的设计需要做出很多决定。决定需要时间。
 
-
-
-
-
+结果是设计呈现出两种极端发展趋势：
 
 
 #### ❇️ 机器学习和交互设计[Machine Learning and UX](https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a5)
