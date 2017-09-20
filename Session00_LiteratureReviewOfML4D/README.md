@@ -537,9 +537,19 @@ Autodesk已经在Airbus公司的一个项目上使用这项技术来重新设计
 
 #### ❇️[A Machine-Learning Framework for Design for Manufacturability](https://arxiv.org/abs/1703.01499)
 
-#### ❇️[Any good Product Design case studies that involve Machine Learning?](https://www.designernews.co/stories/75495-any-good-product-design-case-studies-that-involve-machine-learning)
+#### ❇️ 关于机器学习的好的产品设计案例有哪些？ [Any good Product Design case studies that involve Machine Learning?](https://www.designernews.co/stories/75495-any-good-product-design-case-studies-that-involve-machine-learning)
 
-#### ❇️[How influential is machine learning in the field of product design?](https://www.quora.com/How-influential-is-machine-learning-in-the-field-of-product-design)
+
+
+#### ❇️ 机器学习在产品设计领域有多大影响力？ [How influential is machine learning in the field of product design?](https://www.quora.com/How-influential-is-machine-learning-in-the-field-of-product-design)
+
+Ben Blumenfeld, former Designer at Facebook (2007-2012)回答：
+
+
+
+
+
+
 
 #### ❇️[What designers need to know about machine learning](https://hackernoon.com/what-designers-need-to-know-about-machine-learning-109a12fdd3af)
 
