@@ -559,7 +559,7 @@ Ben Blumenfeld, former Designer at Facebook (2007-2012)回答：
 
 我们习惯于在大多数计算机系统中工作的是布尔逻辑。也就是说，我们软件中的每个表达式最终都可以被描述为“true”或“false”。这允许一个程序被构建成一系列具体的步骤，比如“选择你自己的冒险”书，这样我们就可以构建和测试它，并且根据我们建立的规则，我们将永远知道接下来会发生什么。
 
-图
+![图](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/19-what%20designers%20need%20to%20know%20about%20machine%20learning/6.png)
 
 机器学习系统在一组现有数据中寻找模式，以便产生首先创建数据的规则的近似表示。这意味着传统的布尔逻辑程序对于具体的数学方程总是正确的，而机器学习系统通常对更复杂的事物是正确的。
 
