@@ -567,6 +567,9 @@ Ben Blumenfeld, former Designer at Facebook (2007-2012)回答：
 
 思考识别人脸的过程。 事实上，你已经做了数百万次  但是，你很难表达你要采取的步骤。在任何角度，任何地方都可以看到无数个照明条件下的，有很大的变化的脸部。 面孔的比例取决于我们所处的地位。 程序将使用的一组规则变得非常复杂，使用true / false逻辑将无法描述。
 
+
+![图](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/19-what%20designers%20need%20to%20know%20about%20machine%20learning/5.jpg)
+
 #### 机器学习如何“认为” - 演绎vs归纳推理
 
 在演绎推理中，我们开始了关于事情为什么发生、发展的假设，收集观测数据并使用它来测试我们的假设，然后证明或否定我们原来的理论。在归纳推理中，我们从一组观察/数据开始，然后在这个数据中寻找模式。然后，我们用这个来描述试探性的假设，然后尝试产生一个包括我们最初的观察/数据的一般理论。
@@ -574,6 +577,9 @@ Ben Blumenfeld, former Designer at Facebook (2007-2012)回答：
 - 机器学习系统可以被认为是自动化或辅助归纳推理过程的方法。
 
 归纳推理问题的难度取决于所涉及的相关属性和不相关属性的数量，以及属性的细微程度或相互依赖性。识别人脸的问题包括大量相关的属性和大量的噪声。机器学习系统能够使从大量信息中综合一般知识的过程自动化。
+
+
+![图](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/19-what%20designers%20need%20to%20know%20about%20machine%20learning/4.jpg)
 
 #### 使用复杂的信息和新的输入类型
 
@@ -583,6 +589,8 @@ Ben Blumenfeld, former Designer at Facebook (2007-2012)回答：
 
 通过推荐系统可以基于用户品味相似之处建议音乐或电影的方式中，可以根据用户已经演示的现有行为，使用大型用户群体检测模式的能力来向用户建议相关功能。 而且随着学习系统在日常使用的产品中越来越普遍，用户行为也将随着系统适应用户行为的同时开始适应这些系统。
 
+
+![图](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/19-what%20designers%20need%20to%20know%20about%20machine%20learning/3.png)
 
 #### 机器学习的类型
 
@@ -595,6 +603,9 @@ Ben Blumenfeld, former Designer at Facebook (2007-2012)回答：
 #### 用在哪里？
 
 机器学习已经在许多行业中被使用，但在许多情况下，这些技术才刚刚开始被使用。
+
+
+![图](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/19-what%20designers%20need%20to%20know%20about%20machine%20learning/2.png)
 
 > [许多组织专注于数据科学家的需求，假设他们的存在将能够进行分析转换。 而另一个同样重要的角色就是业务翻译人员作为分析人才与实际应用与业务问题之间的联系。 除了掌握数据之外，商务翻译人员还需要具有深厚的组织知识和行业或职能专长。 这使他们能够向数据科学团队询问正确的问题，并从调查结果中获得正确的见解。](http://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-age-of-analytics-competing-in-a-data-driven-world)
 
