@@ -332,6 +332,8 @@ Google Creative Lab进行了一个互动的网络实验，让人们可以跟一�
 
 迪士尼通过[腕带来为用户提供定制化的服务](https://www.wired.com/2015/03/disney-magicband/)。腕带通过收集大量主题公园游客的信息，再将相关的数据传送给员工，例如你的名字或者桌号，没有任何的物理接触和语言交流，通过设计让公园的参与感更强。
 
+![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/9-machine%20learning%20and%20ux/1.jpg)
+
 主题公园的设计者Dave Cobb，在[西部回顾]()，称这只是第一步。未来可能会生成一个基于长时间记录的系统，，预期设计创造出每个人一个完全不同的体验，尽管事实上，所有的用户都在同一个物理位置。
 
 如果数据存在 - 如果是具体到一个人的地理、社会、历史甚至遗传背景 - 然后机器可以创建一个完全独特的和个人的经验。
@@ -348,6 +350,10 @@ Google Creative Lab进行了一个互动的网络实验，让人们可以跟一�
 设计者往往错误地认为他们不能掌握数据和逻辑驱动的概念，因为“他们的大脑并不是这样”或“他们是创造性的”，但是数据科学家自己常常对复杂和庞大的数据集有着很大的困难。
 他们通过一些方法绕过这个问题。有时他们可以通过寻找数据之间的关系和重构数据来减少变量的数量，有时他们寻找彼此相近的数据簇，然后推断出原因。
 
+![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/9-machine%20learning%20and%20ux/2.png)
+
+聚类，用于分组数据的无监督机器学习过程
+
 在未来我们会看到专门为设计师洞察数据生成的工具，但现在一个好的解决方法就是设计师与团队和公司的数据科学家合作将双方的发现和能力融入设计中。
 
 > 设计师和数据科学家生活在一个意想不到的维恩图中。
@@ -359,6 +365,8 @@ Google Creative Lab进行了一个互动的网络实验，让人们可以跟一�
 很明显，我认为机器学习只会增加未来设计师的工作量，但我们同样可以使用机器学习来帮助我们理解这一切。
 
 基于用户数据提取和提出见解的系统将变得正常和必要，特别是当数据集变得更大细粒度更高时。明智的界面对于我们人类来说是很自然的：对数据集的自然语言查询是我们想看到的，甚至可能以识别语音的机器人（如Jarvis）的形式出现。
+
+![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/9-machine%20learning%20and%20ux/3.jpg)
 
 我希望看到这些机器人是专门设计和推理设计者关心的东西，比如用户反馈的情绪和可用性测试中特定疼痛点的提取。SQL查询和Python脚本的能力有限。
 
