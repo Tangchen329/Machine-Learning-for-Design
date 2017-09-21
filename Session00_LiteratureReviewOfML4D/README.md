@@ -547,6 +547,15 @@ Autodesk已经在Airbus公司的一个项目上使用这项技术来重新设计
 
 #### ❇️ 关于机器学习的好的产品设计案例有哪些？ [Any good Product Design case studies that involve Machine Learning?](https://www.designernews.co/stories/75495-any-good-product-design-case-studies-that-involve-machine-learning)
 
+回答：
+
+[用可视化介绍机器学习](http://www.r2d3.us/%E5%9B%BE%E8%A7%A3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
+
+[Google CEO technical assistant on building AI products](https://vimeo.com/181330432)
+
+[Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+
+[Designing Machine Learning Models](https://medium.com/airbnb-engineering/designing-machine-learning-models-7d0048249e69)
 
 
 #### ❇️ 机器学习在产品设计领域有多大影响力？ [How influential is machine learning in the field of product design?](https://www.quora.com/How-influential-is-machine-learning-in-the-field-of-product-design)
