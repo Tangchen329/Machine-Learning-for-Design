@@ -1001,7 +1001,7 @@ Photoshop是一个具有陡峭学习曲线和大量细粒度控制功能的优�
 正如我详述的机器学习需要设计演变。 现在由我们的设计师，研究人员，产品经理负责，作为UX社区的一部分，将其变成现实。
 
 
-#### ❇️[Why Should Designers And Product Managers Know About Machine Learning?](https://www.forbes.com/sites/quora/2017/04/07/why-should-designers-and-product-managers-know-about-machine-learning/#72cde9e07b28)
+#### ❇️ 为什么设计师和产品经理需要懂一点机器学习 [Why Should Designers And Product Managers Know About Machine Learning?](https://www.forbes.com/sites/quora/2017/04/07/why-should-designers-and-product-managers-know-about-machine-learning/#72cde9e07b28)
 
 一个普通（移动）互联网公司的产品经理，也需要懂机器学习？Quora的产品设计师Abhinav Sharma说，几乎所有设计师都需要对机器学习有一个基本的了解。
 Quora虽然只是个问答网站，但机器学习技术至关重要，个性化订阅邮件、主页信息流、主题推荐、问题推送、垃圾信息过滤等方面，都用了这种技术。
@@ -1019,6 +1019,10 @@ Quora虽然只是个问答网站，但机器学习技术至关重要，个性化
 当某些正常内容被误标为垃圾信息时，你需要考虑的是用户会担心错过信息，或者是不是应该适时提醒他们“查看一下垃圾邮件”。
 当垃圾信息被放过的时候，你需要担心的是如何向用户解释，并给他们提供反馈通道，然后处理这些问题。
 
+![25](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/25-why%20should%20designers%20know%20about%20ml/1.png)
+
+Facebook Messenger User Flow
+
 #### 通知
 
 通知可以大幅提升互动性，对人们的行动提供反馈，但这些系统很难设计。
@@ -1030,9 +1034,15 @@ Quora虽然只是个问答网站，但机器学习技术至关重要，个性化
 通常而言，可以用一套规则集来规定我们需要的行为，来增强机器学习系统。事实上，有很多方式对“规则”进行编码，并融入实际的机器学习系统之中。
 另外，有的产品未解决这类问题走到了极端，用异常复杂的规则集完全取代了机器学习，借此来建造一个他们完全信任的系统。例如，Slack用户就利用这个流程图来判断是否向你发送通知：
 
+![25](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/25-why%20should%20designers%20know%20about%20ml/2.jpg)
+
+
 #### 信息流排序
 
 与Twitter不同，Facebook、Quora和Netflix的的主页信息流并非按照时间顺序排列，而是根据相关性排序。这就引出了我们的第一个回归问题，机器学习算法需要尝试预测你喜欢某条内容的概率。概率在0和1之间，而参考数据则是之前观察的案例所体现出的0和1。
+
+![25](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/25-why%20should%20designers%20know%20about%20ml/3.png)
+Facebook Reactions Template
 
 信息流是先筛选出可能的结果，再对它们进行排序，这可能缓解了你对归类中的假阳性和假阴性问题的担心。但是，你要考虑到影响首页信息流体验好坏的更多因素，包括新鲜度、多样性和用户最希望看到的内容。
 所以负责用户体验的人，通常是产品经理，往往扮演确定目标函数的重要角色，你可以将此视作系统的最大化目标。例如，如果Facebook的最大化目标是你阅读某个帖子的概率，那就会为你展示很有趣，但却有可能过时的内容，或者很多来自同一个人的内容，同时也要考虑其他一些用户体验方面的因素。另外，你必须要从用户那里收集正确的信号，了解他们是否真的喜欢某个内容，于是便有了接下来的……
@@ -1049,13 +1059,20 @@ Quora虽然只是个问答网站，但机器学习技术至关重要，个性化
 
 回归模型还经常被用来定价，而精明的用户想知道为什么是这个价格。比如说，Airbnb就遇到过这个问题，他们的定价模型接近线性回归，可以解释为独特性、供需关系和位置的加权求和，并用简单易懂的图表展示出来：
 
+![25](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/25-why%20should%20designers%20know%20about%20ml/4.jpg)
+
+([From Amber Cartwright's "Invisible Design: Co-designing with machines"](https://medium.com/swlh/invisible-design-co-designing-with-machines-aea62a1e0f6d))
+
 在更复杂的机器学习任务中，模型解释能力依然很重要，但是模型越复杂越精确，解释能力就越差。
 
 #### 搜索
 
-现在，我们来说说Google。
+
 还记得前边提到的信息流排序系统吗？Google可能是第一个涉及复杂UI的主流排序产品。
 Google最开始时不是由机器学习驱动的，但现在是了。
+
+
+![25](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/25-why%20should%20designers%20know%20about%20ml/5.jpg)
 
 搜索引擎需要经过层层考量才会生成最后的搜索界面，这些考量点可能包括——过滤掉成人向和暴力向内容、在复杂目标函数运算下的排序、解释元数据和搜集用户对搜索结果满意度的反馈。
 但是别忘了，一个搜索引擎最关键的着力点还在于识别用户意图。如你所见，当用户搜索电影时，他可能想要的是电影的内容介绍、上映时间、新闻评论、花絮集合或是其他信息。
@@ -1064,6 +1081,10 @@ Google最开始时不是由机器学习驱动的，但现在是了。
 #### 相关内容的呈现
 
 机器学习也被应用于网页相关内容的推荐上，最典型的做法就是把它作为一个回归问题来处理，使用户点击相关链接的可能性最大化。
+
+![25](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/25-why%20should%20designers%20know%20about%20ml/6.jpg)
+
+(相关内容定位比较)
 
 以上图的YouTube为例，在一个关于日本历史的视频之后，它推荐的内容中有一条是《颠覆认知：狼族再起》。这两者之间毫无关系，只是YouTube恰好知道用户可能愿意点击这条视频，可能是因为用户之前浏览过类似内容。
 YouTube试图在确保有的“相关内容”确实相关的同时，呈现你喜欢的内容，并在这两者之间找到一个平衡，甚至还严谨得将“相关视频”更改为“下一条”。
