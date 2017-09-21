@@ -1205,6 +1205,7 @@ AutoDraw和[QuickDraw](https://quickdraw.withgoogle.com/)使用相同的技术�
 
 同时，Thread 在购买评价上也下了功夫，设置了多个具体的选项，比如”我不喜欢领子的设计”、“我不喜欢衣服的面料”。目的是通过这些反馈信息，进一步优化下次的商品推荐结果，让它变得越来越“懂”你。每周，Thread 都会发送一批新的个性化商品促销信息给用户，同时网站的造型师也在线上随时待命、提供一对一的咨询服务。
 
+![thread](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/37--%20Thread/屏幕快照%202017-09-19%20上午12.26.11.png)
 
 ### General Design Tools
 
