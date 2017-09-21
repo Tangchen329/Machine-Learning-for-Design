@@ -1242,6 +1242,7 @@ AutoDraw和[QuickDraw](https://quickdraw.withgoogle.com/)使用相同的技术�
 竞争审计是对竞争对手产品进行综合分析，以比较的方式描绘出它们的现有特征。竞争审计的目标是发现你所在行业中其他公司的工作情况，这样你就可以使这些战略为你工作，从而获得竞争优势。
 
 ![AUDIT](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/屏幕快照%202017-09-18%20上午6.27.26.png)
+Results of the audit for website
 
 拓展阅读：
 
@@ -1257,6 +1258,9 @@ AutoDraw和[QuickDraw](https://quickdraw.withgoogle.com/)使用相同的技术�
 
 ![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/culture.png)
 文化探索使用一系列工具、工件和任务来激发用户以新的方式看待和思考他们的环境。
+
+视频资料:[Cultural Probes - Qualitative Contextual Design Research](https://youtu.be/EJqpUG4pJIE)
+
 
 拓展阅读：
 
@@ -1282,6 +1286,8 @@ AutoDraw和[QuickDraw](https://quickdraw.withgoogle.com/)使用相同的技术�
 
 用户访谈是一种常见的用户研究技术，通常用于从现有用户获取定性信息。用户访谈帮助UX设计师更好地了解他们的用户（用户的情感和意见）。当目标受众是新的或未知的团队时，这种技术尤其有用。
 
+![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/1.png)
+
 通常，研究人员与参与者进行一对一的讨论，深入讨论参与者对所讨论问题的看法。
 
 拓展阅读：
@@ -1295,6 +1301,8 @@ AutoDraw和[QuickDraw](https://quickdraw.withgoogle.com/)使用相同的技术�
 
 开幕会议涵盖了产品目的的高级大纲，谁参与设计和开发产品，如何共同合作，保持最新进展，以及预期成果或成功指标。 开幕会议为您的产品的成功奠定了基础。
 
+开幕会议是与项目团队和项目客户的第一次会议。
+
 拓展阅读：
 
 [Hold A Kickoff Meeting Before Diving Into The Design](https://www.smashingmagazine.com/2015/01/hold-a-kickoff-meeting-before-diving-into-the-design/)
@@ -1305,6 +1313,12 @@ AutoDraw和[QuickDraw](https://quickdraw.withgoogle.com/)使用相同的技术�
 #### Heuristic Evaluation 启发式评价
 
 启发式评价是对产品的详细分析，它突出了现有产品中好的和坏的设计实践。它有助于用户体验设计师在可用性、可访问性可视化产品的现状、经验和效果。
+
+![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/2.png)
+
+视频资料：[How to evaluating the usability of your own website or product](https://youtu.be/3Zp6qzzCqeY)
+
+一个雷达图显示了一个在所有启发式类别中表现良好的网站。
 
 拓展阅读：
 
@@ -1321,6 +1335,10 @@ AutoDraw和[QuickDraw](https://quickdraw.withgoogle.com/)使用相同的技术�
 
 头脑风暴作为一种产生想法和解决问题的方法被团队广泛使用。头脑风暴允许团队在决定要坚持哪一个方案之前，可视化一系列广泛的设计方案。
 
+![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/3.jpg)
+
+头脑风暴是通过密集和自由的小组讨论产生创意和解决方案的过程。
+
 拓展阅读：
 
 [A Framework For Brainstorming Products](https://www.smashingmagazine.com/2016/06/a-framework-for-brainstorming-products/)
@@ -1332,6 +1350,10 @@ AutoDraw和[QuickDraw](https://quickdraw.withgoogle.com/)使用相同的技术�
 #### Task Analysis  任务分析
 
 为完成给定任务所需的操作的研究。当设计人员和开发人员试图理解当前系统及其信息流时，任务分析是有帮助的。它使得在新系统中适当分配任务成为可能。
+
+![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/4.jpg)
+
+任务分析是从用户的角度来布置任务的一个简单有效的过程。
 
 拓展阅读：
 
@@ -1345,6 +1367,8 @@ AutoDraw和[QuickDraw](https://quickdraw.withgoogle.com/)使用相同的技术�
 
 产品路线图是一种具有优先级特性的产品进化计划。它可能是一个电子表格，一张图表，甚至是一堆便签。UX设计师与团队和道路，要实现其愿景的产品策略。
 
+![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/5.png)
+
 拓展阅读：
 
 [UX in Product Roadmaps: How to plan your design activities?](https://uxstudioteam.com/ux-blog/ux-roadmap/)
@@ -1355,6 +1379,10 @@ AutoDraw和[QuickDraw](https://quickdraw.withgoogle.com/)使用相同的技术�
 #### Focus Groups 焦点小组
 
 焦点小组是一个中等强度的讨论，通常涉及5到10个参与者。带领人们讨论问题和关注用户界面的特性。通常持续约2小时，由一名维持该小组重点的版主主持。
+
+![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/6.jpg)
+
+5-10位参与者的小组讨论一系列主题，通过讨论和练习提供口头和书面的反馈。
 
 拓展阅读：
 
@@ -1368,6 +1396,12 @@ AutoDraw和[QuickDraw](https://quickdraw.withgoogle.com/)使用相同的技术�
 #### Card Sorting 卡片分类
 
 卡片分类是用来帮助设计或评估产品信息架构的一种方法。UX设计师要求用户组的内容和功能的开放或封闭的类。结果用来帮助UX设计师决定输入内容的层次结构，组织和流程。
+
+![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/7.jpg)
+
+卡片分类是一种成熟的研究技术，用于发现人们如何理解和分类信息。
+
+视频资料：[Card Sorting](https://www.youtube.com/watch?v=PmioMessMbY)
 
 拓展阅读：
 
@@ -1402,6 +1436,8 @@ AutoDraw和[QuickDraw](https://quickdraw.withgoogle.com/)使用相同的技术�
 
 A / B测试向不同的用户提供产品的替代版本，并比较结果，以便找出哪一个效果更好。 这是一个优化渠道和着陆页的好方法。
 
+![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/8.png)
+
 拓展阅读：
 
 [A/B AND SEE: A BEGINNER’S GUIDE TO A/B TESTING](https://www.invisionapp.com/blog/ab-testing-beginners-guide/)
@@ -1412,6 +1448,8 @@ A / B测试向不同的用户提供产品的替代版本，并比较结果，以
 #### Guerrilla Testing 游击队测试
 
 游击队测试是用户测试中最简单（最便宜）的形式之一。 使用游击测试通常意味着进入咖啡店或另一个公共场所，向有关您的产品或原型的人员询问。 它可以在咖啡馆，图书馆，火车站等的任何地方进行，在任何可以找到相关观众的地方。
+
+视频资料：[Guerilla Testing with Usability Cafe](https://youtu.be/0YL0xoSmyZI)
 
 拓展阅读：
 
@@ -1424,6 +1462,8 @@ A / B测试向不同的用户提供产品的替代版本，并比较结果，以
 
 田野调研是用于观察用户在野外的行为，以便在实际使用产品的情况下衡量行为。这种技术可以包括人种学研究，访谈和观察，加上上下文调查。
 
+![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/9.png)
+
 拓展阅读：
 
 [Field Studies](https://www.nngroup.com/articles/field-studies/)
@@ -1435,6 +1475,8 @@ A / B测试向不同的用户提供产品的替代版本，并比较结果，以
 
 一种通过界面布局分析用户眼球运动的技术（即网页）。眼动研究提供的数据，让用户在屏幕上的兴趣和他们的阅读流量可优化设计。
 
+![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/10.jpg)
+
 拓展阅读：
 
 [Eye Tracking: Best Way to Test Rich App Usability](https://uxmag.com/articles/eye-tracking-the-best-way-to-test-rich-app-usability)
@@ -1445,6 +1487,10 @@ A / B测试向不同的用户提供产品的替代版本，并比较结果，以
 #### SWOT Analysis  SWOT分析
 评估影响产品用户体验的优势、劣势、机会和威胁。
 
+![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/11.png)
+
+UX用于着陆页的SWOT分析。
+
 拓展阅读：
 
 [Digital SWOT analysis: What is it and why you should care?](https://boagworld.com/digital-strategy/swot-analysis/)
@@ -1453,6 +1499,12 @@ A / B测试向不同的用户提供产品的替代版本，并比较结果，以
 
 #### Accessibility Audit 可访问性审查
 衡量是否每个人都可以使用网站的研究，包括有特殊需求的用户。它应该遵循W3C指南，以确保所有用户都满意。
+
+[culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/12.jpg)
+
+在可用性和可访问性方面的最终目标是发现人们如何轻松地使用产品，并将信息反馈到改进未来的设计和实施中。
+
+拓展阅读：
 
 [Accessibility testing](https://www.w3.org/wiki/Accessibility_testing)
 
