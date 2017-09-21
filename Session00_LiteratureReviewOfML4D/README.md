@@ -671,7 +671,7 @@ Ben Blumenfeld, former Designer at Facebook (2007-2012)回答：
 说你想让电脑开车。
 这是一个非常高的抽象层次的学习目标。我们需要进一步下去，把它分解成更小的块。我们需要提出问题，如电脑加速减速，机器能识别红绿灯吗？识别核心问题已经是理解总体任务是否适合机器学习的一个方向。一旦学习的核心问题得到很好的定义，那么可以说今天的ML计算机能否以足够的准确性和适时的时间来解决它。这对于实际使应用程序工作起着至关重要的作用。
 
-图
+![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/22-applications%20of%20machine%20learning%20for%20designers/1.jpg)小型自动巴士（背景）于2016年秋季开始在阿尔托大学埃斯波校区开始运作。路牌警告他们的存在，让人联想起19世纪的第一辆汽车。 
 
 #### 机器对你有什么好处？假设你设法教机器一些技能，产品或服务将如何从中受益？这有六个好处：
 - 增强，
@@ -683,7 +683,7 @@ Ben Blumenfeld, former Designer at Facebook (2007-2012)回答：
 在极少数情况下，机器学习可能使计算机执行人类根据速度要求或数据规模无法执行的任务。但是大多数情况下，ML有助于自动化重复，耗时的任务，从而遏制人力成本或注意力跨度的限制。例如，回收废物24／7可以通过计算机排序来更可靠和经济地完成。
 在某些领域，机器学习可能会提供一种新型的专家系统来增强和帮助人类。这在设计中可能是这样，其中计算机可能会提出与设计师的努力一致的新布局或调色板的建议。 Google幻灯片已经通过[建议的布局功能](https://support.google.com/docs/answer/7130307?co=GENIE.Platform%3DDesktop&hl=en)提供了这种类型的功能。如果车辆可以在人类操作员可能做出反应之前开始制动，使车辆碰撞中解救出来，增强驾驶员，提高交通安全。
 
-图
+![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/22-applications%20of%20machine%20learning%20for%20designers/2.jpg)
 
 Google幻灯片通过Explore功能提供设计帮助。 右窗格显示了由用户最初组成的元素生成的变体。
 
@@ -706,6 +706,10 @@ Google幻灯片通过Explore功能提供设计帮助。 右窗格显示了由用
 
 正如我所看到的，学习算法的能力归结为两个主要的应用：检测和预测。 检测是关于解释现在，预测是关于未来的方式。 有趣的是，机器也可以做生成或“创造性”的任务。 然而，这些仍然是一个边际应用。
 
+![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/22-applications%20of%20machine%20learning%20for%20designers/3.png)
+
+(ML应用程序的三大类及其常见用例)
+
 当您结合检测和预测时，您可以获得令人印象深刻的整体效果。 例如，将交通标志，车辆和行人的检测与车辆和行人运动的预测以及车辆行人过路处的时间相结合，您拥有自动驾驶车辆的功能！
 
 这是我最喜欢的关于机器学习应用的思考方式。 实际上，检测和预测有时候是非常相似的，因为它们还没有切入机器学习的心脏和骨骼（[回顾机器学习的基础知识](https://sc5.io/posts/basics-of-machine-learning/)），但我相信他们提供适当的抽象级别来谈论机器学习应用程序。 我们通过实例来澄清这些功能。
@@ -725,14 +729,19 @@ Google幻灯片通过Explore功能提供设计帮助。 右窗格显示了由用
 
 文本解释使同样强大的应用程序 从文本中感受情感意味着可以自动分析大量文本，揭示社交媒体中的人们对品牌，产品或总统候选人的看法。 例如，谷歌翻译刚刚通过转换为翻译的ML方法而有了重大的质量改进。
 
+![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/22-applications%20of%20machine%20learning%20for%20designers/4.jpg)
+
+(亚马逊Echo Dot是2017年初最畅销的语音识别驱动电器之一。)
+
 ##### 图像和声音解释
 
 计算机视觉给机器隐喻的眼睛。 这个最根本的例子就是从脑部扫描中重建人类感知的计算机！ 不过，这个应用程序与自动标记照片或视频以帮助您浏览Google照片或Facebook的应用程序几乎没有任何关联。 后一种服务意识到面对甚至可怕的准确度。
 
 图像解释在工业质量控制，记录车辆登记牌，分析路边照片，正确的交通标志和监控空闲停车位方面，发现了许多强大的业务应用。 计算机视觉近期在[皮肤癌](http://www.computerworld.com/article/2860758/ibm-detects-skin-cancer-more-quickly-with-visual-machine-learning.html)诊断中的应用实际上已被证明比人类医生更为精通，从而发现了新的诊断标准！
 
-图
+![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/22-applications%20of%20machine%20learning%20for%20designers/5.jpg)
 
+(在我个人的谷歌照片收集中搜索“狗”带来了几个我碰巧遇到的正确的例子，但也有一些误报。然而，我从来没有给一只狗贴过标签，所以如果发现有狗的附加值，噪音是可以接受的。)
 
 语音已经被关注，但其他音频信号也能被电脑很好的检测出来。 Shazam和SoundHound多年来以提供的录音片段或唱歌旋律来可靠地检测歌曲。 弗劳恩霍夫研究所开发了[Silometer](https://play.google.com/store/apps/details?id=de.fraunhofer.idmt.hsa.Silometer&hl=en)，这是一种应用于检测咳嗽作为医学诊断前兆的应用。 如果我们在不久的将来看不到许多人类和非人类的声音的新应用，我会感到非常惊讶。
 
@@ -745,14 +754,17 @@ Google幻灯片通过Explore功能提供设计帮助。 右窗格显示了由用
 
 在交通运输方面，如果我们能够检测到司机何时在方向盘后面睡着，那么这将是一个重要的安全措施，以防止交通事故。身份检测是多个信号发挥的另一个有价值的功能。一个日本研究机构开发了一个汽车座椅，可以[识别谁坐在里面](http://newatlas.com/japanese-car-seat-identification/20947/)。 Google的reCAPTCHA是一个独特的系统，可以将人类从垃圾邮件机器人中解救出来。也许最恶名昭彰的猜测人的健康的案例是目标公司[成功地发现了预期的母亲](http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html)，由于是营销活动，尴尬地透露了目标客户的怀孕情况，导致非常糟糕的宣传。
 
+![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/22-applications%20of%20machine%20learning%20for%20designers/6.png)
 
-图 
+(借助机器学习的微观智能，Google的reCAPTCHA已经简化了Web表单中的垃圾邮件。)
 
 ##### 抗病毒，反垃圾邮件，反恶意软件
 
 机器学习也用于检测和防止欺诈，滥用或危险的内容和方案。 并不一定是重大攻击， 有时它只是阻止不利的检查或防止小罪犯进入[NFL的超级竞技场](https://www.wired.com/2001/02/call-it-super-bowl-face-scan-i/)。 反垃圾邮件是最好的成功; 例如，Google多年来一直在从Gmail收件箱过滤垃圾邮件方面做得很好。我将以正常的人类范围内的一个善意的检测范例得出结论。 也因为机器学习，[鲸鱼可以从他们的声音的水下记录中被可靠地识别]()。 这可以帮助人造钓鱼机械[避免与鲸鱼接触](http://www.meetcortex.com/blog/how-machine-learning-can-save-the-whale/)以保护鲸鱼。
 
-图 
+![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/22-applications%20of%20machine%20learning%20for%20designers/7.jpg)
+
+(如果所有的渔船都配备了机器学习技术来检测他们的信号，座头鲸的生存情况会好转。)
 
 #### 设计模式：建议功能
 
@@ -780,7 +792,9 @@ Google幻灯片通过Explore功能提供设计帮助。 右窗格显示了由用
 
 建议是预测个人行为的特殊情况。预言的范围并不是以微不足道的事情结束，比如你是否喜欢“权力游戏”或“Lady Gaga”。金融机构试图预测谁将违约贷款或尝试再融资。大型人力资源部门可能会预测员工绩效和员工素质。医院可能预测患者的放电或癌症的预后。相对更严重的人类情况，如离婚，早产，甚至在一定时期内死亡，都已被预测成功。当然，当涉及金钱的时候，预测有趣的事情就会变得严重，就像大型娱乐公司试图猜测哪些歌曲和电影将排在榜单上，以指导他们的营销和制作工作。
 
-图
+![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/22-applications%20of%20machine%20learning%20for%20designers/8.png)
+
+(微软ML平台演示器[How Old Do I Look? ](https://how-old.net/)？根据上传的照片或搜索猜测年龄（人类状况）。)
 
 关于预测的重要部分是它们意味着个人评估是可行的。预测越可靠，结果比重越大，预测越有利可图。
 
@@ -797,7 +811,9 @@ Google幻灯片通过Explore功能提供设计帮助。 右窗格显示了由用
 
 机器学习功能与界面的利用可能带来高度个性化的用户体验。 类似于给每个人一个独特的桌面和主屏幕，服务和应用程序也将开始适应人们的喜好。 这种新的个性化程度提供了机会，并强制设计人员倾向于如何创建真正适应于接口的想法，这些接口在很大程度上受机器学习的逻辑控制。 如果你在这方面取得成功，你会给用户带来欣喜的经验和[被理解的感觉](http://www.slideshare.net/UXSTRAT/ux-strat-usa-belmer-negrillo-a-personalization-model-for-adaptive-learning)。
 
-图
+![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/22-applications%20of%20machine%20learning%20for%20designers/9.png)
+
+（Amazon.com的首页已经个性化了很长时间。 提供的选择要么看起来有点相关，要么很有吸引力。）
 
 目前，个性化是策划内容上最重要的应用。 例如，亚马逊仔细考虑首页摆哪些产品将吸引潜在购买者。 不仅如此， 个性化可能会导致UI之间的更大变化 - 例如呈现用户喜欢使用的交互式元素的类型。
 
@@ -823,7 +839,9 @@ Google幻灯片通过Explore功能提供设计帮助。 右窗格显示了由用
 
 典型的应用需要数千个输入数据实例和可能的所需答案。任务越复杂，需要的材料就越多。 AlphaGo在分析了惊人的3000万场游戏之后，学会掌握游戏，然后对自己进行了一些反击。在大多数情况下，这可能是过度的，但它可以让您了解计算机可能需要吞咽的规模 - 从30万到3000万。这是增加计算能力和某些硬件真正使计算机更智能的原因之一，是加快学习真正的大数据。
 
-图 
+![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/22-applications%20of%20machine%20learning%20for%20designers/10.png)
+
+（围棋的复杂性将机器学习能力推向极致。 随机玩或暴力的玩游戏是徒劳的。）
 
 第二个问题是，教材中有模式可以被人类专家认可吗？如果人类可以完成这项任务，那么大概率数据可能会被计算机所接受。
 
@@ -837,7 +855,7 @@ Google幻灯片通过Explore功能提供设计帮助。 右窗格显示了由用
 
 #### 用于创建机器学习应用程序接口的新设计模式
 
-图
+![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/22-applications%20of%20machine%20learning%20for%20designers/11.png)
 
 到目前为止，我已经谈到机器学习的可能性，并就如何找出其可行性给出了一些实用的建议。我还介绍了两种与机器学习密切相关的一般设计模式。但是，这还不够。
 
@@ -845,10 +863,10 @@ Google幻灯片通过Explore功能提供设计帮助。 右窗格显示了由用
 
 这带来了以新方式做事情的机会，以及新设计的要求。对我来说，这意味着我们需要提高几种设计模式的重要性，或者抽象的设计特征，随着服务变得更聪明，这将会变得重要。他们包括：
 
-建议功能，
-个性化，
-捷径与粒度控制，
-优雅的失败
+- 建议功能，
+- 个性化，
+- 捷径与粒度控制，
+- 优雅的失败
 
 我已经将建议的功能和个性化作为检测和预测的一部分，但是什么是粒度和优美的失败？
 
@@ -858,11 +876,15 @@ Photoshop是一个具有陡峭学习曲线和大量细粒度控制功能的优�
 
 当机器学会预测我们正在做的事情会发生什么？例如，在将照片上传到博客之前，我经常在Photoshop中执行某些操作。虽然我可以手动自动化，但是在产品中已经有数千个用户定义的功能，Photoshop可能会学会预测我的意图，并提供更突出的捷径或公路，将我快速转到我的目的地。由于Adobe目前正在努力将AI引入创意云，我们很快就会看到比以前更聪明的东西。您可以让机器找出应用程序中的适当快捷方式。
 
-图
+![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/22-applications%20of%20machine%20learning%20for%20designers/12.jpg)
+
+（在Photoshop CC中可能实现“预测历史”的模型。 该应用程序根据用户的历史记录和先前的操作以及当前的图像，为用户建议一个可能的未来状态。）
 
 类似思路的一个有趣的例证来自Cristopher Hesse的基于机器学习的图像到图像翻译，它提供了由特定的涂鸦填充的有趣的内容。 类似于Photoshop的内容感知填充，它创建了基于最小化用户输入的建筑立面，猫，鞋子和行李，形成了最滑稽的可视化。
 
-图
+![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/22-applications%20of%20machine%20learning%20for%20designers/13.png)
+
+(edge2cats算法使用机器学习完成您的猫涂鸦作为一个照片般逼真的猫怪物。)
 
 #### 设计模式：优雅失败
 
