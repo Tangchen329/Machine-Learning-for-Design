@@ -114,7 +114,59 @@
 *  以人为中心的机器学习——聚焦用户的重要7点  [Human-Centered Machine Learning - 7 steps to stay focused on the user when designing with ML](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd?imm_mid=0f4f22&cmp=em-design-na-na-newsltr_20170801)   By Josh Lovejoy and Jess Holbrook
 *  是时候进行机器学习中的设计演化了！——为何最好的时代还没到来。 [It’s Time for a Design Evolution in Machine Learning - Why the Best is Yet to Come](https://uxdesign.cc/its-time-for-a-design-evolution-in-machine-learning-6bfe7da3dcef). by Florian Oefner
 *  Sensei：Adobe将机器学习和设计工具添加到 Creative Cloud [Bow to your Sensei! Adobe adds machine learning and design tool to Creative Cloud](https://www.theregister.co.uk/2016/11/02/adobe_updates_creative_cloud_with_sensei_machine_learning_and_new_3d_design_tool/) By Tim Anderson 2 Nov 2016 at 14:30
+
+
+
 *  IntuiFace：如何使用机器学习来帮助创建交互式和连接的数字体验  [Machine Learning and Design in IntuiFace - How IntuiFace uses machine learning to aid the creation of interactive and connected digital experiences](https://www.intuilab.com/machine-learning)
+
+     > 三大理念：
+
+     > 1.创作过程的民主化（The democratization of the creation process）
+     > IntuiFace的一个基本原则是对互动内容的创作同等对待，不仅论在技术和非技术性的层面，对专业和业余设计师都一视同仁。实质上是创作过程的民主化。唯一的先决条件：设计理念，灵感，视觉理念。 
+
+     > 2.基于机器学习的辅助（Machine Learning-based assistance）
+     > 设计过程本身可以通过机器学习算法变得民主化。该系统的愿景是提出一个基于人群来源和个人喜好的设计方案系统，使intuiface用户能轻松根据上下文，个人需求和历史调整结果，带来一个好玩又有增强性的，系统的，具有创造力的发现过程。
+
+
+     > 3.通过智能自动化进行简化（Simplification through smart automation）
+     > 人工智能系统可以随着时间的推移了解每个用户的喜好，动态生成建议，编码用户和他人的DNA，同时继续调整，完善和打破传统，以保证设计是时下新鲜并且流行的。通过自动化和预过滤，用户将得到一系列实用的、独特的和个人的自定义选项，而不是在一个主题上的一些小变化。
+
+     > 对熟练的或新手的设计师来说，好处是什么？
+     > Rob Girling: 在未来的10年里，所有视觉设计工作都将通过算法可视化的方法得到加强。
+
+      > 1.让各种技能基础的用户都能创作出结构完整的，有吸引力的设计作品。
+      > 2.大规模扩大实验的能力
+      > 3.通过促进学习引导新技能习得
+ 
+      > intuiface和机器学习# 1：API消费
+ 
+      > 现代设计工具应该很方便地能收集外部数据。从天气，货币兑换率，到NASA的照片，博物馆的艺术收藏，推特反馈，Spotify的专辑和专有的内部系统，在云端有大量有用的内容和服务，-又名Web服务，等待着设计师利用他们的价值。使用真实数据进行设计意味着我们可以更快地解决表面问题和附加约束，最终为用户创造更好的体验。
+ 
+     > 一个人的技术能力不重要。它应该像粘贴URL或拖放文件一样简单。不幸的是，这些Web服务（它们的应用程序编程接口或API）所使用的语言需要技术技能去理解和使用。由此产生的“巨大的API墙”只能由软件开发人员控制，给特权少数人带来不公平的优势，限制了可用内容和信息的全部潜力。
+
+     > intuilab创建API Explorer解决这个有关公平的挑战。 API Explorer将Web服务API的请求URL作为输入，并生成一个非技术的、用户友好的显示，通取代了通常提供的难懂的响应。同时，API Explorer自动预选返回的API特性（云上的内容和服务）认为，最有可能在一个互动的经验是有用的（例如图像、视频、网站、文本等）。
+所有这些都是由API Explorer中的机器学习引擎所推动的，它通过观察世界各地的用户识别他们首选的API属性而变得“更聪明”。
+
+     > intuiface和机器学习# 2：辅助设计
+
+     > 显示内容的最佳方式是什么？即使是经验丰富的设计师也会在无数选择的压力下挣扎。设计辅助将有助于减少噪音和突出适合于数据和个性化的用户的历史偏好的选择，避免又复杂又冗长的方法。这种帮助的关键是具有避免低水平的特点，具有可调节的特性，而不是提供无穷无尽的没有方向，只有无尽的、麻木的主题变化。辅助应该呈现可行的“最终”选项，简化使用并且避免长学习曲线。
+
+     > intuiface设计助理，一个API Explorer的配套功能，是我们实现辅助设计的第一步。
+
+     > 在API Explorer 中，绑定了用户选择的属性的可视化布局是“智能”生成的，这要归功于适应性的机器学习——在有针对性的交互体验中，总体布局可以重新排列，需要结合其他intuiface设计能力来生产现代的、多点触控体验的适用于Windows、iPad、Android、Chrome OS和三星SSP的设备。在运行时，可视化显示始终保持不断更新，通过API不断刷新获取的信息。在这整个过程中，intuiface用户不用写一行代码，没有额外的成本即获得可用的成千上万的Web服务。
+![pic31-1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/31-ml%20and%20design%20in%20intuiface/595f94c41a3a79706d6d7cf6_Design-assistant%202.gif)
+
+     > 该系统的目标：
+
+     > 1. 通过探索进行设计
+     > 2. 赋能设计者领导工具，而不是反过来。
+     > 3. 促进创造性协作，设计师与算法合作，以解决产品任务。
+     > 4. 授权设计师制定和打破规则
+
+
+ 
+
+
 *  自动化将淘汰平面设计师？未来该选择什么职业？[Automation Threatens to Make Graphic Designers Obsolete - So what kind of career should you expect to have in future?](https://eyeondesign.aiga.org/automation-threatens-to-make-graphic-designers-obsolete/) by Rob Peart
 *  机器学习如何加速设计周期 [HOW MACHINE LEARNING CAN SPEED UP YOUR DESIGN CYCLE](https://www.maximintegrated.com/en/design/blog/machine-learning-can-speed-up-design-cycle.html) by Christine Young
 *  [设计与AI的现在Ⅰ：设计了1.7 亿个 banner的阿里鲁班](https://zhuanlan.zhihu.com/p/26563244) 
