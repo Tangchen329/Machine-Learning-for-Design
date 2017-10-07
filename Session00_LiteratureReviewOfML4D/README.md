@@ -187,11 +187,11 @@
 
 ### Reference List
 
-最常见的用户体验设计的方法和技巧 [Most Common UX Design Methods and Techniques](https://uxplanet.org/most-common-ux-design-methods-and-techniques-c9a9fdc25a1e)
+最常见的用户体验设计的方法和技巧 [Most Common UX Design Methods and Techniques](https://uxplanet.org/most-common-ux-design-methods-and-techniques-c9a9fdc25a1e)介绍UX设计师为用户创造出极好的体验最常用的方法和技术。 对于列表中的每个项目，有一些最佳实践的链接。
 
-* 介绍UX设计师为用户创造出极好的体验最常用的方法和技术。 对于列表中的每个项目，有一些最佳实践的链接。
    * Value Proposition 核心价值主张
 ![value](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/屏幕快照%202017-09-08%20下午5.45.55.png)
+
       一个考虑成熟的价值主张帮助UX设计师把焦点集中在重要的事情上图片来源：uxmag
       描述产品关键方面的声明：它是什么，它为谁设计，以及它将如何使用。价值主张有助于团队围绕产品的内容达成共识。
 
@@ -216,8 +216,7 @@
 
       竞争审计是对竞争对手产品进行综合分析，以比较的方式描绘出它们的现有特征。竞争审计的目标是发现你所在行业中其他公司的工作情况，这样你就可以使这些战略为你工作，从而获得竞争优势。
 
-![AUDIT](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/屏幕快照%202017-09-18%20上午6.27.26.png)
-Results of the audit for website
+
      * 拓展阅读：
          * [Competitive Analysis: Understanding the Market Context](http://boxesandarrows.com/competitive-analysis-understanding-the-market-context/)
          * [Conducting a Solid UX Competitive Analysis](http://danforth.co/pages/2014/03/01/conducting-a-solid-ux-competitive-analysis/)
@@ -227,6 +226,7 @@ Results of the audit for website
       文化探索是一种在设计过程中激发灵感的技术。它是收集关于人们生活、价值观和思想数据的一种手段。在极少的干扰的情况下，研究人员可以收集参与者的环境，帮助识别问题陈述，发现新的机会，并启发设计师提出新的想法和新的解决方案。
 ![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/culture.png)
       文化探索使用一系列工具、工件和任务来激发用户以新的方式看待和思考他们的环境。
+      
       视频资料:[Cultural Probes - Qualitative Contextual Design Research](https://youtu.be/EJqpUG4pJIE)
 
 
