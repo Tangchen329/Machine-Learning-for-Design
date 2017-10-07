@@ -190,7 +190,7 @@
 最常见的用户体验设计的方法和技巧 [Most Common UX Design Methods and Techniques](https://uxplanet.org/most-common-ux-design-methods-and-techniques-c9a9fdc25a1e)介绍UX设计师为用户创造出极好的体验最常用的方法和技术。 对于列表中的每个项目，有一些最佳实践的链接。
 
    * Value Proposition 核心价值主张
-![value](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/屏幕快照%202017-09-08%20下午5.45.55.png)
+      ![value](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/屏幕快照%202017-09-08%20下午5.45.55.png)
 
       一个考虑成熟的价值主张帮助UX设计师把焦点集中在重要的事情上图片来源：uxmag
       描述产品关键方面的声明：它是什么，它为谁设计，以及它将如何使用。价值主张有助于团队围绕产品的内容达成共识。
@@ -222,7 +222,7 @@
    * Cultural Probes文化探索
 
       文化探索是一种在设计过程中激发灵感的技术。它是收集关于人们生活、价值观和思想数据的一种手段。在极少的干扰的情况下，研究人员可以收集参与者的环境，帮助识别问题陈述，发现新的机会，并启发设计师提出新的想法和新的解决方案。
-![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/culture.png)
+      ![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/culture.png)
       文化探索使用一系列工具、工件和任务来激发用户以新的方式看待和思考他们的环境。
       
       视频资料:[Cultural Probes - Qualitative Contextual Design Research](https://youtu.be/EJqpUG4pJIE)
@@ -268,8 +268,7 @@
 
       视频资料：[How to evaluating the usability of your own website or product](https://youtu.be/3Zp6qzzCqeY)
 
-
-一个雷达图显示了一个在所有启发式类别中表现良好的网站。
+      一个雷达图显示了一个在所有启发式类别中表现良好的网站。
 
      * 拓展阅读：
          * [What is a Heuristic Evaluation in UX?](https://careerfoundry.com/en/blog/ux-design/what-is-a-heuristic-evaluation-in-ux/)
@@ -306,8 +305,7 @@
    * Product Roadmap 产品路线图
 
       产品路线图是一种具有优先级特性的产品进化计划。它可能是一个电子表格，一张图表，甚至是一堆便签。UX设计师与团队和道路，要实现其愿景的产品策略。
-
-![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/5.png)
+      ![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/5.png)
 
      * 拓展阅读：
          * [UX in Product Roadmaps: How to plan your design activities?](https://uxstudioteam.com/ux-blog/ux-roadmap/)
@@ -317,13 +315,11 @@
    * Focus Groups 焦点小组
 
       焦点小组是一个中等强度的讨论，通常涉及5到10个参与者。带领人们讨论问题和关注用户界面的特性。通常持续约2小时，由一名维持该小组重点的版主主持。
-
-![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/6.jpg)
+      ![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/6.jpg)
 
       5-10位参与者的小组讨论一系列主题，通过讨论和练习提供口头和书面的反馈。
 
      * 拓展阅读：
-
          * [The Use and Misuse of Focus Groups](https://www.nngroup.com/articles/focus-groups/)
          * [How to Conduct Focus Groups](https://www.interaction-design.org/literature/article/how-to-conduct-focus-groups)
          * [Myth #26: Usability testing = focus groups](http://uxmyths.com/post/1319999199/myth-26-usability-testing-focus-groups)
@@ -332,8 +328,6 @@
    * Card Sorting 卡片分类
 
       卡片分类是用来帮助设计或评估产品信息架构的一种方法。UX设计师要求用户组的内容和功能的开放或封闭的类。结果用来帮助UX设计师决定输入内容的层次结构，组织和流程。
-
-      ![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/7.jpg)
 
       卡片分类是一种成熟的研究技术，用于发现人们如何理解和分类信息。
 
@@ -353,7 +347,7 @@
          * [How to Conduct Usability Testing from Start to Finish](https://uxmastery.com/beginners-guide-to-usability-testing/)
          * Concept Testing 概念测试
 
-
+   * Concept Testing 概念测试
 
       用户体验研究员参与提出产品的一个新概念的价值主张以决定是否符合目标受众的需求。概念测试可以是一对一的，也可以面向大量参与者，可以是面对面的，也可以是在线的。
 
@@ -376,8 +370,8 @@
    * Guerrilla Testing 游击队测试
 
       游击队测试是用户测试中最简单（最便宜）的形式之一。 使用游击测试通常意味着进入咖啡店或另一个公共场所，向有关您的产品或原型的人员询问。 它可以在咖啡馆，图书馆，火车站等的任何地方进行，在任何可以找到相关观众的地方。
-
-视频资料：[Guerilla Testing with Usability Cafe](https://youtu.be/0YL0xoSmyZI)
+      
+      视频资料：[Guerilla Testing with Usability Cafe](https://youtu.be/0YL0xoSmyZI)
 
      * 拓展阅读：
          * [The Art of Guerrilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)
@@ -387,7 +381,6 @@
    * Field Studies 田野调研
 
       田野调研是用于观察用户在野外的行为，以便在实际使用产品的情况下衡量行为。这种技术可以包括人种学研究，访谈和观察，加上上下文调查。
-
       ![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/9.png)
 
      * 拓展阅读：
@@ -407,10 +400,9 @@
 
 
    * SWOT Analysis  SWOT分析
+   
       评估影响产品用户体验的优势、劣势、机会和威胁。
-
       ![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/11.png)
-
       UX用于着陆页的SWOT分析。
 
      * 拓展阅读：
@@ -419,6 +411,7 @@
 
 
    * Accessibility Audit 可访问性审查
+   
       衡量是否每个人都可以使用网站的研究，包括有特殊需求的用户。它应该遵循W3C指南，以确保所有用户都满意。
 ![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/12.jpg)
       在可用性和可访问性方面的最终目标是发现人们如何轻松地使用产品，并将信息反馈到改进未来的设计和实施中。
