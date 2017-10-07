@@ -8,15 +8,14 @@
 
 ### Reference List
    * 教机器画画  [Teaching Machines to Draw](https://research.googleblog.com/2017/04/teaching-machines-to-draw.html)  Thursday, April 13, 2017  Posted by David Ha, Google Brain Resident 
-
-    * Project List
-        * 跟神经网络一起画画  [Draw Together with a Neural Network](https://magenta.tensorflow.org/sketch-rnn-demo) Thursday, April 13, 2017  Posted by David Ha, Google Brain Resident  
-        * [Sketch-RNN Demos - Draw together with a neural network](https://aiexperiments.withgoogle.com/sketch-rnn-demo)
-        * [Sketch-RNN Demos](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_vae.html)
-        * [Google Creative Lab](https://experiments.withgoogle.com/ai?tag=TensorFlow) 
+      * Project List
+         * 跟神经网络一起画画  [Draw Together with a Neural Network](https://magenta.tensorflow.org/sketch-rnn-demo) Thursday, April 13, 2017  Posted by David Ha, Google Brain Resident  
+         * [Sketch-RNN Demos - Draw together with a neural network](https://aiexperiments.withgoogle.com/sketch-rnn-demo)
+         * [Sketch-RNN Demos](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_vae.html)
+         * [Google Creative Lab](https://experiments.withgoogle.com/ai?tag=TensorFlow) 
 
         
-    * [延伸阅读] 
+      * [延伸阅读] 
         * [Google Creative Lab](https://experiments.withgoogle.com/ai?tag=TensorFlow)
         * [ai-duet](https://experiments.withgoogle.com/ai/ai-duet/view/)
         * 机器学习你如何弹钢琴[sound-maker](https://experiments.withgoogle.com/ai/sound-maker/view/)用机器学习的各种乐器声音的混合体来创作音乐（将声音转化为更加抽象的数字表达之后再进行组合)
