@@ -128,7 +128,7 @@
 
 *  Sensei：Adobe将机器学习和设计工具添加到 Creative Cloud [Bow to your Sensei! Adobe adds machine learning and design tool to Creative Cloud](https://www.theregister.co.uk/2016/11/02/adobe_updates_creative_cloud_with_sensei_machine_learning_and_new_3d_design_tool/) By Tim Anderson 2 Nov 2016 at 14:30  :page_facing_up:
 
-
+     > 最有趣的领域是机器学习。 虽然Creative Cloud长期以来受到机器学习驱动的功能，如内容感知填充Photoshop，但Sensei将启用新功能，例如以前在Adobe Stock图像库中进行的视觉搜索。Sharma谈到分析使用数据来推动新功能 “因为我们可以看到云中有什么资料，而且由于协作是支持云的，所以我们可以了解客户所具有的联系，了解他们拥有的移动设备，可以在新的层面上实现机器学习。” 
 
 *  IntuiFace：如何使用机器学习来帮助创建交互式和连接的数字体验  [Machine Learning and Design in IntuiFace - How IntuiFace uses machine learning to aid the creation of interactive and connected digital experiences](https://www.intuilab.com/machine-learning)  :page_facing_up:
 
