@@ -7,7 +7,7 @@
 ## Machine Learning Application in Design Process & Tools
 
 ### Reference List
-* 教机器画画  [Teaching Machines to Draw](https://research.googleblog.com/2017/04/teaching-machines-to-draw.html)  Thursday, April 13, 2017  Posted by David Ha, Google Brain Resident 
+   * 教机器画画  [Teaching Machines to Draw](https://research.googleblog.com/2017/04/teaching-machines-to-draw.html)  Thursday, April 13, 2017  Posted by David Ha, Google Brain Resident 
 
     * Project List
         * 跟神经网络一起画画  [Draw Together with a Neural Network](https://magenta.tensorflow.org/sketch-rnn-demo) Thursday, April 13, 2017  Posted by David Ha, Google Brain Resident  
@@ -16,10 +16,10 @@
         * [Google Creative Lab](https://experiments.withgoogle.com/ai?tag=TensorFlow) 
 
         
- * [延伸阅读] [Google Creative Lab](https://experiments.withgoogle.com/ai?tag=TensorFlow)
-     * [ai-duet](https://experiments.withgoogle.com/ai/ai-duet/view/)
-     * 机器学习你如何弹钢琴
-[sound-maker](https://experiments.withgoogle.com/ai/sound-maker/view/)用机器学习的各种乐器声音的混合体来创作音乐（将声音转化为更加抽象的数字表达之后再进行组合)
+    * [延伸阅读] 
+        * [Google Creative Lab](https://experiments.withgoogle.com/ai?tag=TensorFlow)
+        * [ai-duet](https://experiments.withgoogle.com/ai/ai-duet/view/)
+        * 机器学习你如何弹钢琴[sound-maker](https://experiments.withgoogle.com/ai/sound-maker/view/)用机器学习的各种乐器声音的混合体来创作音乐（将声音转化为更加抽象的数字表达之后再进行组合)
         * [handwriting](https://distill.pub/2016/handwriting/)
 *  [Webs of Influence: The Psychology of Online Persuasion, 2nd Edition](https://www.safaribooksonline.com/library/view/webs-of-influence/9781292134628/?imm_mid=0f4ac0&cmp=em-design-na-na-newsltr_20170725_test)
 
@@ -32,7 +32,7 @@
 
 * 机器学习将为设计带来什么 [What Machine Learning Will Do For Design](https://medium.com/emergent-future/what-machine-learning-will-do-for-design-42661096f21) by Eve Weinberg
     * Project List
-        * 
+        * 1
 * 在机器学习的时代重新思考设计工具 [Rethinking Design Tools in the Age of Machine Learning](https://medium.com/artists-and-machine-intelligence/rethinking-design-tools-in-the-age-of-machine-learning-369f3f07ab6c)
 
 * 机器学习：AI和设计的光速发展  [Machine Learning: The Speed-of-Light Evolution of AI and Design](https://redshift.autodesk.com/machine-learning/) by JEFF WALSH  
