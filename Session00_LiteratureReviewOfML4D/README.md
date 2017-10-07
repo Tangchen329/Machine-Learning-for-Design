@@ -34,7 +34,7 @@
 
 
 
-* 谷歌AutoDraw 让每个人都是设计师 [Google AutoDraw uses machine learning to make a designer out of anyone](http://www.androidpolice.com/2017/04/11/google-autodraw-uses-machine-learning-make-designer-anyone/)by Scott Scrivens
+* 谷歌AutoDraw 让每个人都是设计师 [Google AutoDraw uses machine learning to make a designer out of anyone](http://www.androidpolice.com/2017/04/11/google-autodraw-uses-machine-learning-make-designer-anyone/)by Scott Scrivens  :page_facing_up:
 
      > AutoDraw是Google Creative Lab创造的一款使用机器学习帮助你实现设计需求的工具。如果你需要完成多个生日卡或活动海报的快速设计，AutoDraw可以帮你。AutoDraw使用简单的画图程序的界面风格，用户需要做的就是画出任何自己喜欢的基本轮廓，AutoDraw就会猜测用户在画什么，并提供更专业的选择。点击一个AutoDraw建议的图案，系统将自动用来自不同的，有才华的艺术家，设计师和插图画家的作品来替换用户粗糙的草稿。用户可以添加文本，形状，并给自己的杰作填充颜色。一旦完成，用户可以以PNG格式下载自己的作品。
 
@@ -43,7 +43,7 @@
 
 
 
-* 将机器学习应用到设计上将会怎样？[What Happens When You Apply Machine Learning To Logo Design](https://www.fastcodesign.com/3058852/what-happens-when-you-apply-machine-learning-to-logo-design)
+* 将机器学习应用到设计上将会怎样？[What Happens When You Apply Machine Learning To Logo Design](https://www.fastcodesign.com/3058852/what-happens-when-you-apply-machine-learning-to-logo-design)  :page_facing_up:
 
 
      > 神经网络的兴起和生成式设计为设计师创造了新的机会。在[Mark Maker](http://emblemmatic.org/markmaker/#/about)（一个自动化生成logo系统）中，输入一个词。该系统然后使用遗传算法genetic algorithm，一种模仿自然选择的程序，以产生无止境的连续的标志。 当你喜欢一个标志，你点击一个爱心，它告诉系统生成更多的标志。通过喜欢足够的标志，概念里Mark Maker可以最终生成一个适合您需求的产品，而无需使用人类设计师。Mark Maker通过将每个设计打破一半来创建其标志，使其包含基本设计和特色元素。
@@ -54,14 +54,14 @@
 
 
 
-* 将机器学习应用于设计  [Designing with Machine Learning](https://www.wework.com/zh-CN/blog/posts/designing-with-machine-learning)   by Nicole Phelan
+* 将机器学习应用于设计  [Designing with Machine Learning](https://www.wework.com/zh-CN/blog/posts/designing-with-machine-learning)   by Nicole Phelan  :page_facing_up:
 
     > 将机器学习用于评价建筑布局，这在设计产业上是非常新颖的。使用技术：ANN（Artificial Neural Network）人工神经网络。神经网络收集有关建筑物布局的数据（左），(提供的数据包括：办公室数量；办公室空间尺寸；会议室数量；会议室里的设备；)并将这些数据提供给一系列已经训练过，能够识别建筑物布局中的差异的人工神经元（中间）。基于神经元已经接触到的其他布局，神经网络作出预测得到会议室的利用率（右）。提供的数据包括：办公室数量；办公室空间尺寸；会议室数量；会议室里的设备；![p2](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/26-Designing%20with%20machine%20learning/屏幕快照%202017-09-19%20上午10.06.01.png)
 
     > 这项研究最强有力的含义是，在开始建造之前，可以计划一个适合需要的空间。使用机器学习揭示人与空间交互的模式是可以做出更好的设计和规划决策的信息。没有什么能够取代架构师的专业知识，而机器生成的新指标可以帮助指导设计师，提高他们创作效率。
     
     
-* Adobe将AI应用于网页自动设计，你感受到危机感了吗？  BY NEAL UNGERLEIDER  [Adobe Is Building An AI To Automate Web Design. Should You Worry?](https://www.fastcodesign.com/3068884/adobe-is-building-an-ai-to-automate-web-design-should-you-worry)
+* Adobe将AI应用于网页自动设计，你感受到危机感了吗？  BY NEAL UNGERLEIDER  [Adobe Is Building An AI To Automate Web Design. Should You Worry?](https://www.fastcodesign.com/3068884/adobe-is-building-an-ai-to-automate-web-design-should-you-worry)  :page_facing_up:
 
     > Adobe正在尝试将机器学习和人工智能应用到图形和网页设计上，一个未透露名字的实验项目正在创造工具来自动完成设计师的任务，例如剪裁图片，设计网站页面等。这项研究采用[ Adobe’s AI and machine learning program Sensei]（http://www.adobe.com/sensei.html#x），融合进Adobe Experience Manager CMS，这项功能在Adobe2016年3月的Sneaks（https://blogs.adobe.com/conversations/2016/11/lets-get-experimental-behind-the-adobe-max-sneaks.html） 大赛上亮相。虽然Adobe还没有宣称将这项技术融合进任何产品中，但这是将机器学习应用于平面设计的尝试中最有野心的一种。在设计领域里，已经有过将AI引入的案例，例如Wix的 [Advance Design Intelligence](https://www.fastcodesign.com/3060934/can-you-teach-ai-to-design-wix-is-trying)和自动化项目 [Mark Maker] (https://www.fastcodesign.com/3058852/what-happens-when-you-apply-machine-learning-to-logo-design)
 
@@ -114,16 +114,23 @@
         
         
         
-* 在机器学习的时代重新思考设计工具 [Rethinking Design Tools in the Age of Machine Learning](https://medium.com/artists-and-machine-intelligence/rethinking-design-tools-in-the-age-of-machine-learning-369f3f07ab6c)
+* 在机器学习的时代重新思考设计工具 [Rethinking Design Tools in the Age of Machine Learning](https://medium.com/artists-and-machine-intelligence/rethinking-design-tools-in-the-age-of-machine-learning-369f3f07ab6c)  :page_facing_up:
 
-* 机器学习：AI和设计的光速发展  [Machine Learning: The Speed-of-Light Evolution of AI and Design](https://redshift.autodesk.com/machine-learning/) by JEFF WALSH  
-*  以人为中心的机器学习——聚焦用户的重要7点  [Human-Centered Machine Learning - 7 steps to stay focused on the user when designing with ML](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd?imm_mid=0f4f22&cmp=em-design-na-na-newsltr_20170801)   By Josh Lovejoy and Jess Holbrook
-*  是时候进行机器学习中的设计演化了！——为何最好的时代还没到来。 [It’s Time for a Design Evolution in Machine Learning - Why the Best is Yet to Come](https://uxdesign.cc/its-time-for-a-design-evolution-in-machine-learning-6bfe7da3dcef). by Florian Oefner
-*  Sensei：Adobe将机器学习和设计工具添加到 Creative Cloud [Bow to your Sensei! Adobe adds machine learning and design tool to Creative Cloud](https://www.theregister.co.uk/2016/11/02/adobe_updates_creative_cloud_with_sensei_machine_learning_and_new_3d_design_tool/) By Tim Anderson 2 Nov 2016 at 14:30
+* 机器学习：AI和设计的光速发展  [Machine Learning: The Speed-of-Light Evolution of AI and Design](https://redshift.autodesk.com/machine-learning/) by JEFF WALSH  :page_facing_up:
 
 
 
-*  IntuiFace：如何使用机器学习来帮助创建交互式和连接的数字体验  [Machine Learning and Design in IntuiFace - How IntuiFace uses machine learning to aid the creation of interactive and connected digital experiences](https://www.intuilab.com/machine-learning)
+*  以人为中心的机器学习——聚焦用户的重要7点  [Human-Centered Machine Learning - 7 steps to stay focused on the user when designing with ML](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd?imm_mid=0f4f22&cmp=em-design-na-na-newsltr_20170801)   By Josh Lovejoy and Jess Holbrook  :page_facing_up:
+
+
+*  是时候进行机器学习中的设计演化了！——为何最好的时代还没到来。 [It’s Time for a Design Evolution in Machine Learning - Why the Best is Yet to Come](https://uxdesign.cc/its-time-for-a-design-evolution-in-machine-learning-6bfe7da3dcef). by Florian Oefner  :page_facing_up:
+
+
+*  Sensei：Adobe将机器学习和设计工具添加到 Creative Cloud [Bow to your Sensei! Adobe adds machine learning and design tool to Creative Cloud](https://www.theregister.co.uk/2016/11/02/adobe_updates_creative_cloud_with_sensei_machine_learning_and_new_3d_design_tool/) By Tim Anderson 2 Nov 2016 at 14:30  :page_facing_up:
+
+
+
+*  IntuiFace：如何使用机器学习来帮助创建交互式和连接的数字体验  [Machine Learning and Design in IntuiFace - How IntuiFace uses machine learning to aid the creation of interactive and connected digital experiences](https://www.intuilab.com/machine-learning)  :page_facing_up:
 
      > 三大理念：
 
@@ -173,10 +180,15 @@
  
 
 
-*  自动化将淘汰平面设计师？未来该选择什么职业？[Automation Threatens to Make Graphic Designers Obsolete - So what kind of career should you expect to have in future?](https://eyeondesign.aiga.org/automation-threatens-to-make-graphic-designers-obsolete/) by Rob Peart
-*  机器学习如何加速设计周期 [HOW MACHINE LEARNING CAN SPEED UP YOUR DESIGN CYCLE](https://www.maximintegrated.com/en/design/blog/machine-learning-can-speed-up-design-cycle.html) by Christine Young
-*  [设计与AI的现在Ⅰ：设计了1.7 亿个 banner的阿里鲁班](https://zhuanlan.zhihu.com/p/26563244) by 阿里巴巴AI设计项目负责人乐乘（吴春松）
+*  自动化将淘汰平面设计师？未来该选择什么职业？[Automation Threatens to Make Graphic Designers Obsolete - So what kind of career should you expect to have in future?](https://eyeondesign.aiga.org/automation-threatens-to-make-graphic-designers-obsolete/) by Rob Peart  :page_facing_up:
 
+
+
+*  机器学习如何加速设计周期 [HOW MACHINE LEARNING CAN SPEED UP YOUR DESIGN CYCLE](https://www.maximintegrated.com/en/design/blog/machine-learning-can-speed-up-design-cycle.html) by Christine Young  :page_facing_up:
+
+
+
+*  [设计与AI的现在Ⅰ：设计了1.7 亿个 banner的阿里鲁班](https://zhuanlan.zhihu.com/p/26563244) by 阿里巴巴AI设计项目负责人乐乘（吴春松） :page_facing_up:
 
      > ![36](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/36-luban/1.png)
 随着人工智能时代的到来，设计与人工智能的纠葛，艺术与科技的博弈，越来越频繁地现身热门话题榜。而在设计人工智能领域，阿里巴巴已经开始加速探索。
@@ -231,7 +243,7 @@
 ## Design Products & Services with AI & Machine Learning Embedded in
 
 ### Reference List
-* 机器学习和交互设计 [Machine Learning and UX](https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a)
+* 机器学习和交互设计 [Machine Learning and UX](https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a)  :page_facing_up:
 
      > 与目标群体相对立的个人概念，它定义了用户体验与机器学习的必然联姻。
    
@@ -246,7 +258,7 @@
       > 案例：迪士尼通过[腕带来为用户提供定制化的服务](https://www.wired.com/2015/03/disney-magicband/)。腕带通过收集大量主题公园游客的信息，再将相关的数据传送给员工，例如你的名字或者桌号，没有任何的物理接触和语言交流，通过设计让公园的参与感更强。![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/9-machine%20learning%20and%20ux/1.jpg)主题公园的设计者Dave Cobb 称未来可能会生成一个基于长时间记录的系统，，预期设计创造出每个人一个完全不同的体验。如果数据具体到一个人的地理、社会、历史甚至遗传背景 - 然后机器可以创建一个完全独特的和个人的经验。
       
 
-* 关于机器学习的好的产品设计案例有哪些？ [Any good Product Design case studies that involve Machine Learning?](https://www.designernews.co/stories/75495-any-good-product-design-case-studies-that-involve-machine-learning)
+* 关于机器学习的好的产品设计案例有哪些？ [Any good Product Design case studies that involve Machine Learning?](https://www.designernews.co/stories/75495-any-good-product-design-case-studies-that-involve-machine-learning) :page_facing_up:
     * [用可视化介绍机器学习](http://www.r2d3.us/%E5%9B%BE%E8%A7%A3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
 
     * [Google CEO technical assistant on building AI products](https://vimeo.com/181330432)
@@ -255,19 +267,37 @@
 
     * [Designing Machine Learning Models](https://medium.com/airbnb-engineering/designing-machine-learning-models-7d0048249e69)
     
-* 机器学习在产品设计领域有多大影响力？ [How influential is machine learning in the field of product design?](https://www.quora.com/How-influential-is-machine-learning-in-the-field-of-product-design)
-* 设计师需要了解的机器学习内容 [What designers need to know about machine learning](https://hackernoon.com/what-designers-need-to-know-about-machine-learning-109a12fdd3af)
-
-* 对设计师有帮助的机器学习的应用 [Applications Of Machine Learning For Designers](https://www.smashingmagazine.com/2017/04/applications-machine-learning-designers/) By Lassi Liikkanen
+* 机器学习在产品设计领域有多大影响力？ [How influential is machine learning in the field of product design?](https://www.quora.com/How-influential-is-machine-learning-in-the-field-of-product-design) :page_facing_up:
 
 
 
 
-* 为什么设计师和产品经理需要懂一点机器学习 [Why Should Designers And Product Managers Know About Machine Learning?](https://www.forbes.com/sites/quora/2017/04/07/why-should-designers-and-product-managers-know-about-machine-learning/#72cde9e07b28)
+* 设计师需要了解的机器学习内容 [What designers need to know about machine learning](https://hackernoon.com/what-designers-need-to-know-about-machine-learning-109a12fdd3af)  :page_facing_up:
 
-* 对机器学习系统的用户体验进行设计[Designing the User Experience of Machine Learning Systems](https://mikek-parc.github.io/AAAI-UX-ML/)
 
-* [为男人们提供个性化服饰搭配，英国电商 Thread 获 800 万美金 A 轮融资](https://36kr.com/p/5036946.html)
+
+
+
+* 对设计师有帮助的机器学习的应用 [Applications Of Machine Learning For Designers](https://www.smashingmagazine.com/2017/04/applications-machine-learning-designers/) By Lassi Liikkanen  :page_facing_up:
+
+
+
+
+
+
+* 为什么设计师和产品经理需要懂一点机器学习 [Why Should Designers And Product Managers Know About Machine Learning?](https://www.forbes.com/sites/quora/2017/04/07/why-should-designers-and-product-managers-know-about-machine-learning/#72cde9e07b28)  :page_facing_up:
+
+
+
+
+* 对机器学习系统的用户体验进行设计[Designing the User Experience of Machine Learning Systems](https://mikek-parc.github.io/AAAI-UX-ML/)  :page_facing_up:
+
+
+
+
+* [为男人们提供个性化服饰搭配，英国电商 Thread 获 800 万美金 A 轮融资](https://36kr.com/p/5036946.html)  :page_facing_up:
+
+
 
      > 电商平台 Thread 试图采用造型顾问+机器算法的方式，来为想要穿得得体一些，却又不爱逛街的男士提供个性化的商品建议。
 
@@ -289,13 +319,13 @@
 ## Other Topics related to ML and Design 
 
 ### Reference List
-* [Machine Learning for Designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp)
+* [Machine Learning for Designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp)  :book:
 
     * [Machine Learning for Designers](http://pan.baidu.com/s/1eSOUudW)
 
     * [Machine Learning for Designers 解构脑图](https://zhuanlan.zhihu.com/p/27045885)
 
-* John Whalen应用脑科学进行设计   [John Whalen on using brain science in design](https://www.oreilly.com/ideas/john-whalen-on-using-brain-science-in-design?imm_mid=0f4f22&cmp=em-design-na-na-newsltr_20170801)By Nikki McDonald. July 27, 2017 
+* John Whalen应用脑科学进行设计   [John Whalen on using brain science in design](https://www.oreilly.com/ideas/john-whalen-on-using-brain-science-in-design?imm_mid=0f4f22&cmp=em-design-na-na-newsltr_20170801)By Nikki McDonald. July 27, 2017  :page_facing_up:
     
     -  主题：人类经验背后的“六感”／为什么设计师要理解脑科学／以及人们真正需要的是什么？为什么设计师要理解脑科学?
 
@@ -318,7 +348,7 @@
 
       > 研究中，我们提出了一些问题：“你希望机器在多大的程度上了解你？”例如，亚马逊知道您多久购买牙膏，所以可能预测牙膏有没有用完。它可以在星期二随机问“天哪，尼基，你想要更多的牙膏吗？设备可以有各种各样的方式来增强你的认知 ;在某些方面，我们已经在使用电脑，每次使用Google地图，或者用Google价格来选择某些东西。我们习惯机器有这样的功能但并不习惯它预测我们的行为。我们习惯于问一个问题，然后收到答案，而不是让机器预期我可能需要的一个答案。
 
-* 只需5步，以设计师思维看待机器学习 [5 Steps to Thinking Like a Designer in Machine Learning](http://machinelearningmastery.com/5-steps-to-thinking-like-a-designer-in-machine-learning/)  by Jason Brownlee on March 26, 2014 in Machine Learning Resources
+* 只需5步，以设计师思维看待机器学习 [5 Steps to Thinking Like a Designer in Machine Learning](http://machinelearningmastery.com/5-steps-to-thinking-like-a-designer-in-machine-learning/)  by Jason Brownlee on March 26, 2014 in Machine Learning Resources :page_facing_up:
 
    > 好的数据科学家不仅是统计学家、领域专家和机器学习黑客，还需要是一名优秀的设计师。设计的第一要义：人。设计师是以人为本的，需要从用户的角度去考虑实际项目。
      > 1. 第一步：问问自己为谁设计？设计什么？如何设计？为什么用机器学习？
@@ -353,9 +383,9 @@
      > 希望你对待任何开发项目都当作一个正在进行的对话。首先从你的草图和概念上寻求反馈，允许用户提供输入和指导，说明什么是错误的，哪些还不够。把这个反馈的记在心里和脑袋里，再重新开发。一定要让你的客户保持在线状态，确保在开发还在进行时能随时得到反馈。这种来回会产生更多的洞察力，确保您的产品与用户的需求相匹配。即使当你的项目刚刚完成时，我建议你总是建立简单的方式让终端用户提出建议或调整意见。无论这是一个建立在界面上的小的“建议”字段还是仅仅是一个电子邮件地址，许多用户都会提供有见地的指导和想法。从这些反馈模式就出现了，你就可以锁定需要作出的最重要的和有影响力的变化。
      
      
-* [A Machine-Learning Framework for Design for Manufacturability](https://arxiv.org/abs/1703.01499)
+* [A Machine-Learning Framework for Design for Manufacturability](https://arxiv.org/abs/1703.01499) :page_facing_up:
 
-* 关于设计中的机器学习多维度的讨论[Dimensions of Machine Learning in Design](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.32.5541&rep=rep1&type=pdf)
+* 关于设计中的机器学习多维度的讨论[Dimensions of Machine Learning in Design](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.32.5541&rep=rep1&type=pdf) :page_facing_up:
      > 1.0介绍
      > 设计代表了人工智能能解决的最复杂的问题领域之一。尽管在过去十年中，AI技术在设计领域中取得进展，但是现有系统难以应对所需知识的多样性和数量以及所涉及的各种推理问题。
      >      > 一般来说：
@@ -392,8 +422,8 @@
      > - 本地与全球学习。
      > - 学习的后果
      
-* [Teaching Machine Learning to Design Students](https://link.springer.com/chapter/10.1007/978-3-540-69736-7_23)
-* [设计与人工智能报告](https://zhuanlan.zhihu.com/p/26610724)
+* [Teaching Machine Learning to Design Students](https://link.springer.com/chapter/10.1007/978-3-540-69736-7_23) :page_facing_up:
+* [设计与人工智能报告](https://zhuanlan.zhihu.com/p/26610724) :page_facing_up:
 
 
 
