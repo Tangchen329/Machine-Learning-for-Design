@@ -203,9 +203,7 @@
 
    * Product Strategy 产品战略
    
-   产品战略是产品生命周期和进一步发展的执行计划的基础。它允许用户体验设计师瞄准特定目标受众,关注产品和消费属性。
-![product strategy](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/product%20stratgery.gif)
-![video](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/屏幕快照%202017-09-18%20上午6.20.53.png)
+      产品战略是产品生命周期和进一步发展的执行计划的基础。它允许用户体验设计师瞄准特定目标受众,关注产品和消费属性。
 
       * 拓展阅读：
          * [XD Essentials: How to Develop a Product Strategy](https://blogs.adobe.com/creativecloud/xd-essentials-how-to-develop-a-product-strategy/)
