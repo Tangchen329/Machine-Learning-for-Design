@@ -33,7 +33,21 @@
 * 谷歌AutoDraw 让每个人都是设计师 [Google AutoDraw uses machine learning to make a designer out of anyone](http://www.androidpolice.com/2017/04/11/google-autodraw-uses-machine-learning-make-designer-anyone/)by Scott Scrivens
 
 * 将机器学习应用到设计上将会怎样？[What Happens When You Apply Machine Learning To Logo Design](https://www.fastcodesign.com/3058852/what-happens-when-you-apply-machine-learning-to-logo-design)
+
+
+     > 神经网络的兴起和生成式设计为设计师创造了新的机会。在[Mark Maker](http://emblemmatic.org/markmaker/#/about)（一个自动化生成logo系统）中，输入一个词。该系统然后使用遗传算法genetic algorithm，一种模仿自然选择的程序，以产生无止境的连续的标志。 当你喜欢一个标志，你点击一个爱心，它告诉系统生成更多的标志。通过喜欢足够的标志，概念里Mark Maker可以最终生成一个适合您需求的产品，而无需使用人类设计师。Mark Maker通过将每个设计打破一半来创建其标志，使其包含基本设计和特色元素。
+
+     ![gif1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/23-what%20happens%20when%20you%20apply%20ml%20to%20logo%20design/3058852-inline-i-1-this-bot-will-generate-millions-of-logos-until-you-find-the-perfect-one-copy.gif)
+     ![p1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/23-what%20happens%20when%20you%20apply%20ml%20to%20logo%20design/屏幕快照%202017-08-29%20上午10.51.30.png)
+
+
 * 将机器学习应用于设计  [Designing with Machine Learning](https://www.wework.com/zh-CN/blog/posts/designing-with-machine-learning)   by Nicole Phelan
+
+    > 将机器学习用于评价建筑布局，这在设计产业上是非常新颖的。使用技术：ANN（Artificial Neural Network）人工神经网络。神经网络收集有关建筑物布局的数据（左），(提供的数据包括：办公室数量；办公室空间尺寸；会议室数量；会议室里的设备；)并将这些数据提供给一系列已经训练过，能够识别建筑物布局中的差异的人工神经元（中间）。基于神经元已经接触到的其他布局，神经网络作出预测得到会议室的利用率（右）。提供的数据包括：办公室数量；办公室空间尺寸；会议室数量；会议室里的设备；![p2](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/26-Designing%20with%20machine%20learning/屏幕快照%202017-09-19%20上午10.06.01.png)
+
+    > 这项研究最强有力的含义是，在开始建造之前，可以计划一个适合需要的空间。使用机器学习揭示人与空间交互的模式是可以做出更好的设计和规划决策的信息。没有什么能够取代架构师的专业知识，而机器生成的新指标可以帮助指导设计师，提高他们创作效率。
+    
+    
 * Adobe将AI应用于网页自动设计，你感受到危机感了吗？  BY NEAL UNGERLEIDER  [Adobe Is Building An AI To Automate Web Design. Should You Worry?](https://www.fastcodesign.com/3068884/adobe-is-building-an-ai-to-automate-web-design-should-you-worry)
 
 
@@ -130,14 +144,10 @@
 * 对设计师有帮助的机器学习的应用 [Applications Of Machine Learning For Designers](https://www.smashingmagazine.com/2017/04/applications-machine-learning-designers/) By Lassi Liikkanen
 
 
-* 将机器学习应用到设计上将会怎样？[What Happens When You Apply Machine Learning To Logo Design](https://www.fastcodesign.com/3058852/what-happens-when-you-apply-machine-learning-to-logo-design)
 
-     > 神经网络的兴起和生成式设计为设计师创造了新的机会。在[Mark Maker](http://emblemmatic.org/markmaker/#/about)（一个自动化生成logo系统）中，输入一个词。该系统然后使用遗传算法genetic algorithm，一种模仿自然选择的程序，以产生无止境的连续的标志。 当你喜欢一个标志，你点击一个爱心，它告诉系统生成更多的标志。通过喜欢足够的标志，概念里Mark Maker可以最终生成一个适合您需求的产品，而无需使用人类设计师。Mark Maker通过将每个设计打破一半来创建其标志，使其包含基本设计和特色元素。
-
-     ![gif1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/23-what%20happens%20when%20you%20apply%20ml%20to%20logo%20design/3058852-inline-i-1-this-bot-will-generate-millions-of-logos-until-you-find-the-perfect-one-copy.gif)
-     ![p1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/23-what%20happens%20when%20you%20apply%20ml%20to%20logo%20design/屏幕快照%202017-08-29%20上午10.51.30.png)
 
 * 为什么设计师和产品经理需要懂一点机器学习 [Why Should Designers And Product Managers Know About Machine Learning?](https://www.forbes.com/sites/quora/2017/04/07/why-should-designers-and-product-managers-know-about-machine-learning/#72cde9e07b28)
+
 * 对机器学习系统的用户体验进行设计[Designing the User Experience of Machine Learning Systems](https://mikek-parc.github.io/AAAI-UX-ML/)
 
 * [为男人们提供个性化服饰搭配，英国电商 Thread 获 800 万美金 A 轮融资](https://36kr.com/p/5036946.html)
@@ -241,7 +251,7 @@
 
      > 知识获取和机器学习是支持设计系统变革过程的主要工具。知识获取强调将知识从外部世界转移到系统中，而不依赖于系统内部的转换。知识获取的主要目标是通过增加新知识来扩展系统的运作。
 
-     >      > 学习虽然是基于对事件和反馈的洞察，但着重于影响表现的变革。 “表现”的含义包括系统提供的解决方案的质量以及生成该设计（或设计）的过程的效率。
+     > 学习虽然是基于对事件和反馈的洞察，但着重于影响表现的变革。 “表现”的含义包括系统提供的解决方案的质量以及生成该设计（或设计）的过程的效率。
 
      > 近年来开发的许多设计系统都纳入了一些学习。它们说明了设计对自适应技术开放的不同方式。通过学习，设计系统可以尝试应对日益复杂的问题。已经提供的适应性设计系统的例子数量以及慢慢被揭示的大量设计学习机会表明，尝试将这些发展置于系统框架的时机已经成熟。
 
