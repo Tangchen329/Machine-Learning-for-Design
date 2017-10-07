@@ -26,12 +26,11 @@
          * [Sketch-RNN Demos](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_vae.html)
          * [Google Creative Lab](https://experiments.withgoogle.com/ai?tag=TensorFlow) 
      
-      * [延伸阅读] 
-      
-        * [Google Creative Lab](https://experiments.withgoogle.com/ai?tag=TensorFlow)
-        * [ai-duet](https://experiments.withgoogle.com/ai/ai-duet/view/)
-        * 机器学习你如何弹钢琴[sound-maker](https://experiments.withgoogle.com/ai/sound-maker/view/)用机器学习的各种乐器声音的混合体来创作音乐（将声音转化为更加抽象的数字表达之后再进行组合)
-        * [handwriting](https://distill.pub/2016/handwriting/)
+      * 延伸阅读
+         * [Google Creative Lab](https://experiments.withgoogle.com/ai?tag=TensorFlow)
+         * [ai-duet](https://experiments.withgoogle.com/ai/ai-duet/view/)
+         * 机器学习你如何弹钢琴[sound-maker](https://experiments.withgoogle.com/ai/sound-maker/view/)用机器学习的各种乐器声音的混合体来创作音乐（将声音转化为更加抽象的数字表达之后再进行组合)
+         * [handwriting](https://distill.pub/2016/handwriting/)
         
 *  [Webs of Influence: The Psychology of Online Persuasion, 2nd Edition](https://www.safaribooksonline.com/library/view/webs-of-influence/9781292134628/?imm_mid=0f4ac0&cmp=em-design-na-na-newsltr_20170725_test)
 
@@ -67,8 +66,8 @@
 
      > 总结：机器学习不是好的设计的灵丹妙药，也不是工作的破坏者。它仅仅是一种新工具。设计人员可以通过这个新的工作流程更舒适，在设计过程中，他们会更多的时间享受认知和创造性的过程，更少的时间待在设计创作的沉闷中。
 
-    * Project List
-      * [演示视频][Video of ‘99designs.com’ onboarding](https://vimeo.com/185045206)
+      * Project List
+        * [演示视频][Video of ‘99designs.com’ onboarding](https://vimeo.com/185045206)
         
 * 在机器学习的时代重新思考设计工具 [Rethinking Design Tools in the Age of Machine Learning](https://medium.com/artists-and-machine-intelligence/rethinking-design-tools-in-the-age-of-machine-learning-369f3f07ab6c)
 
