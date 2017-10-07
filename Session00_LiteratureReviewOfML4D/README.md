@@ -102,16 +102,18 @@
 ### Reference List
 * 机器学习和交互设计 [Machine Learning and UX](https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a)
 
-   > 与目标群体相对立的个人概念，它定义了用户体验与机器学习的必然联姻。
+     > 与目标群体相对立的个人概念，它定义了用户体验与机器学习的必然联姻。
    
-   > 设计师应该与机器学习一起通力合作服务用户————目前，设计师可以创造出引人注目的群体体验，但不考虑个人。针对个体的体验设计，需要机器学习来协助。![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/9-machine%20learning%20and%20ux/2.png)可以将聚类，用于分组数据的无监督机器学习过程。在未来我们会看到专门为设计师洞察数据生成的工具，现在的好的解决方法就是设计师与团队和公司的数据科学家合作将双方的发现和能力融入设计中。
+     > 设计师应该与机器学习一起通力合作服务用户————目前，设计师可以创造出引人注目的群体体验，但不考虑个人。针对个体的体验设计，需要机器学习来协助。![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/9-machine%20learning%20and%20ux/2.png)可以将聚类，用于分组数据的无监督机器学习过程。在未来我们会看到专门为设计师洞察数据生成的工具，现在的好的解决方法就是设计师与团队和公司的数据科学家合作将双方的发现和能力融入设计中。
    
-   > 设计师和数据科学家生活在一个意想不到的维恩图中。我认为这些团体的凝聚力会产生有趣的和令人惊喜的用户体验，当然在不久的将来（看不见的设计，由Amber Cartwright提出的一个概念，[进一步的页面]，似乎沿着这些线路的想法）。
-   > 对设计师而言的机会点:很明显，我认为机器学习只会增加未来设计师的工作量，可以使用机器学习来帮助我们理解这一切。基于用户数据提取和提出见解的系统将变得正常和必要，特别是当数据集变得更大细粒度更高时。智慧的界面对于人类来说是很自然的：对数据集的自然语言查询是我们想看到的，甚至可能以识别语音的机器人（如Jarvis）的形式出现。![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/9-machine%20learning%20and%20ux/3.jpg)我希望看到这些机器人是专门设计和推理设计者关心的东西，比如用户反馈的情绪和可用性测试中特定疼痛点的提取，因为SQL查询和Python脚本的能力有限。
+     > 设计师和数据科学家生活在一个意想不到的维恩图中。我认为这些团体的凝聚力会产生有趣的和令人惊喜的用户体验，当然在不久的将来（看不见的设计，由Amber Cartwright提出的一个概念，[进一步的页面]，似乎沿着这些线路的想法）。
+     
+     > 对设计师而言的机会点:很明显，我认为机器学习只会增加未来设计师的工作量，可以使用机器学习来帮助我们理解这一切。基于用户数据提取和提出见解的系统将变得正常和必要，特别是当数据集变得更大细粒度更高时。智慧的界面对于人类来说是很自然的：对数据集的自然语言查询是我们想看到的，甚至可能以识别语音的机器人（如Jarvis）的形式出现。![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/9-machine%20learning%20and%20ux/3.jpg)我希望看到这些机器人是专门设计和推理设计者关心的东西，比如用户反馈的情绪和可用性测试中特定疼痛点的提取，因为SQL查询和Python脚本的能力有限。
    
-   > 我们需要像人类那样能自然互动，但像机器一样思考的系统。这将有助于消除许多设计师在面对代码墙时所体验到的交互的心理障碍，同时还为我们提供了专门针对我们需要的代码的功能。在大多数人直接打开Google去搜索答案的时候，对于设计师而言，现在是有机会定义这种关系将如何发展的时机。这是一个未经探索的边界正在等待着，不是被发现，而是由你和我去创造。  
+     > 我们需要像人类那样能自然互动，但像机器一样思考的系统。这将有助于消除许多设计师在面对代码墙时所体验到的交互的心理障碍，同时还为我们提供了专门针对我们需要的代码的功能。在大多数人直接打开Google去搜索答案的时候，对于设计师而言，现在是有机会定义这种关系将如何发展的时机。这是一个未经探索的边界正在等待着，不是被发现，而是由你和我去创造。  
    
-     * 案例：迪士尼通过[腕带来为用户提供定制化的服务](https://www.wired.com/2015/03/disney-magicband/)。腕带通过收集大量主题公园游客的信息，再将相关的数据传送给员工，例如你的名字或者桌号，没有任何的物理接触和语言交流，通过设计让公园的参与感更强。![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/9-machine%20learning%20and%20ux/1.jpg)主题公园的设计者Dave Cobb 称未来可能会生成一个基于长时间记录的系统，，预期设计创造出每个人一个完全不同的体验。如果数据具体到一个人的地理、社会、历史甚至遗传背景 - 然后机器可以创建一个完全独特的和个人的经验。
+      > 案例：迪士尼通过[腕带来为用户提供定制化的服务](https://www.wired.com/2015/03/disney-magicband/)。腕带通过收集大量主题公园游客的信息，再将相关的数据传送给员工，例如你的名字或者桌号，没有任何的物理接触和语言交流，通过设计让公园的参与感更强。![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/9-machine%20learning%20and%20ux/1.jpg)主题公园的设计者Dave Cobb 称未来可能会生成一个基于长时间记录的系统，，预期设计创造出每个人一个完全不同的体验。如果数据具体到一个人的地理、社会、历史甚至遗传背景 - 然后机器可以创建一个完全独特的和个人的经验。
+      
 
 * 关于机器学习的好的产品设计案例有哪些？ [Any good Product Design case studies that involve Machine Learning?](https://www.designernews.co/stories/75495-any-good-product-design-case-studies-that-involve-machine-learning)
     * [用可视化介绍机器学习](http://www.r2d3.us/%E5%9B%BE%E8%A7%A3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
@@ -121,6 +123,7 @@
     * [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 
     * [Designing Machine Learning Models](https://medium.com/airbnb-engineering/designing-machine-learning-models-7d0048249e69)
+    
 * 机器学习在产品设计领域有多大影响力？ [How influential is machine learning in the field of product design?](https://www.quora.com/How-influential-is-machine-learning-in-the-field-of-product-design)
 * 设计师需要了解的机器学习内容 [What designers need to know about machine learning](https://hackernoon.com/what-designers-need-to-know-about-machine-learning-109a12fdd3af)
 * 设计师需要了解的机器学习内容 [What designers need to know about machine learning](https://hackernoon.com/what-designers-need-to-know-about-machine-learning-109a12fdd3af)
@@ -181,6 +184,39 @@
 
 * 只需5步，以设计师思维看待机器学习 [5 Steps to Thinking Like a Designer in Machine Learning](http://machinelearningmastery.com/5-steps-to-thinking-like-a-designer-in-machine-learning/)  by Jason Brownlee on March 26, 2014 in Machine Learning Resources
 
+   > 好的数据科学家不仅是统计学家、领域专家和机器学习黑客，还需要是一名优秀的设计师。设计的第一要义：人。设计师是以人为本的，需要从用户的角度去考虑实际项目。
+     > 1. 第一步：问问自己为谁设计？设计什么？如何设计？为什么用机器学习？
+         这一点的灵感来源来自[Max Shron](http://www.maxshron.com)————[OkCupid](https://www.okcupid.com)令人尊敬的，具有魅力的前数据科学家。在Max的会议上，他大力强调了上下文在任何数据科学或机器学习项目中的重要性。对数据没有足够的了解是无法从A点到一个有效的模型的方法。
+     > - 在今天的机器学习中，你需要花时间去理解请求背后的人——他们的动机、奋斗、观点和价值观。所以，要问自己几个问题在你开始之前：
+     > - 谁需要我帮忙？他们在组织中的角色是什么？他们个人需要完成什么才能成功地发挥作用？
+     > - 他们通常使用什么数据，更重要的是，他们目前在数据中寻找什么含义？机器学习应用可能提供什么额外的见解？
+     > - 我如何能可靠地访问和清洁我需要的应用程序的数据？一旦我有一个稳定的数据供应，我怎样才能确保我的模型的发展以满足不断变化的需求？
+     > - 为什么我在这里？为什么这个项目是要求的人的优先事项？如果我成功了，对请求者的日常生活会产生什么变化？
+
+       机器学习者的目标是为用户提供超人性化的数据处理能力，虽然我们是机器学习方面的专家，我们的利益相关者和客户是真正的领域专家。
+
+     > 2. 为透明性和理解力而设计
+
+     > 机器学习是一项技术性很强的工作，一般人难以掌握。因此，一个机器学习应用程序通常会让终端用户感觉像一个黑盒，而缺乏透明性和理解力将使普通用户很难信任和依赖机器学习算法。当你像一名设计师一样处理机器学习项目时，这个挑战很容易克服。在设计机器学习应用程序时，花些时间记录和解释所选择的输入、用于清理数据的方法以及驱动应用程序的基本概念。
+
+     > 另外，谨慎选择易于理解的方法，例如决策树和基于规则的方法。很有可能你的发现或者见解将挑战或直接反驳一些长期持有的信念，所以重要的是，你有可能使最终用户能够理解这些知识的驱动过程。这样，您的用户能更了解程序，能够解释程序的输出。所以，当你开始考虑最终产品时，要这样做，用户才能更容易和直观地深入到底层的数据和信息中去。
+
+     > 3. 第三部：考虑用户将如何你的机器学习程序进行互动
+
+     > - 在什么情况下会使用这些信息？
+     > - 这些信息将在外部共享吗？
+     > - 用户希望改变或帮助引导分类或识别集群吗？
+
+     > 当你选定某一模型或者方案之后，你需要考虑传递这些信息的页面会给用户带来什么样的感受。当你仔细考虑上面的问题时，你不仅要满足期望，而且要设计一个易于学习的应用程序和界面，使之易于融入用户的工作流程中。例如，如果你的机器学习应用将提供见解与外部客户共享，你可以主动设计一个输出报告和批准共享的报告。使用这种方法来理解用户体验将有助于设计一种增强而不是增加用户日常事务的工具。
+
+     > 4. 第四步：画出你的最终产品的线框草图
+
+     > 从一个完全粗略的草图开始，看看界面可能是什么样子，然后用这个草图开始UI设计对话。当你用一个仅仅是纸上的草图来接近终端用户的时候，他们会感到更舒服地提供反馈和要求改变。您还帮助终端用户成为了项目贡献者。这意味着他们在机器学习项目中会感到更强的所有权，将更容易受益，其中包括你的同事和客户。
+
+     > 5. 让提供反馈变得更简单
+     > 希望你对待任何开发项目都当作一个正在进行的对话。首先从你的草图和概念上寻求反馈，允许用户提供输入和指导，说明什么是错误的，哪些还不够。把这个反馈的记在心里和脑袋里，再重新开发。一定要让你的客户保持在线状态，确保在开发还在进行时能随时得到反馈。这种来回会产生更多的洞察力，确保您的产品与用户的需求相匹配。即使当你的项目刚刚完成时，我建议你总是建立简单的方式让终端用户提出建议或调整意见。无论这是一个建立在界面上的小的“建议”字段还是仅仅是一个电子邮件地址，许多用户都会提供有见地的指导和想法。从这些反馈模式就出现了，你就可以锁定需要作出的最重要的和有影响力的变化。
+     
+     
 * [A Machine-Learning Framework for Design for Manufacturability](https://arxiv.org/abs/1703.01499)
 * 关于设计中的机器学习多维度的讨论[Dimensions of Machine Learning in Design](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.32.5541&rep=rep1&type=pdf)
 
