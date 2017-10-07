@@ -196,85 +196,68 @@
       描述产品关键方面的声明：它是什么，它为谁设计，以及它将如何使用。价值主张有助于团队围绕产品的内容达成共识。
 
       * 拓展阅读：
-      [Value_proposition](https://en.wikipedia.org/wiki/Value_proposition)
-      [Communicating the UX Value Proposition](http://uxmag.com/articles/communicating-the-ux-value-proposition)
-      [Strategyzer’s Value Proposition Canvas Explained](https://youtu.be/ReM1uqmVfP0)
+         * [Value_proposition](https://en.wikipedia.org/wiki/Value_proposition)
+         * [Communicating the UX Value Proposition](http://uxmag.com/articles/communicating-the-ux-value-proposition)
+         * [Strategyzer’s Value Proposition Canvas Explained](https://youtu.be/ReM1uqmVfP0)
 
 
-         * Product Strategy 产品战略
-            产品战略是产品生命周期和进一步发展的执行计划的基础。它允许用户体验设计师瞄准特定目标受众,关注产品和消费属性。
-
+   * Product Strategy 产品战略
+   
+   产品战略是产品生命周期和进一步发展的执行计划的基础。它允许用户体验设计师瞄准特定目标受众,关注产品和消费属性。
 ![product strategy](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/product%20stratgery.gif)
 ![video](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/屏幕快照%202017-09-18%20上午6.20.53.png)
 
-               * 拓展阅读：[XD Essentials: How to Develop a Product Strategy](https://blogs.adobe.com/creativecloud/xd-essentials-how-to-develop-a-product-strategy/)
+      * 拓展阅读：
+         * [XD Essentials: How to Develop a Product Strategy](https://blogs.adobe.com/creativecloud/xd-essentials-how-to-develop-a-product-strategy/)
+         * [What is Good Product Strategy?](https://articles.uie.com/what-is-good-product-strategy/)
+         * [HOW TO DEVELOP A FOCUSED PRODUCT STRATEGY TO BACK UP YOUR UI/UX DECISIONS](https://www.invisionapp.com/blog/how-to-develop-a-product-strategy/)
 
-[What is Good Product Strategy?](https://articles.uie.com/what-is-good-product-strategy/)
+   * Competitive Audit竞争审计
 
-[HOW TO DEVELOP A FOCUSED PRODUCT STRATEGY TO BACK UP YOUR UI/UX DECISIONS](https://www.invisionapp.com/blog/how-to-develop-a-product-strategy/)
-
-         * Competitive Audit竞争审计
-
-
-竞争审计是对竞争对手产品进行综合分析，以比较的方式描绘出它们的现有特征。竞争审计的目标是发现你所在行业中其他公司的工作情况，这样你就可以使这些战略为你工作，从而获得竞争优势。
+      竞争审计是对竞争对手产品进行综合分析，以比较的方式描绘出它们的现有特征。竞争审计的目标是发现你所在行业中其他公司的工作情况，这样你就可以使这些战略为你工作，从而获得竞争优势。
 
 ![AUDIT](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/屏幕快照%202017-09-18%20上午6.27.26.png)
 Results of the audit for website
+     * 拓展阅读：
+         * [Competitive Analysis: Understanding the Market Context](http://boxesandarrows.com/competitive-analysis-understanding-the-market-context/)
+         * [Conducting a Solid UX Competitive Analysis](http://danforth.co/pages/2014/03/01/conducting-a-solid-ux-competitive-analysis/)
 
-拓展阅读：
+   * Cultural Probes文化探索
 
-[Competitive Analysis: Understanding the Market Context](http://boxesandarrows.com/competitive-analysis-understanding-the-market-context/)
-
-[Conducting a Solid UX Competitive Analysis](http://danforth.co/pages/2014/03/01/conducting-a-solid-ux-competitive-analysis/)
-
-
-
-         * Cultural Probes文化探索
-
-文化探索是一种在设计过程中激发灵感的技术。它是收集关于人们生活、价值观和思想数据的一种手段。在极少的干扰的情况下，研究人员可以收集参与者的环境，帮助识别问题陈述，发现新的机会，并启发设计师提出新的想法和新的解决方案。
-
+      文化探索是一种在设计过程中激发灵感的技术。它是收集关于人们生活、价值观和思想数据的一种手段。在极少的干扰的情况下，研究人员可以收集参与者的环境，帮助识别问题陈述，发现新的机会，并启发设计师提出新的想法和新的解决方案。
 ![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/culture.png)
-文化探索使用一系列工具、工件和任务来激发用户以新的方式看待和思考他们的环境。
-
-视频资料:[Cultural Probes - Qualitative Contextual Design Research](https://youtu.be/EJqpUG4pJIE)
-
-
-拓展阅读：
-
-[Cultural Probes](http://designresearchtechniques.com/casestudies/cultural-probes/)
-
-[Inside Your Users’ Minds: The Cultural Probe](https://alistapart.com/article/culturalprobe)
+      文化探索使用一系列工具、工件和任务来激发用户以新的方式看待和思考他们的环境。
+      视频资料:[Cultural Probes - Qualitative Contextual Design Research](https://youtu.be/EJqpUG4pJIE)
 
 
-         * Stakeholders Interviews 利益相关者
+     * 拓展阅读：
+         * [Cultural Probes](http://designresearchtechniques.com/casestudies/cultural-probes/)
+         * [Inside Your Users’ Minds: The Cultural Probe](https://alistapart.com/article/culturalprobe)
+         
+   * Stakeholders Interviews 利益相关者
 
-利益相关者访谈中UX设计师对话他们的关键利益相关者：客户、上司、下属或同事。这个采访让UX设计师充分了解他们的相关利益者。它也有助于优化的特点和定义关键绩效指标（KPI）。
+      利益相关者访谈中UX设计师对话他们的关键利益相关者：客户、上司、下属或同事。这个采访让UX设计师充分了解他们的相关利益者。它也有助于优化的特点和定义关键绩效指标（KPI）。
 
-拓展阅读：
+     * 拓展阅读：
 
-[Preparing for UX Stakeholder Interviews](https://www.interaction-design.org/literature/article/preparing-for-ux-stakeholder-interviews)
+         * [Preparing for UX Stakeholder Interviews](https://www.interaction-design.org/literature/article/preparing-for-ux-stakeholder-interviews)
+         * [Better Stakeholder Interviews](http://cognition.happycog.com/article/better-stakeholder-interviews)
+         * [A Stakeholder Interview Checklist](http://boxesandarrows.com/a-stakeholder-interview-checklist/)
 
-[Better Stakeholder Interviews](http://cognition.happycog.com/article/better-stakeholder-interviews)
+   * User Interview 用户访谈
 
-[A Stakeholder Interview Checklist](http://boxesandarrows.com/a-stakeholder-interview-checklist/)
-
-
-         * User Interview 用户访谈
-
-用户访谈是一种常见的用户研究技术，通常用于从现有用户获取定性信息。用户访谈帮助UX设计师更好地了解他们的用户（用户的情感和意见）。当目标受众是新的或未知的团队时，这种技术尤其有用。
+      用户访谈是一种常见的用户研究技术，通常用于从现有用户获取定性信息。用户访谈帮助UX设计师更好地了解他们的用户（用户的情感和意见）。当目标受众是新的或未知的团队时，这种技术尤其有用。
 
 ![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/1.png)
 
-通常，研究人员与参与者进行一对一的讨论，深入讨论参与者对所讨论问题的看法。
+      通常，研究人员与参与者进行一对一的讨论，深入讨论参与者对所讨论问题的看法。
 
-拓展阅读：
-
-[Interviewing Users](https://www.nngroup.com/articles/interviewing-users/)
-
-[How to Conduct User Interviews](https://www.interaction-design.org/literature/article/how-to-conduct-user-interviews)
+     * 拓展阅读：
+         * [Interviewing Users](https://www.nngroup.com/articles/interviewing-users/)
+         * [How to Conduct User Interviews](https://www.interaction-design.org/literature/article/how-to-conduct-user-interviews)
 
 
-         * Kickoff Meeting 开幕会议
+   * Kickoff Meeting 开幕会议
 
 开幕会议涵盖了产品目的的高级大纲，谁参与设计和开发产品，如何共同合作，保持最新进展，以及预期成果或成功指标。 开幕会议为您的产品的成功奠定了基础。
 
