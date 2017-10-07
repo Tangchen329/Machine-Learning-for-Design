@@ -254,17 +254,18 @@
 
    * Kickoff Meeting 开幕会议
 
-      开幕会议涵盖了产品目的的高级大纲，谁参与设计和开发产品，如何共同合作，保持最新进展，以及预期成果或成功指标。 开幕会议为您的产品的成功奠定了基础。开幕会议是与项目团队和项目客户的第一次会议。
+      开幕会议涵盖了产品目的的高级大纲，谁参与设计和开发产品，如何共同合作，保持最新进展，以及预期成果或成功指标。 开幕会议为您的产品的成功奠定了基础。开幕会议是与项目团队和项目客户的第一次会议。
 
      * 拓展阅读：
          * [Hold A Kickoff Meeting Before Diving Into The Design](https://www.smashingmagazine.com/2015/01/hold-a-kickoff-meeting-before-diving-into-the-design/)
          * [How To Take Charge Of A UX Kickoff Meeting](https://www.smashingmagazine.com/2016/04/how-to-take-charge-of-a-ux-kickoff-meeting/)
 
+
    * Heuristic Evaluation 启发式评价
 
       启发式评价是对产品的详细分析，它突出了现有产品中好的和坏的设计实践。它有助于用户体验设计师在可用性、可访问性可视化产品的现状、经验和效果。
 
-![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/2.png)
+      ![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/2.png)
 
       视频资料：[How to evaluating the usability of your own website or product](https://youtu.be/3Zp6qzzCqeY)
 
