@@ -100,7 +100,24 @@
 ## Design Products & Services with AI & Machine Learning Embedded in
 
 ### Reference List
-* 机器学习和交互设计 [Machine Learning and UX](https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a5)
+* 机器学习和交互设计 [Machine Learning and UX](https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a)
+
+   > 与目标群体相对立的个人概念，它定义了用户体验与机器学习的必然联姻。
+
+      * 案例：迪士尼通过[腕带来为用户提供定制化的服务](https://www.wired.com/2015/03/disney-magicband/)。腕带通过收集大量主题公园游客的信息，再将相关的数据传送给员工，例如你的名字或者桌号，没有任何的物理接触和语言交流，通过设计让公园的参与感更强。![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/9-machine%20learning%20and%20ux/1.jpg)主题公园的设计者Dave Cobb 称未来可能会生成一个基于长时间记录的系统，，预期设计创造出每个人一个完全不同的体验。如果数据具体到一个人的地理、社会、历史甚至遗传背景 - 然后机器可以创建一个完全独特的和个人的经验。
+
+   > 通力合作服务用户
+
+   > 目前，设计师可以创造出引人注目的群体体验，但不考虑个人。针对个体的体验设计，需要机器学习来协助。![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/9-machine%20learning%20and%20ux/2.png)可以将聚类，用于分组数据的无监督机器学习过程。在未来我们会看到专门为设计师洞察数据生成的工具，现在的好的解决方法就是设计师与团队和公司的数据科学家合作将双方的发现和能力融入设计中。
+
+   > 设计师和数据科学家生活在一个意想不到的维恩图中。我认为这些团体的凝聚力会产生有趣的和令人惊喜的用户体验，当然在不久的将来（看不见的设计，由Amber Cartwright提出的一个概念，[进一步的页面]，似乎沿着这些线路的想法）。
+
+   > 对设计师而言的机会点:很明显，我认为机器学习只会增加未来设计师的工作量，但我们同样可以使用机器学习来帮助我们理解这一切。基于用户数据提取和提出见解的系统将变得正常和必要，特别是当数据集变得更大细粒度更高时。明智的界面对于我们人类来说是很自然的：对数据集的自然语言查询是我们想看到的，甚至可能以识别语音的机器人（如Jarvis）的形式出现。![1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/9-machine%20learning%20and%20ux/3.jpg)我希望看到这些机器人是专门设计和推理设计者关心的东西，比如用户反馈的情绪和可用性测试中特定疼痛点的提取。SQL查询和Python脚本的能力有限。
+
+   > 我们需要像人类那样能自然互动，但像机器一样思考的系统。这将有助于消除许多设计师在面对代码墙时所体验到的交互的心理障碍，同时还为我们提供了专门针对我们需要的代码的功能。
+
+   > 一个重点：在大多数人直接打开Google搜索答案的时候，对于设计师而言，现在是有机会定义这种关系将如何进展的时机。这是一个未经探索的边界正在等待着，不是被发现，而是由你和我去创造。
+
 * 关于机器学习的好的产品设计案例有哪些？ [Any good Product Design case studies that involve Machine Learning?](https://www.designernews.co/stories/75495-any-good-product-design-case-studies-that-involve-machine-learning)
     * [用可视化介绍机器学习](http://www.r2d3.us/%E5%9B%BE%E8%A7%A3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
 
