@@ -132,10 +132,10 @@
 
 * 将机器学习应用到设计上将会怎样？[What Happens When You Apply Machine Learning To Logo Design](https://www.fastcodesign.com/3058852/what-happens-when-you-apply-machine-learning-to-logo-design)
 
-     > 神经网络的兴起和生成式设计为设计师创造了新的机会。在[Mark Maker](http://emblemmatic.org/markmaker/#/about)（一个自动化生成logo系统）中，输入一个词。该系统然后使用遗传算法genetic algorithm，一种模仿自然选择的程序，以产生无止境的连续的标志。 当你喜欢一个标志，你点击一个爱心，它告诉系统生成更多的标志。通过喜欢足够的标志，概念里Mark Maker可以最终生成一个适合您需求的产品，而无需使用人类设计师。Mark Maker通过将每个设计打破一半来创建其标志，使其包含基本设计和特色元素。
+     > 神经网络的兴起和生成式设计为设计师创造了新的机会。在[Mark Maker](http://emblemmatic.org/markmaker/#/about)（一个自动化生成logo系统）中，输入一个词。该系统然后使用遗传算法genetic algorithm，一种模仿自然选择的程序，以产生无止境的连续的标志。 当你喜欢一个标志，你点击一个爱心，它告诉系统生成更多的标志。通过喜欢足够的标志，概念里Mark Maker可以最终生成一个适合您需求的产品，而无需使用人类设计师。Mark Maker通过将每个设计打破一半来创建其标志，使其包含基本设计和特色元素。
 
-     > ![gif1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/23-what%20happens%20when%20you%20apply%20ml%20to%20logo%20design/3058852-inline-i-1-this-bot-will-generate-millions-of-logos-until-you-find-the-perfect-one-copy.gif)
-     > ![p1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/23-what%20happens%20when%20you%20apply%20ml%20to%20logo%20design/屏幕快照%202017-08-29%20上午10.51.30.png)
+     ![gif1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/23-what%20happens%20when%20you%20apply%20ml%20to%20logo%20design/3058852-inline-i-1-this-bot-will-generate-millions-of-logos-until-you-find-the-perfect-one-copy.gif)
+     ![p1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/23-what%20happens%20when%20you%20apply%20ml%20to%20logo%20design/屏幕快照%202017-08-29%20上午10.51.30.png)
 
 * 为什么设计师和产品经理需要懂一点机器学习 [Why Should Designers And Product Managers Know About Machine Learning?](https://www.forbes.com/sites/quora/2017/04/07/why-should-designers-and-product-managers-know-about-machine-learning/#72cde9e07b28)
 * 对机器学习系统的用户体验进行设计[Designing the User Experience of Machine Learning Systems](https://mikek-parc.github.io/AAAI-UX-ML/)
