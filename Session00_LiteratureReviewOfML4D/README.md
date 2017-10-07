@@ -7,7 +7,7 @@
 ## Machine Learning Application in Design Process & Tools
 
 ### Reference List
-* 教机器画画  [Teaching Machines to Draw](https://research.googleblog.com/2017/04/teaching-machines-to-draw.html)  Thursday, April 13, 2017  Posted by David Ha, Google Brain Resident 
+:small_orange_diamond: 教机器画画  [Teaching Machines to Draw](https://research.googleblog.com/2017/04/teaching-machines-to-draw.html)  Thursday, April 13, 2017  Posted by David Ha, Google Brain Resident 
    
      > 抽象的视觉传达是人们传达彼此想法的关键部分。 从小时候开始，孩子们培养了用少量笔画来描绘物体甚至是情感的能力。 这些简单的绘画可能不像照片所捕获的现实那样，但它们告诉我们一些关于人们如何表现和重建周围世界的图像的方式。在论文《草图的神经表示》（《A Neural Representation of Sketch Drawings》）中，提出了一个生成递归神经网络(recurrent neural network)，能够产生普通物体的草图，目的是训练机器以类似于人类的方式绘制和概括抽象概念。我们在手绘草图的数据集上训练我们的模型，每一个草图代表一系列控制钢笔的动作：哪个方向移动，什么时候提起钢笔，何时停止画画。在这样做的过程中，创建了一个潜在的应用模型，从帮助艺术家的创作过程到帮助学生如何绘画。除此之外，即使在最简单的用例中，图案设计师可以通过sketch—RNN产生大量相似但独特的设计，用于纺织品或墙纸版画。如果将这一结果推广到应用程序中，这些应用程序可能有助于设计师创造性地设计出能与目标受众产生更多共鸣的抽象设计。也可以利用该神经网络来预测不同可能的最终草图，这种技术可能会给艺术家的创作过程带来帮助，因为系统可以推荐多种可选择的其他方式来完成一个不完整的草图。该系统中，可以看到如何使相同的圆形和方形的人物成为各种蚂蚁，一部分火烈鸟、直升机、猫头鹰、沙发甚至油漆刷。通过使用各种不同的模型来训练不同的对象，设计师可以探索创造性的方法来向观众传达有意义的视觉信息。这些模型还会带来许多令人兴奋的，应用在各种不同的方向的新创意。同时也还可以作为一种工具，帮助我们提高对自己创造性思维过程的理解。
 
