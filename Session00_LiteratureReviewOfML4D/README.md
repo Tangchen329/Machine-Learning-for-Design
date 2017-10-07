@@ -46,9 +46,7 @@
 
      > 这是智能设计团队的ITP计划（ITP是一个为期两年的,设在艺术学院的研究生课程：课程使命是通过探索通信技术的使用来探索如何利用技术让艺术更好地融入人们的生活。）：如何利用有才华的设计师和机器学习设计工具的协同来探索设计的案例。 智能设计团队由 [《Machine Learning forDesigners》](https://www.oreilly.com/learning/machine-learning-for-designers)的作者[Patrick Hebron](http://www.patrickhebron.com/)和[《Programming Design Systems》](https://programmingdesignsystems.com/)作者[Rune Madsen](https://runemadsen.com/)领头。 Patrick进行关于机器学习的指导，Rune进行关于设计系统的指导，引导着小组的表述和思考过程。
 
-     > 项目的设计挑战：设计一个logo
-     
-     > 围绕一个具体的logo设计项目展开，展示了在有无机器学习系统合作情况下的整个设计流程的差异。机器学习在收集资料，排版，设计调整的过程中都为设计师提供了帮助。
+     > 项目的设计挑战：设计一个logo, 围绕一个具体的logo设计项目展开，展示了在有无机器学习系统合作情况下的整个设计流程的差异。机器学习在收集资料，排版，设计调整的过程中都为设计师提供了帮助。
      
      > 1. 收集资料
      
@@ -61,6 +59,7 @@
      > 电脑会显示一些字体，全部都应用在客户的名称上，并根据需要选择您喜欢的字体，并进行多轮修订。
 
      > 3. 设计调整
+     
      > 你设计好之后，现在，由于这是您与计算机的第一个项目，它不知道您的风格或倾向，在未来的项目中将根据你曾经的设计对不同审美维度对你的设计风格进行加权。 它是审美的维度。设计师可以滑动样式参数（在左上方），并可以实时更新标志（右下方）。 设计师可以手工挑选图标和字体。 这3个类别中的任何一个需要被锁定，也是可以的。 例如，您有一种喜欢的字体，但您想将样式从“男性”更改为“女性”，不希望更改字体，就可以将字体锁定。
      
      > ![shejitiaozheng](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/7-What%20Machine%20Learning%20Will%20Do%20For%20Design/7-gDJM4PkGDrxogklI7m2cLg.png)
@@ -68,9 +67,8 @@
 
      > 总结：机器学习不是好的设计的灵丹妙药，也不是工作的破坏者。它仅仅是一种新工具。设计人员可以通过这个新的工作流程更舒适，在设计过程中，他们会更多的时间享受认知和创造性的过程，更少的时间待在设计创作的沉闷中。
 
-    * Project List
-    
-        * [演示视频][Video of ‘99designs.com’ onboarding](https://vimeo.com/185045206)
+    * Project List
+      * [演示视频][Video of ‘99designs.com’ onboarding](https://vimeo.com/185045206)
         
 * 在机器学习的时代重新思考设计工具 [Rethinking Design Tools in the Age of Machine Learning](https://medium.com/artists-and-machine-intelligence/rethinking-design-tools-in-the-age-of-machine-learning-369f3f07ab6c)
 
