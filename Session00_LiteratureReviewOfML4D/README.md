@@ -69,7 +69,7 @@
 
 
       * Project List
-         - 演示视频 [Video of ‘99designs.com’ onboarding](https://vimeo.com/185045206)
+         * 演示视频 [Video of ‘99designs.com’ onboarding](https://vimeo.com/185045206)
         
         
         
@@ -190,13 +190,12 @@
 * 最常见的用户体验设计的方法和技巧 [Most Common UX Design Methods and Techniques](https://uxplanet.org/most-common-ux-design-methods-and-techniques-c9a9fdc25a1e)
 
    * 介绍UX设计师为用户创造出极好的体验最常用的方法和技术。 对于列表中的每个项目，有一些最佳实践的链接。
-
-         * Value Proposition 核心价值主张
+      * Value Proposition 核心价值主张
 ![value](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/屏幕快照%202017-09-08%20下午5.45.55.png)
-            一个考虑成熟的价值主张帮助UX设计师把焦点集中在重要的事情上图片来源：uxmag
-            描述产品关键方面的声明：它是什么，它为谁设计，以及它将如何使用。价值主张有助于团队围绕产品的内容达成共识。
+      一个考虑成熟的价值主张帮助UX设计师把焦点集中在重要的事情上图片来源：uxmag
+      描述产品关键方面的声明：它是什么，它为谁设计，以及它将如何使用。价值主张有助于团队围绕产品的内容达成共识。
 
-               * 拓展阅读：[Value_proposition](https://en.wikipedia.org/wiki/Value_proposition)
+         * 拓展阅读：[Value_proposition](https://en.wikipedia.org/wiki/Value_proposition)
 [Communicating the UX Value Proposition](http://uxmag.com/articles/communicating-the-ux-value-proposition)
 ![Strategyzer’s Value Proposition Canvas Explained](https://youtu.be/ReM1uqmVfP0)
 
