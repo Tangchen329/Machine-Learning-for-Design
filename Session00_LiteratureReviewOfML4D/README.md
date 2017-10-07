@@ -185,36 +185,35 @@
 
 ## General Design Tools
 
+### Reference List
 
-#### 最常见的用户体验设计的方法和技巧 [Most Common UX Design Methods and Techniques](https://uxplanet.org/most-common-ux-design-methods-and-techniques-c9a9fdc25a1e)
+* 最常见的用户体验设计的方法和技巧 [Most Common UX Design Methods and Techniques](https://uxplanet.org/most-common-ux-design-methods-and-techniques-c9a9fdc25a1e)
 
-介绍UX设计师为用户创造出极好的体验最常用的方法和技术。 对于列表中的每个项目，有一些最佳实践的链接。
+   * 介绍UX设计师为用户创造出极好的体验最常用的方法和技术。 对于列表中的每个项目，有一些最佳实践的链接。
 
-#### - Value Proposition 核心价值主张
+         * Value Proposition 核心价值主张
 ![value](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/屏幕快照%202017-09-08%20下午5.45.55.png)
+            一个考虑成熟的价值主张帮助UX设计师把焦点集中在重要的事情上图片来源：uxmag
+            描述产品关键方面的声明：它是什么，它为谁设计，以及它将如何使用。价值主张有助于团队围绕产品的内容达成共识。
 
-一个考虑成熟的价值主张帮助UX设计师把焦点集中在重要的事情上图片来源：uxmag
-
-描述产品关键方面的声明：它是什么，它为谁设计，以及它将如何使用。价值主张有助于团队围绕产品的内容达成共识。
-
-拓展阅读：[Value_proposition](https://en.wikipedia.org/wiki/Value_proposition)
+               * 拓展阅读：[Value_proposition](https://en.wikipedia.org/wiki/Value_proposition)
 [Communicating the UX Value Proposition](http://uxmag.com/articles/communicating-the-ux-value-proposition)
 ![Strategyzer’s Value Proposition Canvas Explained](https://youtu.be/ReM1uqmVfP0)
 
 
-#### Product Strategy 产品战略
-产品战略是产品生命周期和进一步发展的执行计划的基础。它允许用户体验设计师瞄准特定目标受众,关注产品和消费属性。
+         * Product Strategy 产品战略
+            产品战略是产品生命周期和进一步发展的执行计划的基础。它允许用户体验设计师瞄准特定目标受众,关注产品和消费属性。
 
 ![product strategy](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/product%20stratgery.gif)
 ![video](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/屏幕快照%202017-09-18%20上午6.20.53.png)
 
-拓展阅读：[XD Essentials: How to Develop a Product Strategy](https://blogs.adobe.com/creativecloud/xd-essentials-how-to-develop-a-product-strategy/)
+               * 拓展阅读：[XD Essentials: How to Develop a Product Strategy](https://blogs.adobe.com/creativecloud/xd-essentials-how-to-develop-a-product-strategy/)
 
 [What is Good Product Strategy?](https://articles.uie.com/what-is-good-product-strategy/)
 
 [HOW TO DEVELOP A FOCUSED PRODUCT STRATEGY TO BACK UP YOUR UI/UX DECISIONS](https://www.invisionapp.com/blog/how-to-develop-a-product-strategy/)
 
-#### Competitive Audit竞争审计
+         * Competitive Audit竞争审计
 
 
 竞争审计是对竞争对手产品进行综合分析，以比较的方式描绘出它们的现有特征。竞争审计的目标是发现你所在行业中其他公司的工作情况，这样你就可以使这些战略为你工作，从而获得竞争优势。
@@ -230,7 +229,7 @@ Results of the audit for website
 
 
 
-#### Cultural Probes文化探索
+         * Cultural Probes文化探索
 
 文化探索是一种在设计过程中激发灵感的技术。它是收集关于人们生活、价值观和思想数据的一种手段。在极少的干扰的情况下，研究人员可以收集参与者的环境，帮助识别问题陈述，发现新的机会，并启发设计师提出新的想法和新的解决方案。
 
@@ -247,7 +246,7 @@ Results of the audit for website
 [Inside Your Users’ Minds: The Cultural Probe](https://alistapart.com/article/culturalprobe)
 
 
-#### Stakeholders Interviews 利益相关者
+         * Stakeholders Interviews 利益相关者
 
 利益相关者访谈中UX设计师对话他们的关键利益相关者：客户、上司、下属或同事。这个采访让UX设计师充分了解他们的相关利益者。它也有助于优化的特点和定义关键绩效指标（KPI）。
 
@@ -260,7 +259,7 @@ Results of the audit for website
 [A Stakeholder Interview Checklist](http://boxesandarrows.com/a-stakeholder-interview-checklist/)
 
 
-#### User Interview 用户访谈
+         * User Interview 用户访谈
 
 用户访谈是一种常见的用户研究技术，通常用于从现有用户获取定性信息。用户访谈帮助UX设计师更好地了解他们的用户（用户的情感和意见）。当目标受众是新的或未知的团队时，这种技术尤其有用。
 
@@ -275,7 +274,7 @@ Results of the audit for website
 [How to Conduct User Interviews](https://www.interaction-design.org/literature/article/how-to-conduct-user-interviews)
 
 
-#### Kickoff Meeting 开幕会议
+         * Kickoff Meeting 开幕会议
 
 开幕会议涵盖了产品目的的高级大纲，谁参与设计和开发产品，如何共同合作，保持最新进展，以及预期成果或成功指标。 开幕会议为您的产品的成功奠定了基础。
 
@@ -288,7 +287,7 @@ Results of the audit for website
 [How To Take Charge Of A UX Kickoff Meeting](https://www.smashingmagazine.com/2016/04/how-to-take-charge-of-a-ux-kickoff-meeting/)
 
 
-#### Heuristic Evaluation 启发式评价
+         * Heuristic Evaluation 启发式评价
 
 启发式评价是对产品的详细分析，它突出了现有产品中好的和坏的设计实践。它有助于用户体验设计师在可用性、可访问性可视化产品的现状、经验和效果。
 
@@ -309,7 +308,7 @@ Results of the audit for website
 [A Guide To Heuristic Website Reviews](https://www.smashingmagazine.com/2011/12/a-guide-to-heuristic-website-reviews/)
 
 
-#### Brainstorming 头脑风暴
+         * Brainstorming 头脑风暴
 
 头脑风暴作为一种产生想法和解决问题的方法被团队广泛使用。头脑风暴允许团队在决定要坚持哪一个方案之前，可视化一系列广泛的设计方案。
 
@@ -325,7 +324,7 @@ Results of the audit for website
 
 [Learn How to Use the Best Ideation Methods: Brainstorming, Braindumping, Brainwriting, and Brainwalking](https://www.interaction-design.org/literature/article/learn-how-to-use-the-best-ideation-methods-brainstorming-braindumping-brainwriting-and-brainwalking)
 
-#### Task Analysis  任务分析
+         * Task Analysis  任务分析
 
 为完成给定任务所需的操作的研究。当设计人员和开发人员试图理解当前系统及其信息流时，任务分析是有帮助的。它使得在新系统中适当分配任务成为可能。
 
@@ -341,7 +340,7 @@ Results of the audit for website
 
 
 
-#### Product Roadmap 产品路线图
+         * Product Roadmap 产品路线图
 
 产品路线图是一种具有优先级特性的产品进化计划。它可能是一个电子表格，一张图表，甚至是一堆便签。UX设计师与团队和道路，要实现其愿景的产品策略。
 
@@ -354,7 +353,7 @@ Results of the audit for website
 [5 Tips from 5 PMs to Improve Your Team’s Product Roadmap](https://www.uxpin.com/studio/blog/5-tips-from-5-pms-to-improve-your-product-roadmap/)
 
 
-#### Focus Groups 焦点小组
+         * Focus Groups 焦点小组
 
 焦点小组是一个中等强度的讨论，通常涉及5到10个参与者。带领人们讨论问题和关注用户界面的特性。通常持续约2小时，由一名维持该小组重点的版主主持。
 
@@ -371,7 +370,7 @@ Results of the audit for website
 [Myth #26: Usability testing = focus groups](http://uxmyths.com/post/1319999199/myth-26-usability-testing-focus-groups)
 
 
-#### Card Sorting 卡片分类
+         * Card Sorting 卡片分类
 
 卡片分类是用来帮助设计或评估产品信息架构的一种方法。UX设计师要求用户组的内容和功能的开放或封闭的类。结果用来帮助UX设计师决定输入内容的层次结构，组织和流程。
 
@@ -388,7 +387,7 @@ Results of the audit for website
 [The Pros and Cons of Card Sorting in UX Research](https://www.interaction-design.org/literature/article/the-pros-and-cons-of-card-sorting-in-ux-research)
 
 
-#### Usability Testing  可用性分析
+         * Usability Testing  可用性分析
 
 可用性测试是观察用户试图用产品执行任务的过程。测试可以集中在一个单一的过程，或者更为广泛。
 
@@ -398,8 +397,7 @@ Results of the audit for website
 
 [How to Conduct Usability Testing from Start to Finish](https://uxmastery.com/beginners-guide-to-usability-testing/)
 
-
-#### Concept Testing 概念测试
+         * Concept Testing 概念测试
 
 用户体验研究员参与提出产品的一个新概念的价值主张以决定是否符合目标受众的需求。概念测试可以是一对一的，也可以面向大量参与者，可以是面对面的，也可以是在线的。
 
@@ -410,7 +408,7 @@ Results of the audit for website
 [5 myths of concept testing: What clients need to know](https://effectiveinc.com/thought-leadership/blogs/5-myths-concept-testing-clients-need-know/)
 
 
-#### A/B Test
+         * A/B Test
 
 A / B测试向不同的用户提供产品的替代版本，并比较结果，以便找出哪一个效果更好。 这是一个优化渠道和着陆页的好方法。
 
@@ -423,7 +421,7 @@ A / B测试向不同的用户提供产品的替代版本，并比较结果，以
 [The Ultimate Guide To A/B Testing](https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/)
 
 
-#### Guerrilla Testing 游击队测试
+         * Guerrilla Testing 游击队测试
 
 游击队测试是用户测试中最简单（最便宜）的形式之一。 使用游击测试通常意味着进入咖啡店或另一个公共场所，向有关您的产品或原型的人员询问。 它可以在咖啡馆，图书馆，火车站等的任何地方进行，在任何可以找到相关观众的地方。
 
@@ -436,7 +434,7 @@ A / B测试向不同的用户提供产品的替代版本，并比较结果，以
 [7 Step Guide to Guerrilla Usability Testing: DIY Usability Testing Method](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method)
 
 
-#### Field Studies 田野调研
+         * Field Studies 田野调研
 
 田野调研是用于观察用户在野外的行为，以便在实际使用产品的情况下衡量行为。这种技术可以包括人种学研究，访谈和观察，加上上下文调查。
 
@@ -449,7 +447,7 @@ A / B测试向不同的用户提供产品的替代版本，并比较结果，以
 [Field Studies Done Right: Fast and Observational](https://www.nngroup.com/articles/field-studies-done-right-fast-and-observational/)
 
 
-#### Eye Movement Tracking 眼动追踪
+         * Eye Movement Tracking 眼动追踪
 
 一种通过界面布局分析用户眼球运动的技术（即网页）。眼动研究提供的数据，让用户在屏幕上的兴趣和他们的阅读流量可优化设计。
 
@@ -462,7 +460,7 @@ A / B测试向不同的用户提供产品的替代版本，并比较结果，以
 [Eye Tracking: What Is It For And When To Use It](http://usabilitygeek.com/what-is-eye-tracking-when-to-use-it/)
 
 
-#### SWOT Analysis  SWOT分析
+         * SWOT Analysis  SWOT分析
 评估影响产品用户体验的优势、劣势、机会和威胁。
 
 ![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/11.png)
@@ -475,20 +473,16 @@ UX用于着陆页的SWOT分析。
 
 
 
-#### Accessibility Audit 可访问性审查
-衡量是否每个人都可以使用网站的研究，包括有特殊需求的用户。它应该遵循W3C指南，以确保所有用户都满意。
-
+         * Accessibility Audit 可访问性审查
+            衡量是否每个人都可以使用网站的研究，包括有特殊需求的用户。它应该遵循W3C指南，以确保所有用户都满意。
 ![culture probes](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/5-most%20common%20ux%20design%20methods%20and%20techniques/12.jpg)
 
-在可用性和可访问性方面的最终目标是发现人们如何轻松地使用产品，并将信息反馈到改进未来的设计和实施中。
+            在可用性和可访问性方面的最终目标是发现人们如何轻松地使用产品，并将信息反馈到改进未来的设计和实施中。
 
-拓展阅读：
-
-[Accessibility testing](https://www.w3.org/wiki/Accessibility_testing)
-
-[Myth #5: Accessibility is expensive and difficult](http://uxmyths.com/post/654091803/myth-5-accessibility-is-expensive-and-difficult)
-
-[A Complete List Of UX Deliverables](https://uxplanet.org/a-complete-list-of-ux-deliverables-d62ccf1de434)
+            * 拓展阅读：
+               * [Accessibility testing](https://www.w3.org/wiki/Accessibility_testing)
+               * [Myth #5: Accessibility is expensive and difficult](http://uxmyths.com/post/654091803/myth-5-accessibility-is-expensive-and-difficult)
+               * [A Complete List Of UX Deliverables](https://uxplanet.org/a-complete-list-of-ux-deliverables-d62ccf1de434)
 
 
 
