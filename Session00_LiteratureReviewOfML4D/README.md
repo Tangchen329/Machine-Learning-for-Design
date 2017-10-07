@@ -71,6 +71,8 @@
       * Project List
          - 演示视频 [Video of ‘99designs.com’ onboarding](https://vimeo.com/185045206)
         
+        
+        
 * 在机器学习的时代重新思考设计工具 [Rethinking Design Tools in the Age of Machine Learning](https://medium.com/artists-and-machine-intelligence/rethinking-design-tools-in-the-age-of-machine-learning-369f3f07ab6c)
 
 * 机器学习：AI和设计的光速发展  [Machine Learning: The Speed-of-Light Evolution of AI and Design](https://redshift.autodesk.com/machine-learning/) by JEFF WALSH  
