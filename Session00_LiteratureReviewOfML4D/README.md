@@ -7,7 +7,7 @@
 ## Machine Learning Application in Design Process & Tools
 
 ### Reference List
-   * 教机器画画  [Teaching Machines to Draw](https://research.googleblog.com/2017/04/teaching-machines-to-draw.html)  Thursday, April 13, 2017  Posted by David Ha, Google Brain Resident 
+* 教机器画画  [Teaching Machines to Draw](https://research.googleblog.com/2017/04/teaching-machines-to-draw.html)  Thursday, April 13, 2017  Posted by David Ha, Google Brain Resident 
    
      > 抽象的视觉传达是人们传达彼此想法的关键部分。 从小时候开始，孩子们培养了用少量笔画来描绘物体甚至是情感的能力。 这些简单的绘画可能不像照片所捕获的现实那样，但它们告诉我们一些关于人们如何表现和重建周围世界的图像的方式。在论文《草图的神经表示》（《A Neural Representation of Sketch Drawings》）中，提出了一个生成递归神经网络(recurrent neural network)，能够产生普通物体的草图，目的是训练机器以类似于人类的方式绘制和概括抽象概念。我们在手绘草图的数据集上训练我们的模型，每一个草图代表一系列控制钢笔的动作：哪个方向移动，什么时候提起钢笔，何时停止画画。在这样做的过程中，创建了一个潜在的应用模型，从帮助艺术家的创作过程到帮助学生如何绘画。除此之外，即使在最简单的用例中，图案设计师可以通过sketch—RNN产生大量相似但独特的设计，用于纺织品或墙纸版画。
 如果将这一结果推广到应用程序中，这些应用程序可能有助于设计师创造性地设计出能与目标受众产生更多共鸣的抽象设计。也可以利用该神经网络来预测不同可能的最终草图，这种技术可能会给艺术家的创作过程带来帮助，因为系统可以推荐多种可选择的其他方式来完成一个不完整的草图。该系统中，可以看到如何使相同的圆形和方形的人物成为各种蚂蚁，一部分火烈鸟、直升机、猫头鹰、沙发甚至油漆刷。通过使用各种不同的模型来训练不同的对象，设计师可以探索创造性的方法来向观众传达有意义的视觉信息。这些模型还会带来许多令人兴奋的，应用在各种不同的方向的新创意。同时也还可以作为一种工具，帮助我们提高对自己创造性思维过程的理解。
@@ -119,7 +119,16 @@
 * 对设计师有帮助的机器学习的应用 [Applications Of Machine Learning For Designers](https://www.smashingmagazine.com/2017/04/applications-machine-learning-designers/) By Lassi Liikkanen
 * 为什么设计师和产品经理需要懂一点机器学习 [Why Should Designers And Product Managers Know About Machine Learning?](https://www.forbes.com/sites/quora/2017/04/07/why-should-designers-and-product-managers-know-about-machine-learning/#72cde9e07b28)
 * 对机器学习系统的用户体验进行设计[Designing the User Experience of Machine Learning Systems](https://mikek-parc.github.io/AAAI-UX-ML/)
+
 * [为男人们提供个性化服饰搭配，英国电商 Thread 获 800 万美金 A 轮融资](https://36kr.com/p/5036946.html)
+
+     > 电商平台 Thread 试图采用造型顾问+机器算法的方式，来为想要穿得得体一些，却又不爱逛街的男士提供个性化的商品建议。
+
+     > 网站首先会让用户填写一个问卷，问卷内容包括：你平时会出现在哪些场合？你钟爱的品牌和风格？尺码，价格，色彩？ 随后，Thread 的造型师通过了解问卷获得的数据和上传的照片，来得出适合顾客的大致搭配方案，随后机器算法将按照造型师给出的方案导出顾客所选价格范围内最合适的商品。Thread 在购买评价上设置了多个具体的选项，比如”我不喜欢领子的设计”、“我不喜欢衣服的面料”。目的是通过这些反馈信息，进一步优化下次的商品推荐结果，让平台变得越来越“懂”你。每周，Thread 都会发送一批新的个性化商品促销信息给用户，同时网站的造型师也在线上随时待命、提供一对一的咨询服务。
+
+     > 由于涉及SKU众多，且多为非标品，Thread 并未采用自营“重”模式，而是多品牌达成合作关系，由官网直接发货。
+
+![thread](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/37--%20Thread/屏幕快照%202017-09-19%20上午12.26.11.png)
 
 
 
@@ -174,7 +183,7 @@
 
 -------------------------------------------------------------------
 
-### General Design Tools
+## General Design Tools
 
 
 #### 最常见的用户体验设计的方法和技巧 [Most Common UX Design Methods and Techniques](https://uxplanet.org/most-common-ux-design-methods-and-techniques-c9a9fdc25a1e)
