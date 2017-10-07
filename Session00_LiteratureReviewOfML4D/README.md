@@ -182,6 +182,19 @@
 
 *  自动化将淘汰平面设计师？未来该选择什么职业？[Automation Threatens to Make Graphic Designers Obsolete - So what kind of career should you expect to have in future?](https://eyeondesign.aiga.org/automation-threatens-to-make-graphic-designers-obsolete/) by Rob Peart  :page_facing_up:
 
+     > 设计师做的很多事情都是依托规范的。 我们在设定的屏幕尺寸和分辨率下工作，使用按比例计算的网格标准化纸张格式。 我们使用数字序列化和索引的颜色，并可以通过数学计算开发成色系。 我们可以从在线访问的字体创建类型样式的调色板，可以根据历史发展和类型进行分类，并根据基础单位进行布局。 这些部件是模块化和机械的，可以完美实现自动化的。 而且我们目前的工作流程很多都是非常自动化的 - 比如排版。
+
+     > 20世纪50年代以来，随着每个技术大规模的发展，随之而来的是设计师的角色的演变。严格定义的任务可以通过编码生成的严格定义的程序输出来自动实现。 这些算法已经在设计和创作中被使用了一段时间。
+
+     > 伦敦的[Field](https://www.field.io/)工作室将这种自动化方法应用于高度创造性的领域，其工作将艺术，技术天赋和敏锐的美学结合在一起。 该工作室[为纸张公司GF史密斯的设计](https://www.field.io/project/digital-paintings/)是一个有趣的例子，是在一个商业图形设计环境中应用的算法增强过程。 Field通过一种算法创建了一个数字3D结构，从各种角度和优势点渲染了超过10,000个这样的结构图像。 该过程的最后部分是手动编辑程序的输出，确保每个图像都足够令人惊叹，以便商业使用。 真正实现了的设计师和算法的协作。
+
+     > 设计师Jon Gold 一直在研究将机器学习技术应用于标准图形设计程序。 机器学习是开发机器智能的一种方法，百度研究首席科学家Andrew Ng和Google Brain项目的创始人将机器学习定义为“在不需要明确编程的情况下，用科学让计算机学习。“Gold使用这种方法分析字体和排版趋势，并根据计算机学到的内容生成不太可能的类型配对。 他在他的文章[《让机器人进入设计学校》](http://www.jon.gold/2016/05/robot-design-school/)中描述了他的探索。虽然Gold的工作可能看起来很好，并适用于狭窄的AI频谱，但它给了我们一个可以期待的未来工作流的样子。 很容易忘记的是一旦通过掌握特定区域创建了模型，它就可以嵌入并与其他可能已经在非常不同的问题类型的颜色理论或组合上进行了训练的模型相结合。
+
+     > 他写道，“瞥一眼未来后再看现在的设计工具是令人沮丧的。 在我们的软件中完全缺乏语境和工业意识。 工具操纵字符串，向量和布尔值而不是设计 。但是，工具是影响变革的最重要的地方。
+
+     > “我正在构建将智能算法与设计过程相结合的设计工具; 这种设计工具通过了解设计师在做什么从而让他们更好。 助力设计师而不是取代他们。”
+
+
 
 
 *  机器学习如何加速设计周期 [HOW MACHINE LEARNING CAN SPEED UP YOUR DESIGN CYCLE](https://www.maximintegrated.com/en/design/blog/machine-learning-can-speed-up-design-cycle.html) by Christine Young  :page_facing_up:
