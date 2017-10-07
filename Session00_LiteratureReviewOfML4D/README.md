@@ -195,9 +195,9 @@
       一个考虑成熟的价值主张帮助UX设计师把焦点集中在重要的事情上图片来源：uxmag
       描述产品关键方面的声明：它是什么，它为谁设计，以及它将如何使用。价值主张有助于团队围绕产品的内容达成共识。
 
-         * 拓展阅读：[Value_proposition](https://en.wikipedia.org/wiki/Value_proposition)
-[Communicating the UX Value Proposition](http://uxmag.com/articles/communicating-the-ux-value-proposition)
-![Strategyzer’s Value Proposition Canvas Explained](https://youtu.be/ReM1uqmVfP0)
+      拓展阅读：[Value_proposition](https://en.wikipedia.org/wiki/Value_proposition)
+               [Communicating the UX Value Proposition](http://uxmag.com/articles/communicating-the-ux-value-proposition)
+               [Strategyzer’s Value Proposition Canvas Explained](https://youtu.be/ReM1uqmVfP0)
 
 
          * Product Strategy 产品战略
