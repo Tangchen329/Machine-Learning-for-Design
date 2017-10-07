@@ -16,7 +16,7 @@
      > 2. 除了预测不完整的图形之外，sketch-rnn也可以从一个图形变换到另一个图形。在插值演示中，你可以使用屏幕两侧的按钮来随机生成两个图像。模型将绘出多种新的绘图，它被认为是两个原始图纸之间的插值。[ Interpolation Demo](https://magenta.tensorflow.org/assets/sketch_rnn_demo/interp.html)    
      > 3. 该模型还可以模仿你的风格并生产类似的涂鸦。在Variational Autoencoder演示中，你将绘制一个指定对象的完整图形。在左侧区域绘制完草图后，点击自动编码按钮，模型将在右侧较小的框中绘制类似的草图。神经网络将尝试模仿你的绘图。您可以尝试不是您应该绘制的类别的绘图对象，并查看模型如何解释您的绘图。例如，尝试画一只猫，并有一个模型训练来绘制螃蟹，生成类似猫的螃蟹。[ Variational Autoencoder](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_vae.html)
 
-      * Project List
+     * Project List
          * 跟神经网络一起画画  [Draw Together with a Neural Network](https://magenta.tensorflow.org/sketch-rnn-demo) Thursday, April 13, 2017  Posted by David Ha, Google Brain Resident  
          * [Sketch-RNN Demos - Draw together with a neural network](https://aiexperiments.withgoogle.com/sketch-rnn-demo)
          * [Sketch-RNN Demos](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_vae.html)
@@ -30,7 +30,12 @@
         
 *  [Webs of Influence: The Psychology of Online Persuasion, 2nd Edition](https://www.safaribooksonline.com/library/view/webs-of-influence/9781292134628/?imm_mid=0f4ac0&cmp=em-design-na-na-newsltr_20170725_test)
 
+
+
 * 谷歌AutoDraw 让每个人都是设计师 [Google AutoDraw uses machine learning to make a designer out of anyone](http://www.androidpolice.com/2017/04/11/google-autodraw-uses-machine-learning-make-designer-anyone/)by Scott Scrivens
+
+
+
 
 * 将机器学习应用到设计上将会怎样？[What Happens When You Apply Machine Learning To Logo Design](https://www.fastcodesign.com/3058852/what-happens-when-you-apply-machine-learning-to-logo-design)
 
@@ -41,6 +46,8 @@
      ![p1](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/23-what%20happens%20when%20you%20apply%20ml%20to%20logo%20design/屏幕快照%202017-08-29%20上午10.51.30.png)
 
 
+
+
 * 将机器学习应用于设计  [Designing with Machine Learning](https://www.wework.com/zh-CN/blog/posts/designing-with-machine-learning)   by Nicole Phelan
 
     > 将机器学习用于评价建筑布局，这在设计产业上是非常新颖的。使用技术：ANN（Artificial Neural Network）人工神经网络。神经网络收集有关建筑物布局的数据（左），(提供的数据包括：办公室数量；办公室空间尺寸；会议室数量；会议室里的设备；)并将这些数据提供给一系列已经训练过，能够识别建筑物布局中的差异的人工神经元（中间）。基于神经元已经接触到的其他布局，神经网络作出预测得到会议室的利用率（右）。提供的数据包括：办公室数量；办公室空间尺寸；会议室数量；会议室里的设备；![p2](https://github.com/Tangchen329/Machine-Learning-for-Design/blob/master/Session00_LiteratureReviewOfML4D/Pictures/26-Designing%20with%20machine%20learning/屏幕快照%202017-09-19%20上午10.06.01.png)
@@ -49,6 +56,23 @@
     
     
 * Adobe将AI应用于网页自动设计，你感受到危机感了吗？  BY NEAL UNGERLEIDER  [Adobe Is Building An AI To Automate Web Design. Should You Worry?](https://www.fastcodesign.com/3068884/adobe-is-building-an-ai-to-automate-web-design-should-you-worry)
+
+    > Adobe正在尝试将机器学习和人工智能应用到图形和网页设计上，一个未透露名字的实验项目正在创造工具来自动完成设计师的任务，例如剪裁图片，设计网站页面等。这项研究采用[ Adobe’s AI and machine learning program Sensei]（http://www.adobe.com/sensei.html#x），融合进Adobe Experience Manager CMS，这项功能在Adobe2016年3月的Sneaks（https://blogs.adobe.com/conversations/2016/11/lets-get-experimental-behind-the-adobe-max-sneaks.html） 大赛上亮相。虽然Adobe还没有宣称将这项技术融合进任何产品中，但这是将机器学习应用于平面设计的尝试中最有野心的一种。在设计领域里，已经有过将AI引入的案例，例如Wix的 [Advance Design Intelligence](https://www.fastcodesign.com/3060934/can-you-teach-ai-to-design-wix-is-trying)和自动化项目 [Mark Maker] (https://www.fastcodesign.com/3058852/what-happens-when-you-apply-machine-learning-to-logo-design)
+
+    > - 将机器学习用于网页设计 
+
+    > 该平台的核心目标是更方便地为大型企业客户定制网站。 演示时是用机器学习和AI技术来编辑Food Network的网页。平台不由设计者决定布局，颜色，照片和照片大小，而是自动分析所有的输入，并向用户推荐设计元素。 使用图像识别技术，自动化进行裁剪照片等基础操作，用AI推荐页面设计。 使用客户端数据库中已经存在的照片（以及附加在这些照片上的元数据），AI再次分层到Adobe的CMS中，就可以为设计人员在设计要素和自定义设置上提出建议。
+
+    > 据Adobe Marketing Cloud的产品管理总监Cedric Huesler介绍，该项目旨在提供所谓的“增强人性化”的设计。 AI提供建议，设计人员可以手动覆盖。“问题显然是个性化的规模，”Huesle称“我们可以通过提供不同的输入来重复相同的过程” - 一旦实施，机器学习工具可以在让大型企业用户快速生成定制的内容。 在像食品网络这样的大型企业客户的情况下，Adobe表示，部分自动化使他们能够为客户创造更自定义的网络和移动体验，比其他方式更快速，更经济实惠。
+
+    > - 基于模式和行为发现观众
+    
+    > AI旨在使大型项目的设计更容易。 它包括自动裁剪或以其他方式编辑照片的图像识别组件和依赖于文本元数据进行设计决策的更常规组件。Huesler指出，在食品网络示例中，内容可以立即为用户定制。 例如，活动行为表明是乳糖不耐受或不耐麸质的用户将会看到不同的食谱和图像。 机器学习平台实际上不会处理重新绘制界面并进行复杂的UI或UX决策等重大决定。 但是，例如，它可以帮助快速确定将哪些照片和文本内容移植到专为非常小的用户段设计的页面上。
+
+    > Adobe Marketing Cloud产品高级总监Steve Hammond表示：“每个品牌都想做个性化设计。” “他们希望使内容与个人和观众相关，但是当您扩展您创建内容的受众时，您将面临两个瓶颈：您如何创建内容的变体，以及如何为他们创建图像？”他说，这些瓶颈是机器学习可以帮助解决的问题。机器学习世界的一个旧主题在这里被拾起。 在网页设计和图形设计的情况下，机器学习有助于自动化繁琐乏味的任务。[机器学习完成繁琐]（https://www.fastcodesign.com/3067411/technology-forces-us-to-do-things-were-bad-at-time-to-change-how-design-is-done） 
+
+    > 平面设计师绝大多数都不用担心算法很快就会窃取他们的工作，因为机器学习仅是对于了解大数据集和提出建议是非常有用的，但分析诸如品味等主观事物是非常糟糕的。 尽管如此，重要的是要注意，繁琐乏味的任务包含了设计界进行的大部分入门级工作。 可以肯定的是，在未来几年里，机器学习工具将被用于入门级员工现在所做的许多任务。
+
 
 
 * 机器学习将为设计带来什么 [What Machine Learning Will Do For Design](https://medium.com/emergent-future/what-machine-learning-will-do-for-design-42661096f21) by Eve Weinberg
