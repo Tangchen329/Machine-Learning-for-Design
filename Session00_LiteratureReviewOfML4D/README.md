@@ -59,13 +59,13 @@
 
     > Adobe正在尝试将机器学习和人工智能应用到图形和网页设计上，一个未透露名字的实验项目正在创造工具来自动完成设计师的任务，例如剪裁图片，设计网站页面等。这项研究采用[ Adobe’s AI and machine learning program Sensei]（http://www.adobe.com/sensei.html#x），融合进Adobe Experience Manager CMS，这项功能在Adobe2016年3月的Sneaks（https://blogs.adobe.com/conversations/2016/11/lets-get-experimental-behind-the-adobe-max-sneaks.html） 大赛上亮相。虽然Adobe还没有宣称将这项技术融合进任何产品中，但这是将机器学习应用于平面设计的尝试中最有野心的一种。在设计领域里，已经有过将AI引入的案例，例如Wix的 [Advance Design Intelligence](https://www.fastcodesign.com/3060934/can-you-teach-ai-to-design-wix-is-trying)和自动化项目 [Mark Maker] (https://www.fastcodesign.com/3058852/what-happens-when-you-apply-machine-learning-to-logo-design)
 
-    > - 将机器学习用于网页设计 
+    > 将机器学习用于网页设计 
 
     > 该平台的核心目标是更方便地为大型企业客户定制网站。 演示时是用机器学习和AI技术来编辑Food Network的网页。平台不由设计者决定布局，颜色，照片和照片大小，而是自动分析所有的输入，并向用户推荐设计元素。 使用图像识别技术，自动化进行裁剪照片等基础操作，用AI推荐页面设计。 使用客户端数据库中已经存在的照片（以及附加在这些照片上的元数据），AI再次分层到Adobe的CMS中，就可以为设计人员在设计要素和自定义设置上提出建议。
 
     > 据Adobe Marketing Cloud的产品管理总监Cedric Huesler介绍，该项目旨在提供所谓的“增强人性化”的设计。 AI提供建议，设计人员可以手动覆盖。“问题显然是个性化的规模，”Huesle称“我们可以通过提供不同的输入来重复相同的过程” - 一旦实施，机器学习工具可以在让大型企业用户快速生成定制的内容。 在像食品网络这样的大型企业客户的情况下，Adobe表示，部分自动化使他们能够为客户创造更自定义的网络和移动体验，比其他方式更快速，更经济实惠。
 
-    > - 基于模式和行为发现观众
+    > 基于模式和行为发现观众
     
     > AI旨在使大型项目的设计更容易。 它包括自动裁剪或以其他方式编辑照片的图像识别组件和依赖于文本元数据进行设计决策的更常规组件。Huesler指出，在食品网络示例中，内容可以立即为用户定制。 例如，活动行为表明是乳糖不耐受或不耐麸质的用户将会看到不同的食谱和图像。 机器学习平台实际上不会处理重新绘制界面并进行复杂的UI或UX决策等重大决定。 但是，例如，它可以帮助快速确定将哪些照片和文本内容移植到专为非常小的用户段设计的页面上。
 
