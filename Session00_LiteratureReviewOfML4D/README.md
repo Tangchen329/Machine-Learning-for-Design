@@ -464,7 +464,7 @@
      
 * [设计与人工智能报告](https://zhuanlan.zhihu.com/p/26610724) :page_facing_up:
 
-
+* [Logojoy：用人工智能完成标志设计](http://techcrunch.cn/2016/12/02/logojoy-makes-designers-unemployed/)
 
 -------------------------------------------------------------------
 
